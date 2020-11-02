@@ -37,10 +37,10 @@ http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources
 
 I Nicholas D'Artagnan Dumas demand an injunction on the 2020 Federal Presidential Election; predicated upon unfair practices by Federal and State Agencies.
 
-## Residence
+## Residence - ANIMUS MANENDI. The intention of remaining.
 The following institutions failed to provide services based upon, what appears to be, a Patriot Act stipulation for a Physical Residence Address: Federal Elections Commission, FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America), USPS (PostNet, UPS), DMV, IRS, EDD, Blood Bank, +others
 
-2018: I, Nicholas D'Artagnan Dumas, was asked to lie, at multiple DMV's and Banks, about my residence address while being 'shelterless' with no, permitted, physical residence address; barring the ability to: receive private mail, open a bank account / safety deposit box, file for unemployment, receive stimulus, or register properly with the FEC.
+2018: I, Nicholas D'Artagnan Dumas, was asked to lie, at multiple DMV's and Banks, about my residence address while being 'shelterless' with no, permitted, physical residence address; barring the ability to: receive private mail, open a bank account / safety deposit box, file for unemployment, receive stimulus, or register, timely and properly, with the FEC.
 
 Traveling individuals, while residents, without specific residential street addresses are barred from participating in the elections due to inadequate implementations.
 
@@ -53,7 +53,7 @@ Traveling individuals, while residents, without specific residential street addr
 ## Presidency
 9 States bar Write-in candidates.
 
-Supplemental information can be found on confiscated hardware by the NOPD; after the police shooting on Royal Street in New Orleans, Louisiana.
+Supplemental information can be found on confiscated hardware by the NOPD; after the police shooting on Royal Street in New Orleans, Louisiana https://mobile.twitter.com/wwltv/status/1322369591885090817?s=10 @ https://www.youtube.com/watch?v=7cezZkvw718 see me recording w/ Adeline (the puppy).
 
 FEC requires a "Physical Residence Address" Barring Nicholas D'Artagnan Dumas from registering timely.
 [Nicholas D'Artagnan Dumas FEC reg](https://www.fec.gov/data/candidate/P00017343/?cycle=2020&election_full=true)
