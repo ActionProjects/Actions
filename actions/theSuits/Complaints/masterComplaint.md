@@ -6,24 +6,30 @@ Injunction - Federal, Presidential Election
 Subpoena / FOIA / Warrant
 
 ## Issues Under:
-RICO Act
-False Claims Act
-1st Addendum
-4th Addendum
-5th Addendum
-6th Addendum
-8th Addendum
-9th Addendum
-12th Addendum vs. 17th
-13th Addendum
-14th Addendum
-15th, 17th, & 26th Addendums
-16th Addendum
-Access to Courts
+### RICO Act
+### False Claims Act
+### 1st Addendum
+	Infringment on Campaign & Artistic Displays
+### 4th Addendum
+	unreasonable searches and seizures
+### 5th & 15th Addendums
+	Due Process	
+### 6th Addendum
+	Right to know accusers (NOPD, LAState Troopers, Parking, SPCA)
+### 8th Addendum
+	 imposing excessive bail, excessive fines, or cruel and unusual punishments.
+### 9th Addendum
+	specific enumerations
+### 12th Addendum vs. 17th
+	Presidential Election Process -> Electoral vs. Direct
+### 13th & 16th Addendums
+	income tax is slavery
+### 15th, & 26th Addendums
+	Resident Travelers issues
+### Access to Courts
 	https://www.law.cornell.edu/constitution-conan/article-4/section-2/clause-1/access-to-courts
 	https://en.wikipedia.org/wiki/Freedom_of_movement
 	~ Paul v. Virginia, 75 U.S. 168 (1869)
-
 
 http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources
 	filing under organization at [https://github.com/ActionProjects/Actions](https://github.com/ActionProjects/Actions)
@@ -37,6 +43,12 @@ The following institutions failed to provide services based upon, what appears t
 2018: I, Nicholas D'Artagnan Dumas, was asked to lie, at multiple DMV's and Banks, about my residence address while being 'shelterless' with no, permitted, physical residence address; barring the ability to: receive private mail, open a bank account / safety deposit box, file for unemployment, receive stimulus, or register properly with the FEC.
 
 Traveling individuals, while residents, without specific residential street addresses are barred from participating in the elections due to inadequate implementations.
+
+>      RESIDENCE. The place of one's domicil. (q.v.) There is a difference between a man's residence and his domicil. He may have his domicil in Philadelphia, and still he may have a residence in New York; for although a man can have but one domicil, he may have several residences. A residence is generally transient in its nature, it becomes a domicil when it is taken up animo manendi. Roberts; Ecc. R. 75.
+
+>     2. Residence is prima facie evidence of national character, but this may at all times be explained. When it is for a special purpose and transient in its nature, it does not destroy the national character.
+~ West's Encyclopedia of American Law, edition 2. S.v. "residence." Retrieved November 2 2020 from [https://legal-dictionary.thefreedictionary.com/Residence](https://legal-dictionary.thefreedictionary.com/Residence)
+
 
 ## Presidency
 9 States bar Write-in candidates.
