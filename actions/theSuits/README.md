@@ -1,5 +1,5 @@
 # the SUITS
-## I have encountered injustice ~~with regards to residence.~~
+## I have encountered injustice.
 
 [Complaints](/storage/emulated/0/Documents/markor/theSuits/Complaints/LA/NewOrleans/FrMkt/LA_NOLA.md)
 
