@@ -1,8 +1,7 @@
-[complaint](../complaint_NOLA.md) = [LA_NOLA](LA_NOLA.md)
+[complaint](complaint_NOLA.md) = [LA_NOLA](LA_NOLA.md)
 
 # Statement of Claim
-
-## [Residence](..\..\..\..\Residence\resSoC.md)
+## [Residence](./actions/pages/theSuits/Residence/resSoC.md)
 The following institutions failed to provide services based upon, what appears to be, a Patriot Act stipulation for a Physical Residence Address:
 Federal Elections Commission, FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America), USPS (PostNet, UPS), DMV, IRS, EDD, Blood Bank, +others
 
