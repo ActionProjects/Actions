@@ -2,7 +2,7 @@
 
 # Statement of Claim
 
-## [Residence](..\..\Residence\resSoC.md)
+## [Residence](..\..\..\Residence\resSoC.md)
 The following institutions failed to provide services based upon, what appears to be, a Patriot Act stipulation for a Physical Residence Address:
 Federal Elections Commission, FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America), USPS (PostNet, UPS), DMV, IRS, EDD, Blood Bank, +others
 
