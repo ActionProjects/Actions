@@ -9,7 +9,7 @@ Cut out by Valentino
 - case
 - screen
 
-Broken by Joia
+Broken by Joia & again by officer who stopped the video recording.
 
 ### ~~ driver door panel ~~ °{move}°
 Scratched by Joia
