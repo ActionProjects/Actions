@@ -9,6 +9,8 @@ New phones in new places... consolidation & locked phone(s) b4 Navajo Nation. (W
 <!-- [20201031_135605](./_assets-logPics/20201031_135605.jpg) -->
 <img src="./_assets-logPics/20201031_135605.jpg" width="50%" height="50%" />
 
+<!-- #todo Fix Image Sizes & Find Hosting Source -->
+
 ### [_**Officers Targeted**_](https://www.youtube.com/watch?v=a2H21oXmoIY)
 a passenger on a pediCab opens fire.
 ![image-2020-10-30-19-12-22](./_assets-logPics/image-2020-10-30-19-12-22.jpg)
