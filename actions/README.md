@@ -98,6 +98,8 @@ Deployed web presence & structured more concepts:
 - [ ] mediCal - meds staph
 - [ ] Prisons
 - [ ] IRS - Stimulus
+- [x] Filed in LAED
+- - [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.)
 
 ## Other Complaints
 ### Seattle
@@ -108,7 +110,7 @@ Deployed web presence & structured more concepts:
 #### NOPD, French Market, & DPW (etc...)
 
 # Experience
-- [C.E.D.A. video]() Forensic Debate & other style
+- [C.E.D.A.](http://www.cedadebate.org/) (Cross Examination Debate Association) AKA: Forensic Debate & other that style -- [videoExampleHere](https://www.youtube.com/watch?v=JhzwSlK4uEc)
   - __Nuclear Foreign Policy__, *Team 4th in Nation*.
 - Los Rios Colleges
   - A.A.'s
