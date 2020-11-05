@@ -27,8 +27,6 @@ My phone Confiscated/Given to collect video.
 
 [Here's the video I shot](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77)
 
-<iframe width="640" height="360" style="border:1px solid #e6e6e6" src="https://wwltv.com/embeds/video/289-cc6a7321-1771-4bbe-aa8e-19bb7e8708c2/iframe" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
 [links to the full video .torrent](./2020/royalShotsSeeded.md)
 
 ### Incoming Hurricane ZETA!!
