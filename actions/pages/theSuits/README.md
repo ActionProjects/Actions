@@ -7,7 +7,7 @@ Construction [^1][1]:
 Liberal Construction [^2][2]:
 > A form of construction which allows a judge to consider other factors when deciding the meaning of a phrase or document.
 
-#todo find .pdf
+#todo find Liberal Construction .pdf
 
 ## Residence
 Patriot Act & Property Tax
