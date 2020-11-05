@@ -1,6 +1,14 @@
 # the SUITS
 ## I have encountered injustice.
 
+Construction [^1][1]:
+> The legal process of interpreting a phrase or document; of trying to find it’s meaning.
+
+Liberal Construction [^2][2]:
+> A form of construction which allows a judge to consider other factors when deciding the meaning of a phrase or document.
+
+#todo find .pdf
+
 ## Residence
 Patriot Act & Property Tax
 How to create a sinkhole for your citizens.
@@ -31,3 +39,7 @@ she said no pictures ... even if I put it in .pdf? wtf Connie... what is e-maili
 ## Art
 Lawrence
 
+
+
+  [1]: http://www.duhaime.org/LegalDictionary/C/Construction.aspx
+  [2]: http://www.duhaime.org/LegalDictionary/L/LiberalConstruction.aspx
