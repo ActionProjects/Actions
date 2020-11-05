@@ -122,15 +122,14 @@ Deployed web presence & structured more concepts:
   - Minors
     - [Cultural] Anthropology
     - Philosophy
-- envisioning.io
-  - RNLAF & DefTech
-  - curation & databases
-- PinzaGroup
-  - Commercial Real Estate Startup
-- DroneBuilder.io
+- [envisioning.io](https://www.envisioning.io/clients/deftech)
+  - [RNLAF](https://en.wikipedia.org/wiki/RNLAF) & [DefTech](http://deftech.ch/)
+- [PinzaGroup](https://pinzagroup.com/wp-content/endurance-page-cache/_index.html)
+  - Commercial Real Estate Startup in 2014
+- [DroneBuilder.io](https://angel.co/company/dronebuilder)
   - Calculate Before You Build
-- Opainc.net
-  - security analysis re-startup
+- [Opainc.net](http://opainc.net/)
+  - The Integrated Risk Management Group
 
 # [Find Me & Ask Me's]'(#fmam-pulls?)
 
