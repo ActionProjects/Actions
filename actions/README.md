@@ -17,13 +17,13 @@ I believe in [The Competent Individual](https://en.wikipedia.org/wiki/Competent_
 # Actions Initialized
 ##### *some of these things are started on a, currently, locked device.*
 
-## 2018
+## [2018](pages/2018)
 
 #### *See Nicholas D'Artagnan Dumas as President*
 
-- ["Clear Your Vision"](pagds/cyv.md)
+- ["Clear Your Vision"](pages/2018/cyv.md)
   - Windshield & Window Cleaning
-    - D'Art Write-In, 2020 Vision for the future.
+    - D'Art Write-In, 2020; Vision for the Future.
 
 - [Trashercize](pages/2018/tc.md)
 
@@ -39,7 +39,7 @@ I believe in [The Competent Individual](https://en.wikipedia.org/wiki/Competent_
 
 - [#Be Home LESS](pages/2018/bhl.md)
 
-## 2019
+## [2019](pages/2019)
 
 Tow Truck Operator transition to familial tasks + paperwork started. *imgs on locked device* [cellbrite fundRequest]().
 
@@ -49,21 +49,19 @@ Deployed web presence & structured more concepts:
 - FireSide Chats
 - [Sleucebox Politics](pages/2019/sbp.md)
    - Curated & Conceptualized Implementation
- 
 - [Feel the Thunberg!](pages/2019/ftt.md) 
-  - Greta PSA reen'act'ment challenges.
+  - Greta PSA reen***act***ment challenges.
 
-## 2020
+## [2020](pages/2020)
 - [Personal Opposition Spending Project](pages/2020/posp.md), measuring advertising effect. On Scott Santens Discord as @everybody#4559
-- [Mask [arrowUp]!()](pages/2020/mu.md)
+- [Mask [:arrow_up:]!()](pages/2020/mu.md)
 - Shasta - Redding to Arcata
 - Concept w/ Bruce: [Distributed Food Delivery](pages/2020/dfd.md)
-- Noted [homeless dispersed]()
-  - thus
-    - County & State Solutions 
+- Noted [homeless dispersed]() (#todo fixlink)
+  - County & State Solutions 
 
 - [F.B.I. Tacos](pages/2020/fbit.md)
-
+  - ![FBI Nola pic](pages/_assets-logPics/20200820_130020.jpg)
 - [Care a Van](pages/2020/cav.md)
 
 - [Volunteer Navajo Nation Decontamination](pages/2020/vnnd.md)
@@ -73,7 +71,7 @@ Deployed web presence & structured more concepts:
 - [FEMA Food Provider Contract Termination](pages/2020/ffpct.md)
 
 # 'Suits
-## Residency Issue Discoveries
+## [Residency Issue Discoveries](pages/theSuits/Complaints/Residence)
 
  - [x] Action Initialized
  - [ ] Awaiting Action
@@ -110,8 +108,9 @@ Deployed web presence & structured more concepts:
 #### NOPD, French Market, & DPW (etc...)
 
 # Experience
-- [C.E.D.A.](http://www.cedadebate.org/) (Cross Examination Debate Association) AKA: Forensic Debate & other that style -- [videoExampleHere](https://www.youtube.com/watch?v=JhzwSlK4uEc)
-  - __Nuclear Foreign Policy__, *Team 4th in Nation*.
+- [C.E.D.A.](http://www.cedadebate.org/) (Cross Examination Debate Association)
+  - [videoExampleHere](https://www.youtube.com/watch?v=JhzwSlK4uEc)
+  - [__Nuclear Foreign Policy__](http://cedadebate.org/node/893), [*Team 4th(?) in Nation*](https://saccityexpress.com/debating-greatness/)
 - Los Rios Colleges
   - A.A.'s
     - A.A. Social Sciences

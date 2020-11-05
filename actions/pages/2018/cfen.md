@@ -1,10 +1,7 @@
 # Collect Fusion Energy Now
 
+- ## capture the power
 
-## Method 1
-### recirculate the power
-
-## Method 2
-### burn the power at sea; water to fire.
-
+click the pic
+[![the Path to Dyson Sphere's](https://duckduckgo.com/i/742a122a.png)](https://en.wikipedia.org/wiki/Dyson_sphere)
 
