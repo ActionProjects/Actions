@@ -5,5 +5,7 @@ do the things
 
 [D'Artagnan's Dartanium](https://OpenCollective.com/Dartanium)
 
+[Actions](https://github.com/ActionProjects/Actions/tree/main/actions)
 Law is Code; right?
-[Legal Actions](https://github.com/ActionProjects/Actions/tree/main/actions) #todo - ./rel/links!
+[Legal Actions](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/README.md) #todo - ./rel/links!
+
