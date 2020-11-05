@@ -54,7 +54,7 @@ Deployed web presence & structured more concepts:
 
 ## [2020](pages/2020)
 - [Personal Opposition Spending Project](pages/2020/posp.md), measuring advertising effect. On Scott Santens Discord as @everybody#4559
-- [Mask [:arrow_up:]!()](pages/2020/mu.md)
+- [Mask :arrow_up:](pages/2020/mu.md)
 - Shasta - Redding to Arcata
 - Concept w/ Bruce: [Distributed Food Delivery](pages/2020/dfd.md)
 - Noted [homeless dispersed]() (#todo fixlink)
