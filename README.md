@@ -3,7 +3,7 @@ do the things
 
 # [D'Artagnan's Dartanium](https://OpenCollective.com/Dartanium)
 
-# [Actions](actions/tree/main/actions)
+# [Actions](actions/README.md)
 - ## [picBlogginHere](actions/pages/postBlogPicsMyb.md)
 - ## Law is Code; right?
   - ### [Legal Actions](actions/pages/theSuits/README.md) 
