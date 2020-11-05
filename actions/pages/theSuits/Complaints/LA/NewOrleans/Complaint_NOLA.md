@@ -88,9 +88,7 @@ Fork lift on Royal
 Several encounters with Officers on preceding days.
 ### Home Invasion
 
-
 ### Assault
-
 
 ### ["Malicious Intent"](#mal-int)
 It was noted several times prior to and during the encounter with Joia;, that, "There is a dog tied to the side of my vehicle." 
@@ -98,8 +96,13 @@ It was noted several times prior to and during the encounter with Joia;, that, "
 ## NOLA Parking Enforcement & Adjudication
 In Person and via Mail = NOLA.org listed ways to contest a ticket...
 
-## Art & ADA Compliant Public Access Easements
+## Art <!-- & ADA Compliant Public Access Easements -->
 **_find Lawrence_**
 **_insert pics of sidewalk venues_**
+
+# individuals
+## [Leslie "Executive Director"](FrMkt/_assets/images/leslie.md)
+
+## RICO Act
 
 #### note FEMA issue(s)

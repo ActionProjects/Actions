@@ -13,7 +13,6 @@ Mailing Issues
 ## CENSUS
 Unable to partake when meeting CENSUS agents.
 
-## Art
 ## RICO Act
  
 ## False Claims Act
