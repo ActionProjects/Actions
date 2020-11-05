@@ -96,7 +96,10 @@ Deployed web presence & structured more concepts:
 - [ ] mediCal - meds staph
 - [ ] Prisons
 - [ ] IRS - Stimulus
-- [x] [Filed in LAED](./actions/pages/theSuits/Complaints/Residence/_assets/LAED-tributes_n_contacts)
+- [x] [Filed in LAED](pages/theSuits/Complaints/Residence/_assets/LAED-tributes_n_contacts)
+
+\actions\pages\theSuits\Complaints\Residence\_assets\LAED-tributes_n_contacts
+
 - - [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.)
 
 ## Other Complaints
