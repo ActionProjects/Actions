@@ -106,9 +106,9 @@ Deployed web presence & structured more concepts:
 #### Med Center + Dallas PD
 # NOLA
 ## NOPD
- - [Seatbelt Cut Out](https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d)
-
- - [Officer Interaction](https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a)
+ - [VIDEO: Seatbelt Cut Out](https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d)
+ - [VIDEO: Officer Interaction](https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a)
+ - [AUDIO: Tow RAID, Parking Manager](https://bittube.tv/post/0fd2849b-4e65-4333-b923-1de4f8321333)
  - ### New Orleans
  - - #### NOPD, French Market, & DPW (etc...)
 
