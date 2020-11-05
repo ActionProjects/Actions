@@ -97,9 +97,6 @@ Deployed web presence & structured more concepts:
 - [ ] Prisons
 - [ ] IRS - Stimulus
 - [x] [Filed in LAED](pages/theSuits/Complaints/Residence/_assets/LAED-tributes_n_contacts)
-
-\actions\pages\theSuits\Complaints\Residence\_assets\LAED-tributes_n_contacts
-
 - - [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.)
 
 ## Other Complaints
@@ -107,8 +104,14 @@ Deployed web presence & structured more concepts:
 #### Seattle PD
 ### Dallas
 #### Med Center + Dallas PD
-### New Orleans
-#### NOPD, French Market, & DPW (etc...)
+# NOLA
+## NOPD
+ - [Seatbelt Cut Out](https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d)
+
+ - [Officer Interaction](https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a)
+ - ### New Orleans
+ - - #### NOPD, French Market, & DPW (etc...)
+
 
 # Experience
 - [C.E.D.A.](http://www.cedadebate.org/) (Cross Examination Debate Association)
