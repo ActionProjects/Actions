@@ -10,11 +10,11 @@
 
 ## Practicality
    
- - [Trump victory in PA](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania)
+ - [Trump victory in PA](./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania)
 
 
 
-[Support](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md)
+[Support](./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md)
 
 
 
