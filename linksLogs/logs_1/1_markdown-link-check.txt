@@ -1,0 +1,8 @@
+2020-11-06T04:41:24.2791738Z ##[section]Starting: Prepare job markdown-link-check
+2020-11-06T04:41:24.2872994Z Evaluating strategy
+2020-11-06T04:41:24.2873333Z Creating job '__default'
+2020-11-06T04:41:24.2873752Z Evaluating timeout
+2020-11-06T04:41:24.2873839Z Evaluating cancel timeout
+2020-11-06T04:41:24.2873935Z Evaluating continue on error
+2020-11-06T04:41:24.2874056Z Evaluating target
+2020-11-06T04:41:24.2909842Z ##[section]Finishing: Prepare job markdown-link-check
