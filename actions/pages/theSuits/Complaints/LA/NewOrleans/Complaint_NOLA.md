@@ -1,5 +1,10 @@
 # NOLA Complaint
 
+There are two national disasters...
+CDC has placed an eviction moratorium.
+Discriminatory enforcement & hostile removal from living quarters & freight.
+
+
 [Seatbelt Cut Out](https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d)
 
 [Officer Interaction](https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a)
@@ -34,6 +39,8 @@ Signage is inconsistent around NOLA.
 - DPW Parking Enforcement gives citation for "Unattended Vehicle" while vehicle is attended and they are photographed.
 
 ## Conspiracy
+Conspiratorial actions between the French Market operators & "parking enforcement" along with ('retaliatory') harassment.
+
 09/0?/2020:
 - Brad & Joe begin calling NOPD & LA State Troopers daily + "Mayors Office"
 
@@ -86,9 +93,28 @@ Fork lift on Royal
 
 ## NOPD
 Several encounters with Officers on preceding days.
+## Charges
+### Theft
+Officers allowed property to be stolen in their presence (gold paint, RayBans, Cole Haan, Red Nosed Pittbull [gift from Navajo for decon work], JBL Speaker, etc..).
+Officers proceeded to commit property theft for themselves (50" QLED TV, Smith & Wesson Knife - found in vehicle upon recovery from AutoPound).
+Officers damaged property, broke a Motorola XT2041DL and safety device (seat belt) on Touareg.
+
+Trespassing
+Assault
+Intent to discharge 
+Instigatory Behaviours <!-- Excuses to escalate -->
+
 ### Home Invasion
 
 ### Assault
+
+### Attempted Kidnapping
+### Attempted Murder / Maiming
+### Grand Theft
+
+## Issues
+    ### Ability to Leave
+    ### Signage & Notice
 
 ### ["Malicious Intent"](#mal-int)
 It was noted several times prior to and during the encounter with Joia;, that, "There is a dog tied to the side of my vehicle." 
@@ -100,9 +126,41 @@ In Person and via Mail = NOLA.org listed ways to contest a ticket...
 **_find Lawrence_**
 **_insert pics of sidewalk venues_**
 
+## Damages
+    ### Property
+        #### Vehicle
+            Seat Belt
+            Drivetrain
+       #### Other
+        Food Storage
+            Dog
+                Toys, Bowls, Food
+        Personal
+            Hygiene
+                Body
+                    Wipes
+                    Hydrocortisone
+                    Clyndomyacin Tretinoin
+                    Deodorant
+                Oral
+                    Toothpaste
+            Sanitation
+            Clothes
+                Shirts
+                Shorts
+            Medication
+
 # individuals
 ## [Leslie "Executive Director"](FrMkt/_assets/images/leslie.md)
+## Tim
+ - ### Failure to oral contract
+
 
 ## RICO Act
 
 #### note FEMA issue(s)
+
+Officers need communication, de-escalation, and situation mitigation training.
+
+Disenfranchisement, further, of affected citizens.
+
