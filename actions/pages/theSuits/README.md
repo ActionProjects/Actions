@@ -15,8 +15,8 @@ How to create a sinkhole for your citizens.
 
 [residence-SoC.md](Complaints/Residence/statementOfClaim.md)
 
-[Presidential Campaign](actions\pages\theSuits\Complaints\Presidential_Campaign\README.md)
-[Voters in Transit](actions\pages\theSuits\Complaints\transient_voter\noVotes.md#barred-from-voting)
+[Presidential Campaign](actions/pages/theSuits/Complaints/Presidential_Campaign/README.md)
+[Voters in Transit](actions/pages/theSuits/Complaints/transient_voter/noVotes.md#barred-from-voting)
 
 
 ### An Address is the issue:
