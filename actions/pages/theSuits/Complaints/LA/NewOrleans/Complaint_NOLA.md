@@ -1,5 +1,34 @@
 # NOLA Complaint
 
+- [NOLA Complaint](#nola-complaint)
+  - [Interference with Federal Presidential Campaign](#interference-with-federal-presidential-campaign)
+    - [Holding of Campaign Materials](#holding-of-campaign-materials)
+  - [Harassment](#harassment)
+  - [DPW Signage](#dpw-signage)
+  - [Fun'raiser](#funraiser)
+  - [Audio](#audio)
+  - [Fraud](#fraud)
+  - [Conspiracy](#conspiracy)
+  - [Discriminatory Enforcement](#discriminatory-enforcement)
+    - [Tickets](#tickets)
+      - [Notable](#notable)
+  - [NOPD](#nopd)
+  - [Charges](#charges)
+    - [Theft](#theft)
+    - [Home Invasion](#home-invasion)
+    - [Assault](#assault)
+    - [Attempted Kidnapping](#attempted-kidnapping)
+    - [Attempted Murder / Maiming](#attempted-murder--maiming)
+    - [Grand Theft](#grand-theft)
+  - [Issues](#issues)
+    - ["Malicious Intent"](#malicious-intent)
+  - [NOLA Parking Enforcement & Adjudication](#nola-parking-enforcement--adjudication)
+  - [Art](#art)
+  - [Damages](#damages)
+  - [individuals](#individuals)
+  - [RICO Act](#rico-act)
+    - [note FEMA issue(s)](#note-fema-issues)
+
 There are two national disasters...
 CDC has placed an eviction moratorium.
 Discriminatory enforcement & hostile removal from living quarters & freight.
@@ -180,20 +209,20 @@ In Person and via Mail = NOLA.org listed ways to contest a ticket...
                 Shorts
             Medication
 
-# individuals
+## individuals
 
-## [Leslie "Executive Director"](FrMkt/_assets/images/leslie.md)
+1. ### [Leslie "Executive Director"](FrMkt/_assets/images/leslie.md)
 
-## Tim
+2. ### Tim
 
-- ### Failure to oral contract
+- #### Failure to oral contract
 
 ## RICO Act
 
-#### note FEMA issue(s)
+### note FEMA issue(s)
 
 Officers need communication, de-escalation, and situation mitigation training.
 
 Disenfranchisement, further, of affected citizens.
 
-# todo "Unity"
+<!-- #todo -->
