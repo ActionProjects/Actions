@@ -75,11 +75,11 @@ to himself that is ‘distinct and palpable,’ as opposed to merely
 omitted) (first quoting Warth v. Seldin, 422 U.S. 490, 501 (1975);
 then quoting O’Shea v. Littleton, 414 U.S. 488, 494 (1974))).
 B. Causation
-In a similar vein, [Dumas does not state with any particularity
+In a similar vein, Dumas does not state with any particularity
 or precision how the collective actions of the diverse group of
 Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 3 of 5
 4
-entities he has sued have caused any injury he has suffered](./orderResponse.md#ln81ref)[#ln81].
+entities he has sued have caused any injury he has suffered.
 Article III’s cases-or-controversies limitation “requires that a
 federal court act only to redress injury that fairly can be traced
 to the challenged action of the defendant, and not injury that
