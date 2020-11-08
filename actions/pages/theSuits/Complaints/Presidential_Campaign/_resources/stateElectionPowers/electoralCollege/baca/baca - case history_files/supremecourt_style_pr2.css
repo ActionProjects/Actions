@@ -1,0 +1,619 @@
+﻿body 
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font: 9pt arial, verdana, san-serif;
+}
+
+#wrapper
+{	
+    width: 950px;
+    margin-left: 10px;
+    text-align: center;
+    /* border: solid 0.07em gray; */
+}
+
+#main
+{
+    
+}
+
+#hidden
+{
+    display: block;
+    width: 950px;
+    text-align: left;
+}
+
+#banner
+{
+    display: none;
+}
+	
+.upperCase
+{
+    text-transform: uppercase;
+}
+
+#supremecourt_seal
+{
+    height: 93px;
+    width: 545px;
+    float: left;
+}
+
+#banner_right
+{
+    float: right;
+    width: 405px; 
+    height: 93px;
+    vertical-align: bottom;
+}
+
+.bnr-clear {
+	clear: both;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+}
+
+#searchbox
+{
+    padding: 0px 20px 0px 0px;
+    text-align: right;
+}
+
+#bannerbottom
+{
+    background-color: White;
+
+    width: 950px;
+    height: 24px;
+    text-align: left;
+    font-size: 90%;
+    padding: 5px 0px 5px 0px;
+    color: #666666;
+}
+
+#sitemappath
+{
+    float: left;
+    padding-top: 6px;
+    margin-left: 10px;
+}
+
+#date
+{
+    float: right;
+    text-align: right;
+    margin-right: 30px;
+}
+
+#singlecolumn
+{
+    height: auto;
+    width: 950px;
+}
+
+#middleCol2
+{
+    height: auto;
+    width: 950px;
+}
+
+#middleCol3
+{
+    height: auto;
+    width: 950px;
+}
+
+#leftcolumn
+{
+    display: block;
+    float: left;
+    width: 247px;
+    text-align: left;
+    vertical-align: top;
+}
+
+#maincolumn
+{
+    display: block;
+    float: left;
+    width: 692px;
+    text-align: left;
+}
+
+#centercolumn
+{
+    float: left;
+    width: 447px;
+    border-right: solid 0.07em #e2b558;
+}
+
+#picturebox
+{
+    background-color: white; 
+    width: auto; 
+    height: auto; 
+    padding: 10px 10px 10px 10px; 
+    text-align: center; 
+    width: 340px;
+    height: 225px;
+    border: solid 0.07em gray;
+}
+
+#rightcolumn
+{
+    float: right;
+    width: 253px;
+}
+
+.textbox
+{
+    margin: 5px 14px 10px 20px;
+    padding: 5px;
+    min-height: 400px;
+}
+
+.textbox2
+{
+    margin: 5px 10px 10px 18px;
+    text-align: left;
+    padding: 5px;
+    min-height: 400px;
+}
+
+.textbox3
+{
+    margin: 5px 22px 10px 19px;
+    text-align: left;
+    padding: 5px;
+    min-height: 400px;
+}
+
+.textbox4
+{
+    margin: 5px 12px 10px 19px;
+    padding: 5px;
+    min-height: 400px;
+    
+}
+.mainContent
+{
+    margin: 5px 22px 10px 20px;
+    padding: 5px;
+    min-height: 400px;
+    text-align: left;
+    width: 846px;
+}
+
+.recentdecisions ul li
+{
+    list-style-type: none;
+    margin-left: -40px;
+    padding-bottom: 1.0em;
+    font-size: 9pt;
+}
+
+#footer
+{
+    width: 950px;
+    color: White;
+    font-size: 90%;
+    padding: 5px;
+}
+
+#footer a:link {
+	color: #e2b558;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#footer a:visited {
+	color: #eac577;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#footer a:hover {
+	color: #fbe7a2;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#footertext
+{
+    
+}
+
+
+#sectionbanner1
+{
+    background: transparent url('../images/sectionbanner1.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+
+#sectionbanner2
+{
+    background: transparent url('../images/sectionbanner2.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner3
+{
+    background: transparent url('../images/sectionbanner3.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner4
+{
+    background: transparent url('../images/sectionbanner4.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner5
+{
+    background: transparent url('../images/sectionbanner5.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner6
+{
+    background: transparent url('../images/sectionbanner6.gif') 0 0 no-repeat;
+    width: 631px;
+    height: 80px;
+}
+#sectionbanner7
+{
+    background: transparent url('../images/sectionbanner7.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner8
+{
+    background: transparent url('../images/sectionbanner8.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner9
+{
+    background: transparent url('../images/sectionbanner9.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner10
+{
+    background: transparent url('../images/sectionbanner10.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner11
+{
+    background: transparent url('../images/sectionbanner11.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner12
+{
+    background: transparent url('../images/sectionbanner12.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner13
+{
+    background: transparent url('../images/sectionbanner13.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner14
+{
+    background: transparent url('../images/sectionbanner14.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+#sectionbanner_nav
+{
+    background: transparent url('../images/sectionbanner_nav.gif') 0 0 no-repeat;
+    width: 600px;
+    height: 80px;
+}
+
+#pagetitle
+{
+    vertical-align: bottom;
+    text-align: left;
+    padding: 16px 0px 0px 130px;
+}
+
+#pagetitle h3
+{
+    color: Navy;
+    font-size: 12pt;
+}
+
+
+.menu1title
+{
+    background-image: url('../images/icon1.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+    display: block;
+    border-bottom: solid 2px #ccccaa;
+    border-top:  solid 2px #ccccaa;
+    border-right:  solid 2px #ccccaa;
+    vertical-align: middle;
+    height: 28px;
+    font-weight:bold;
+    margin-top:15px;
+    padding: 0px 0px 0px 35px;
+}
+
+.menu1title2
+{
+    background-image: url('../images/icon1.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+    border-bottom: solid 2px #ccaaaa;
+    border-top:  solid 2px #ccaaaa;
+    border-right:  solid 2px #ccaaaa;
+    vertical-align: middle;
+    height: 28px;
+    font-weight:bold;
+    margin-top:15px;
+    padding: 0px 0px 0px 35px;
+}
+
+.menu1title3
+{
+    background-image: url('../images/icon1.gif');
+    background-repeat: no-repeat;
+    background-position: left;
+    border-bottom: solid 2px #aaaacc;
+    border-top:  solid 2px #aaaacc;
+    border-right:  solid 2px #aaaacc;
+    vertical-align: middle;
+    height: 28px;
+    font-weight:bold;
+    margin-top:15px;
+    padding: 0px 0px 0px 35px;
+} 
+
+a:link {
+	color: #134992;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #134992;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #990000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+.bio
+{
+    display: block;
+    float:left;
+    width: 450px;
+}
+
+.biopictures
+{
+    float: left;
+    display: block;
+    padding: 5px;
+    margin: 0px 10px 5px 5px;
+    border: solid 0.07em gray;
+}
+
+.bioname
+{
+    font-size: medium;
+    font-weight:bold;
+}
+
+.ppl
+{
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.pplTitle
+{
+    float: left;
+    width: 254px;
+    height: 20px;
+}
+
+.pplName
+{
+    float: left;
+    margin-left: 80px;
+    width: 200px;
+    height: 20px;
+}
+
+.contTitle
+{
+    width: 100px; 
+    display:block; 
+    float:left;
+}
+
+.contName
+{
+    width: 300px; 
+    display:block; 
+    float:left;
+}
+
+#tbbriefsource
+{
+    text-align: center;
+}
+
+#tbbriefsource table
+{
+    width: 80%; text-align: left;
+}
+
+#tbbriefsource table td
+{
+    vertical-align: top;
+}
+
+.OneTab
+{
+    display: block;
+    padding-left: 40px;
+}
+
+
+ p.MsoNormal
+{
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in
+	}
+	
+p.MsoHeader
+{
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in
+	}
+	
+p.MsoFooter
+{
+    margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in
+	}
+
+div.dslist UL LI
+{
+	padding-bottom: 1.0em;
+}
+
+div.dslist OL LI
+{
+	padding-bottom: 1.0em;
+}
+
+div.dslist2 UL LI
+{
+    list-style-type: none;
+	padding-bottom: 1.0em;
+}
+
+LI.nobullet
+{
+    list-style-type: none;
+    padding-bottom: 1.0em;
+}
+
+.fieldTitle
+{
+    width: 154px;
+    text-align: right;
+    display: block;
+    float:left;
+    padding: 3px;
+}
+.fieldConfirm
+{
+    text-align: left;
+    display: block;
+    padding: 3px;
+}
+.fieldData
+{
+    text-align: left;
+}
+
+.fieldData2
+{
+    width: 120px;
+    text-align: left;
+    display:block;
+    float:left; 
+    padding: 3px;
+}
+.fieldData3
+{
+    width: 150px;
+    text-align: left;
+    display:block;
+    float:left;
+    padding: 3px;
+}
+
+.fieldDataRequired
+{
+    text-align: left;
+    background-color: #FFFFCC
+}
+
+
+.menublock
+{
+    display:block;
+}
+
+.test
+{
+    
+}
+
+.search a:link
+{
+ font-size:12pt;
+  text-decoration:underline;
+}
+
+.menu1title
+{
+    display: block;
+    height: 32px;
+    font-weight:bold;
+    margin-top:15px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+#menu2H3Title, #menu1H3Title, #menu1H3Title2 
+{
+    display: none;
+}
+
+.textbox
+{
+    /* background: transparent url('../images/boxtop_bg.gif') 0 0 repeat-x; */
+    margin: 5px 14px 10px 20px;
+    padding: 5px;
+    min-height: 400px;
+}
+
+#leftMenu1 
+{
+    display: block;
+}
+
+#leftMenu2 
+{
+    display: none;
+}

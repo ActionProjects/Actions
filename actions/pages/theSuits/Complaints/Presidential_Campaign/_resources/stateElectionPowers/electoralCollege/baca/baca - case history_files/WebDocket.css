@@ -1,0 +1,155 @@
+
+#docketwrapper {
+    margin: 20px;
+    font-family: Arial, Verdana, serif;
+    font-size: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+#docketinfo {
+    width: 100%;
+    min-width: 600px;
+}
+
+#proceedings, #Contacts {
+    width: 100%;
+}
+
+#docketwrapper td, #docketwrapper th {
+    vertical-align: top;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: white;
+}
+
+#docketwrapper table {
+    border-collapse: collapse;
+}
+
+body {
+    -epub-hyphens: auto;
+}
+
+#docketwrapper table.Basic-Table {
+    border-color: #000000;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+#docketwrapper td.InfoTitle {
+	background-color: #e8d8a3;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000; 
+}
+
+#docketwrapper span.CaseName {
+    font-size: 16px;
+}
+
+#docketwrapper a, #docketwrapper span.CaseName, #docketwrapper span.title {
+    font-weight: bold;
+}
+
+#docketwrapper td.infodata {
+    background-color: #E1E1E1;
+}
+
+#docketwrapper td.proceedingheader {
+	background-color: #e8d8a3;
+	border-bottom: 1px solid #000; 
+}
+
+#docketwrapper td.ContactHeader {
+	background-color: #e8d8a3;
+}
+
+#docketwrapper td.ContactHeader2 {
+	background-color: #e8d8a3;
+	min-width: 47px;
+}
+
+#docketwrapper td.ContactSubHeader {
+	border-top: thin solid #000;
+}
+
+#docketwrapper td.ContactData2 {
+	width: 200px auto;
+	min-width: 150px;
+}
+
+#docketwrapper span.DocketInfoTitle {
+    color: #003366;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+#docketwrapper span.tableTitle {
+    color: #333300;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#docketwrapper td.borderbttm {
+	border-bottom: thin solid #000;
+}
+
+#docketwrapper td.bordertp {
+	border-top: thin solid #000;
+}
+
+#docketwrapper span.tableheadertext {
+	font-weight: bold;
+}
+
+#docketwrapper tr.proceedingaltback {
+    background-color: #e1e1e1;
+}
+
+#docketwrapper div.search table td {
+    background-color: transparent;
+    padding: 0;
+}
+#docketwrapper a { 
+    display: inline;
+}
+
+a.documentanchor { 
+    display: inline;
+    padding-right: 30px;
+}
+
+@media print {
+    #docketwrapper span.tableheadertext {
+        font-weight: 150;
+    }
+
+    .bannerStyle {
+        display: none;
+    }
+
+    .well,.well-lg {
+        border: none;
+    }
+
+    #footertext {
+        display: none;
+    }
+
+    #versiontext {
+        display: none;
+    }
+    .nav {
+	display: none;
+    }
+    #sitemappath {
+	display: none;
+    }
+}
