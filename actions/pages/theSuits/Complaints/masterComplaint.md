@@ -1,5 +1,7 @@
 intended to be amended & addended
 
+filing under organization at [https://github.com/ActionProjects/Actions](https://github.com/ActionProjects/Actions)
+
 [Issues Under:](#issues-under)
 - [Issues Under:](#issues-under)
 		- [RICO Act](#rico-act)
@@ -14,6 +16,7 @@ intended to be amended & addended
 		- [13th & 16th Addendums](#13th--16th-addendums)
 		- [15th, & 26th Addendums](#15th--26th-addendums)
 		- [Access to Courts](#access-to-courts)
+		- [Access to LAW (legel opinions, ruling, filings, etc...)](#access-to-law-legel-opinions-ruling-filings-etc)
 	- [Injunction](#injunction)
 	- [Residence - ANIMUS MANENDI. The intention of remaining.](#residence---animus-manendi-the-intention-of-remaining)
 	- [Presidency](#presidency)
@@ -28,7 +31,7 @@ intended to be amended & addended
 
 Injunction - Federal, Presidential Election
 
-Subpoena / FOIA / Warrant
+
 
 # Issues Under:
 ### RICO Act
@@ -57,8 +60,7 @@ Subpoena / FOIA / Warrant
 	~ Paul v. Virginia, 75 U.S. 168 (1869)
 
 	http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources
-	
-filing under organization at [https://github.com/ActionProjects/Actions](https://github.com/ActionProjects/Actions)
+### Access to LAW (legel opinions, ruling, filings, etc...)
 
 ## Injunction
 
