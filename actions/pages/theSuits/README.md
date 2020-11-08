@@ -21,7 +21,7 @@ How to create a sinkhole for your citizens.
 
 [Voters in Transit](Complaints/transient_voter/noVotes.md#barred-from-voting)
 
-[Hack the College](/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
+[Hack the College](some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
 
 ### An Address is the issue
 
