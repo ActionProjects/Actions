@@ -2,21 +2,17 @@
 
 **1**
 
-- [UNITED STATES DISTRICT COURT EASTERN DISTRICT OF LOUISIANA](#united-states-district-court-eastern-district-of-louisiana)
-  - [NICHOLAS D’ARTAGNAN DUMAS v. FEDERAL ELECTION COMMISSION, ET AL](#nicholas-dartagnan-dumas-v-federal-election-commission-et-al)
-    - [<p align="center">ORDER AND REASONS</p>](#order-and-reasons)
-      - [<p align="center">I.</p>](#i)
-        - [<p align="center">A. Injury in Fact</p>](#a-injury-in-fact)
-        - [<p align="center">B. Causation</p>](#b-causation)
-        - [<p align="center">C. Redressability</p>](#c-redressability)
-
 # UNITED STATES DISTRICT COURT EASTERN DISTRICT OF LOUISIANA
 
-CIVIL ACTION NO. 20-2965 c/w 20-2966
+CIVIL ACTION NO. 20-2965 c/w 20-2966 - SECTION “F”
 
 ## NICHOLAS D’ARTAGNAN DUMAS v. FEDERAL ELECTION COMMISSION, ET AL
 
-- SECTION “F”
+- [ORDER AND REASONS](#order-and-reasons)
+  - [I.](#i)
+    - [A. Injury in Fact](#a-injury-in-fact)
+    - [B. Causation](#b-causation)
+    - [C. Redressability](#c-redressability)
 
 ### <p align="center">ORDER AND REASONS</p>
 
@@ -32,7 +28,7 @@ the Court’s enjoinment of a national election in which nearly
 
 100,000,000 Americans have already voted.
 
-See *Katie Glueck, Early Votes Near 100 Million as Campaign Races to a Close, N.Y. TIMES (Nov. 3, 2020).*
+See *~ Katie Glueck, Early Votes Near 100 Million as Campaign Races to a Close, N.Y. TIMES (Nov. 3, 2020).*
 
 While Dumas’s pro se complaints are largely incomprehensible,
 
