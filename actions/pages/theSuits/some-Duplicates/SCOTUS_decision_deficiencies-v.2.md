@@ -1,4 +1,4 @@
-# SCOTUS Electoral College Decision
+# [SCOTUS' Electoral College Decision](https://github.com/ActionProjects/Actions/blob/10666f652948b0eecbbb783e94b82f0fa6442b16/actions/pages/theSuits/Complaints/Presidential_Campaign/_resources/19-465_i425.pdf)
 
 The decision invalidates the central role of the Electoral College. 
 The Electors chuse [sic] the President; and, the systems faith is in knowing this whole's discretionary character; predicated upon their nomination and election to position.

@@ -102,7 +102,7 @@ Traveling individuals, while residents, without specific residential street addr
 
 9 States bar Write-in candidates.
 
-Electoral College SCOTUS decision
+[Electoral College SCOTUS decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision)
 
 ### RON
 
