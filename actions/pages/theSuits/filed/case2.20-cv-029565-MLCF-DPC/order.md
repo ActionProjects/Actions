@@ -8,8 +8,8 @@ CIVIL ACTION NO. 20-2965 c/w 20-2966 - SECTION “F”
 
 ## NICHOLAS D’ARTAGNAN DUMAS v. FEDERAL ELECTION COMMISSION, ET AL
 
-- [ORDER AND REASONS](#order-and-reasons)
-  - [I.](#i)
+- [ORDER AND REASONS](#order-and-reasons) [^1](#1)
+  - [I.](#i) [^2](#2)
     - [A. Injury in Fact](#a-injury-in-fact)
     - [B. Causation](#b-causation)
     - [C. Redressability](#c-redressability)
@@ -36,7 +36,7 @@ he appears to assert – in essence - that the actions of a broad
 
 ___
 
-[1] Because they are substantively identical, the Court
+<a href="#1">[1]</a> Because they are substantively identical, the Court
 
 consolidates both complaints for review here. The Court also
 
@@ -78,19 +78,19 @@ standing to sue.
 
 *~ Id. at 560.*
 
-> “First, the plaintiff must have suffered an ‘injury in fact’ – an invasion of a legally protected interest which is (a) concrete and particularized, and (b) ‘actual or imminent, not “conjectural” or “hypothetical.”’”
+> “**First**, the plaintiff must have suffered an ‘injury in fact’ – an invasion of a legally protected interest which is (a) concrete and particularized, and (b) ‘actual or imminent, not “conjectural” or “hypothetical.”’”
 
 *~ Id. (citations omitted).*
 
-> “Second, there must be a causal connection between the injury and the conduct complained of – the injury has to be ‘fairly trace[able] to the challenged action of the defendant, and not . . . th[e] result [of] the independent action of some third party not before the court.”
+> “**Second**, there must be a causal connection between the injury and the conduct complained of – the injury has to be ‘fairly trace[able] to the challenged action of the defendant, and not . . . th[e] result [of] the independent action of some third party not before the court.”
 
 *~ Id. (alterations in original) (quoting Simon v. E. Ky. Welfare Rights Org., 426 U.S. 41–42 (1976)).*
 
-> “Third, it must be
+> “**Third**, it must be
 
 ___
 
-[2] Including departments of motor vehicles, the United States Postal Service, private financial institutions, the IRS, and the Federal Election Commission.
+<a href="#2">[2]</a> Including departments of motor vehicles, the United States Postal Service, private financial institutions, the IRS, and the Federal Election Commission.
 
 ***Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 3 of 5***
 
