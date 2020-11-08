@@ -8,7 +8,7 @@
 
 Coffee for my Office Space
 
-![RU-runninagudbrwsr](../ezgif-7-e8ba05d97c43.png)
+![RU-runninagudbrwsr](https://github.com/ActionProjects/Actions/blob/main/actions/pages/arts-n-campn/ezgif-7-e8ba05d97c43.png)
 
 <!-- encrypted original -->
 
