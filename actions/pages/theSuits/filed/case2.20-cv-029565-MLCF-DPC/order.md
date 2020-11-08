@@ -8,8 +8,8 @@ CIVIL ACTION NO. 20-2965 c/w 20-2966 - SECTION “F”
 
 ## NICHOLAS D’ARTAGNAN DUMAS v. FEDERAL ELECTION COMMISSION, ET AL
 
-- [ORDER AND REASONS](#order-and-reasons) [^1](#1)
-  - [I.](#i) [^2](#2)
+- [ORDER AND REASONS](#order-and-reasons)
+  - [I.](#i)
     - [A. Injury in Fact](#a-injury-in-fact)
     - [B. Causation](#b-causation)
     - [C. Redressability](#c-redressability)
@@ -20,9 +20,7 @@ On the eve of the 2020 presidential election, the plaintiff
 
 Nicholas D’Artagnan Dumas filed two election-related complaints in
 
-this Court.
-
-***1*** Among other impracticable remedies, Dumas “demand[s]”
+this Court. [^1](#1) Among other impracticable remedies, Dumas “demand[s]”
 
 the Court’s enjoinment of a national election in which nearly
 
@@ -56,7 +54,7 @@ deficiencies and proceeds to rule as follows.
 
 **2**
 
-array of American entities2 have combined to disenfranchise
+array of American entities[^2](#2) have combined to disenfranchise
 
 homeless individuals who lack a physical address.
 
