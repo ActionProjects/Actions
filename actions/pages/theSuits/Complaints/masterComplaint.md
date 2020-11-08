@@ -1,5 +1,31 @@
 intended to be amended & addended
 
+[Issues Under:](#issues-under)
+- [Issues Under:](#issues-under)
+		- [RICO Act](#rico-act)
+		- [False Claims Act](#false-claims-act)
+		- [1st Addendum](#1st-addendum)
+		- [4th Addendum](#4th-addendum)
+		- [5th & 15th Addendums](#5th--15th-addendums)
+		- [6th Addendum](#6th-addendum)
+		- [8th Addendum](#8th-addendum)
+		- [9th Addendum](#9th-addendum)
+		- [12th Addendum vs. 17th](#12th-addendum-vs-17th)
+		- [13th & 16th Addendums](#13th--16th-addendums)
+		- [15th, & 26th Addendums](#15th--26th-addendums)
+		- [Access to Courts](#access-to-courts)
+	- [Injunction](#injunction)
+	- [Residence - ANIMUS MANENDI. The intention of remaining.](#residence---animus-manendi-the-intention-of-remaining)
+	- [Presidency](#presidency)
+		- [RON](#ron)
+	- [entities](#entities)
+		- [LAED](#laed)
+			- [Clerks](#clerks)
+			- [Judge Dismiss Order](#judge-dismiss-order)
+		- [SCOTUS](#scotus)
+		- [Address Required](#address-required)
+
+
 Injunction - Federal, Presidential Election
 
 Subpoena / FOIA / Warrant
@@ -87,3 +113,41 @@ FEC requires a "Physical Residence Address" Barring Nicholas D'Artagnan Dumas fr
 Nicholas D'Artagnan Dumas announced candidacy to the [El Dorado County HOTeam](https://www.counties.org/post/el-dorado-countys-homeless-outreach-team) in 2018 at Safeway, in Placerville, California.
 
 <!-- Original Compilation / Composition with NOPD Detectives; after, device confiscated for video retrieval of NOLA Police Involved Shooting on 10/30/2020 at Royal Street. -->
+
+## entities
+
+### LAED
+
+- Deficiencies
+  - ADDRESS
+
+#### Clerks
+
+- document service timeliness failure
+- e-signature
+- citations
+
+#### Judge Dismiss Order
+
+- Jurisdiction
+- Impracticable
+  - NV Docket *"Stokke et al v. Cegavske et al, 2:20-cv-02046-DJA"*
+  - PA
+  - ![Certification-Times](/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG)
+- Federally Recognized, PLATT Map-less ≠ Residenceless, Homeless, Shelterless, etc...
+
+### SCOTUS
+
+- Electoral College Decision
+
+### Address Required
+- LAED, DMV, IRS, EDD, voterRegistration
+  - "where you sleep"
+    - https://web.archive.org/web/20201108040308/https://www.huffpost.com/entry/voting-and-homeless_b_5533134
+    - getting cleared out of locations
+    - frequent change of location
+  - voterReg [into the matrices](https://docs.google.com/spreadsheets/d/11BQV6dw4WY2neblNqhRKdZolpbf4zc49yi7NcvXTuB0/edit?usp=drivesdk
+)
+    - voting access = paramount to court access - chusing [sic] judges.
+  - Candidate Registration
+    - FEC
