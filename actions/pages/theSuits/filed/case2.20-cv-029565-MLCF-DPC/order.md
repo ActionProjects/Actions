@@ -16,11 +16,15 @@ On the eve of the 2020 presidential election, the plaintiff
 
 Nicholas D’Artagnan Dumas filed two election-related complaints in
 
-this Court.1 Among other impracticable remedies, Dumas “demand[s]”
+this Court.
+
+***1*** Among other impracticable remedies, Dumas “demand[s]”
 
 the Court’s enjoinment of a national election in which nearly
 
-100,000,000 Americans have already voted. See *Katie Glueck, Early Votes Near 100 Million as Campaign Races to a Close, N.Y. TIMES (Nov. 3, 2020).*
+100,000,000 Americans have already voted. 
+
+See *Katie Glueck, Early Votes Near 100 Million as Campaign Races to a Close, N.Y. TIMES (Nov. 3, 2020).*
 
 While Dumas’s pro se complaints are largely incomprehensible,
 
