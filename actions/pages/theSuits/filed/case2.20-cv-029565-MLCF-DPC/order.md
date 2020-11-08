@@ -2,6 +2,14 @@
 
 **1**
 
+- [UNITED STATES DISTRICT COURT EASTERN DISTRICT OF LOUISIANA](#united-states-district-court-eastern-district-of-louisiana)
+  - [NICHOLAS D’ARTAGNAN DUMAS v. FEDERAL ELECTION COMMISSION, ET AL](#nicholas-dartagnan-dumas-v-federal-election-commission-et-al)
+    - [<p align="center">ORDER AND REASONS</p>](#order-and-reasons)
+      - [<p align="center">I.</p>](#i)
+        - [<p align="center">A. Injury in Fact</p>](#a-injury-in-fact)
+        - [<p align="center">B. Causation</p>](#b-causation)
+        - [<p align="center">C. Redressability</p>](#c-redressability)
+
 # UNITED STATES DISTRICT COURT EASTERN DISTRICT OF LOUISIANA
 
 CIVIL ACTION NO. 20-2965 c/w 20-2966
@@ -22,7 +30,7 @@ this Court.
 
 the Court’s enjoinment of a national election in which nearly
 
-100,000,000 Americans have already voted. 
+100,000,000 Americans have already voted.
 
 See *Katie Glueck, Early Votes Near 100 Million as Campaign Races to a Close, N.Y. TIMES (Nov. 3, 2020).*
 
@@ -66,7 +74,7 @@ standing to pursue his claims in federal court.
 
 > “The party invoking federal jurisdiction bears the burden of establishing”
 
-standing to sue. 
+standing to sue.
 
 *~ Lujan v. Defs. of Wildlife, 504 U.S. 555, 561 (1992).*
 
@@ -74,11 +82,11 @@ standing to sue.
 
 *~ Id. at 560.*
 
-> “First, the plaintiff must have suffered an ‘injury in fact’ – an invasion of a legally protected interest which is (a) concrete and particularized, and (b) ‘actual or imminent, not “conjectural” or “hypothetical.”’” 
+> “First, the plaintiff must have suffered an ‘injury in fact’ – an invasion of a legally protected interest which is (a) concrete and particularized, and (b) ‘actual or imminent, not “conjectural” or “hypothetical.”’”
 
 *~ Id. (citations omitted).*
 
-> “Second, there must be a causal connection between the injury and the conduct complained of – the injury has to be ‘fairly trace[able] to the challenged action of the defendant, and not . . . th[e] result [of] the independent action of some third party not before the court.” 
+> “Second, there must be a causal connection between the injury and the conduct complained of – the injury has to be ‘fairly trace[able] to the challenged action of the defendant, and not . . . th[e] result [of] the independent action of some third party not before the court.”
 
 *~ Id. (alterations in original) (quoting Simon v. E. Ky. Welfare Rights Org., 426 U.S. 41–42 (1976)).*
 
@@ -92,13 +100,13 @@ ___
 
 **3**
 
-> ‘likely,’ as opposed to merely ‘speculative,’ that the injury will be ‘redressed by a favorable decision.’” 
+> ‘likely,’ as opposed to merely ‘speculative,’ that the injury will be ‘redressed by a favorable decision.’”
 
 *~ Id. at 561 (quoting Simon, 426 U.S. at 38, 43).*
 
-Even at the pleading stage, where 
+Even at the pleading stage, where
 
-> “general factual allegations of injury resulting from the defendant’s conduct may suffice,” 
+> “general factual allegations of injury resulting from the defendant’s conduct may suffice,”
 
 Dumas’s complaints do not establish any of these
 
@@ -118,23 +126,23 @@ incomprehensible academic projects regarding loosely understood
 
 immediate injunctive relief, Dumas does not specifically identify
 
-any 
+any
 
 > “actual or imminent”
 
 injury he has suffered or may suffer as
 
-a result of the defendants’ actions. 
+a result of the defendants’ actions.
 
-*~ See Whitmore v. Arkansas, 495 U.S. 149, 155 (1990) 
+*~ See Whitmore v. Arkansas, 495 U.S. 149, 155 (1990)
 
 > (“The complainant must allege an injury to himself that is ‘distinct and palpable,’ as opposed to merely ‘[a]bstract.’”
 
-~ (alteration in original) (emphasis added) (citation omitted) (first quoting 
+~ (alteration in original) (emphasis added) (citation omitted) (first quoting
 
 *~ Warth v. Seldin, 422 U.S. 490, 501 (1975)*;
 
-then quoting 
+then quoting
 
 *~ O’Shea v. Littleton, 414 U.S. 488, 494 (1974))).*
 
@@ -150,9 +158,9 @@ or precision how the collective actions of the diverse group of
 
 entities he has sued have caused any injury he has suffered.
 
-Article III’s cases-or-controversies limitation 
+Article III’s cases-or-controversies limitation
 
-> “requires that a federal court act only to redress injury that fairly can be traced to the challenged action of the defendant, and not injury that results from the independent action of some third party not before the court.” 
+> “requires that a federal court act only to redress injury that fairly can be traced to the challenged action of the defendant, and not injury that results from the independent action of some third party not before the court.”
 
 *~ Simon, 426 U.S. at 41–42.*
 
@@ -184,16 +192,12 @@ fanciful and underdeveloped.
 
 Likewise, it is unlikely that any injuries Dumas has alleged
 
-are redressable by 
+are redressable by
 
-> “a properly framed judicial decree.” 
+> “a properly framed judicial decree.”
 *~ See RICHARD H. FALLON, JR. ET AL., HART AND WECHSLER’S THE FEDERAL COURTS AND THE FEDERAL SYSTEM 101 (7th ed. 2015)*.
 
-For 
-
-**one,**
-
-it is extremely doubtful that
+For **one,** it is extremely doubtful that
 
 a federal district judge may lawfully enjoin a constitutionally
 
@@ -217,7 +221,7 @@ Equally fundamental to our system of
 
 government are the quadrennial national elections in which we elect
 
-> “a President of the United States of America.” 
+> “a President of the United States of America.”
 
 *~ See U.S. CONST. art. II, § 1.*
 
@@ -244,7 +248,9 @@ Accordingly, IT IS ORDERED: that the plaintiff’s complaints
 in the consolidated actions captioned above are DISMISSED.
 
 <p align="right">New Orleans, Louisiana, November 3, 2020
- 
-_____________________________
+
+___
 <p align="right">MARTIN L. C. FELDMAN</p>
 <p align="right">UNITED STATES DISTRICT JUDGE</p>
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
