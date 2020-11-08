@@ -56,7 +56,7 @@ election on election day, the Court disregards the complaints’
 
 deficiencies and proceeds to rule as follows.
 
-Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 2 of 5
+**Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 2 of 5**
 
 **2**
 
