@@ -8,10 +8,10 @@ Construction [^1][1]:
 Liberal Construction [^2][2]:
 > A form of construction which allows a judge to consider other factors when deciding the meaning of a phrase or document.
 
-# todo find Liberal Construction .pdf
+{#todo +todo find Liberal Construction .pdf}
 
 ## Residence
-
+<!--{#todo +todo tag "Deficiencies"}-->
 Patriot Act & Property Tax
 How to create a sinkhole for your citizens.
 
@@ -21,12 +21,14 @@ How to create a sinkhole for your citizens.
 
 [Voters in Transit](Complaints/transient_voter/noVotes.md#barred-from-voting)
 
+[Hack the College](/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
+
 ### An Address is the issue
 
 ![whatAddress?](./Complaints/Residence/_assets/LAED-tributes_n_contacts/20201104_165059.jpg)
 
 "Original Signature"
-
+<!--#todo +todo "deficientSees"}
 ```
 she said no pictures ... even if I put it in .pdf? wtf Connie... what is e-mailing the court good for?
 ```

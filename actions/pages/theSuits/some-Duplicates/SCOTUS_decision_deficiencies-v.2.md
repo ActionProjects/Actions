@@ -94,3 +94,11 @@ Slippery slope already begun long ago; the selection of the Electoral College sh
 ## State Legislature Discretion 
 
 Cannot override the fundamental intent of the process to begin with.
+
+<!--These 'majikal' words of the court are paradigmical; soforth, setting a vision for the people of the United States; and, the world, as a, pace and trend setting, powerhouse.
+The initial standing reductions to the system may be stood upon as 'long standing' (a priori) style inputs to current legal briefs; however, this does not mean the perspectives used for the foundation were the proper ones.
+
+[Grooks - Majority/Minority](#todo +todo -cite)
+
+This SCOTUS playing with the structured mechanic design of the system in a way which erodes the division of powers is a dangerous game; and, maybe something else should be thought out. For instance; reinforcing the decision to elect a quora; in doing which, may find a more well suited set of perspectives enjoined from our society.
+-->
