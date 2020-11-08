@@ -1,11 +1,10 @@
 intended to be amended & addended
 
-Original Compilation / Composition with NOPD Detectives; after, device confiscated for video retrieval of NOLA Police Involved Shooting on 10/30/2020 at Royal Street.
-
 Injunction - Federal, Presidential Election
+
 Subpoena / FOIA / Warrant
 
-## Issues Under:
+# Issues Under:
 ### RICO Act
 ### False Claims Act
 ### 1st Addendum
@@ -31,31 +30,60 @@ Subpoena / FOIA / Warrant
 	https://en.wikipedia.org/wiki/Freedom_of_movement
 	~ Paul v. Virginia, 75 U.S. 168 (1869)
 
-http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources
-	filing under organization at [https://github.com/ActionProjects/Actions](https://github.com/ActionProjects/Actions)
+	http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources
+	
+filing under organization at [https://github.com/ActionProjects/Actions](https://github.com/ActionProjects/Actions)
 
+## Injunction
 
 I Nicholas D'Artagnan Dumas demand an injunction on the 2020 Federal Presidential Election; predicated upon unfair practices by Federal and State Agencies.
 
 ## Residence - ANIMUS MANENDI. The intention of remaining.
-The following institutions failed to provide services based upon, what appears to be, a Patriot Act stipulation for a Physical Residence Address: Federal Elections Commission, FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America), USPS (PostNet, UPS), DMV, IRS, EDD, Blood Bank, +others
-
-2018: I, Nicholas D'Artagnan Dumas, was asked to lie, at multiple DMV's and Banks, about my residence address while being 'shelterless' with no, permitted, physical residence address; barring the ability to: receive private mail, open a bank account / safety deposit box, file for unemployment, receive stimulus, or register, timely and properly, with the FEC.
-
-Traveling individuals, while residents, without specific residential street addresses are barred from participating in the elections due to inadequate implementations.
 
 >      RESIDENCE. The place of one's domicil. (q.v.) There is a difference between a man's residence and his domicil. He may have his domicil in Philadelphia, and still he may have a residence in New York; for although a man can have but one domicil, he may have several residences. A residence is generally transient in its nature, it becomes a domicil when it is taken up animo manendi. Roberts; Ecc. R. 75.
 
 >     2. Residence is prima facie evidence of national character, but this may at all times be explained. When it is for a special purpose and transient in its nature, it does not destroy the national character.
-~ West's Encyclopedia of American Law, edition 2. S.v. "residence." Retrieved November 2 2020 from [https://legal-dictionary.thefreedictionary.com/Residence](https://legal-dictionary.thefreedictionary.com/Residence)
+*~ West's Encyclopedia of American Law, edition 2. S.v. "residence." Retrieved November 2 2020 from [https://legal-dictionary.thefreedictionary.com/Residence](https://legal-dictionary.thefreedictionary.com/Residence)*
 
+
+The following institutions failed to provide services based upon, what appears to be, a Patriot Act stipulation for a Physical Residence Address: 
+- Federal Elections Commission
+  - lack of support for multi-state transient voters (eg: vacationers)
+- FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America)
+  - bank account (checking, savings, CD, Safety Deposit Box)
+- USPS (PostNet, UPS)
+  - private mail delivery
+- DMV
+  - form{??}ref:CAEDcase
+- IRS
+  - webform
+- EDD
+  - webform application
+- Blood Bank
+  - +others
+
+2018:
+
+I, Nicholas D'Artagnan Dumas, was asked to lie, at multiple DMV's and Banks, about my Residence Address while being 'shelterless' with no, permitted, Physical Residence Address; barring the ability to: receive private mail; open a bank account / safety deposit box; file for unemployment; receive stimulus; register, timely and properly, with the FEC;
+
+2020:
+
+Traveling individuals, while residents, without specific residential street addresses are barred from participating in the elections due to inadequate state implementations.
 
 ## Presidency
+
 9 States bar Write-in candidates.
 
-Supplemental information can be found on confiscated hardware by the NOPD; after the police shooting on Royal Street in New Orleans, Louisiana https://mobile.twitter.com/wwltv/status/1322369591885090817?s=10 @ https://www.youtube.com/watch?v=7cezZkvw718 see me recording w/ Adeline (the puppy).
+Electoral College SCOTUS decision
+
+### RON
+
+- #### individual complaints
+
+<!-- Supplemental information can be found on confiscated hardware by the NOPD; after the police shooting on Royal Street in New Orleans, Louisiana https://mobile.twitter.com/wwltv/status/1322369591885090817?s=10 @ https://www.youtube.com/watch?v=7cezZkvw718 see me recording w/ Adeline (the puppy). -->
 
 FEC requires a "Physical Residence Address" Barring Nicholas D'Artagnan Dumas from registering timely.
 [Nicholas D'Artagnan Dumas FEC reg](https://www.fec.gov/data/candidate/P00017343/?cycle=2020&election_full=true)
 Nicholas D'Artagnan Dumas announced candidacy to the [El Dorado County HOTeam](https://www.counties.org/post/el-dorado-countys-homeless-outreach-team) in 2018 at Safeway, in Placerville, California.
 
+<!-- Original Compilation / Composition with NOPD Detectives; after, device confiscated for video retrieval of NOLA Police Involved Shooting on 10/30/2020 at Royal Street. -->
