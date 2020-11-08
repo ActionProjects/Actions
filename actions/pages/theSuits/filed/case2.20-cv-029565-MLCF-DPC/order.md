@@ -195,6 +195,7 @@ Likewise, it is unlikely that any injuries Dumas has alleged
 are redressable by
 
 > “a properly framed judicial decree.”
+
 *~ See RICHARD H. FALLON, JR. ET AL., HART AND WECHSLER’S THE FEDERAL COURTS AND THE FEDERAL SYSTEM 101 (7th ed. 2015)*.
 
 For **one,** it is extremely doubtful that
