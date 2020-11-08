@@ -26,10 +26,9 @@ Thus this exemplifies the public interest in maintaining a just system through t
 Citing Justice Jackson
 > "no one faithful to our history can deny that the plan originally contemplated what is implicit in its text – that electors would be free agents, to exercise an independent and nonpartisan judgment as to the men best qualified for the Nation's highest offices."
 
-<!--
 The history of recent debates around this seem to adjust words weightings; changing the context of them to a slanted perspective; with continued eschewing of the premise in the original document.
 
-Firstly with the decisions set forth and further by the adherence to without requestioning of the faulty decision <!-- what's this called again?-->Justice Jackson spoke out on. -->
+**Firstly** with the decisions set forth and further by the adherence to without requestioning of the faulty decision <!--what's this called again?-->Justice Jackson spoke out on.
 
 > The next clause (but don’t get attached: it will soon be su-
 perseded) set out the procedures the electors were to follow 
