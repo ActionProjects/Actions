@@ -10,7 +10,7 @@ CIVIL ACTION NO. 20-2965 c/w 20-2966
 
 - SECTION “F”
 
-### ORDER AND REASONS
+### <p align="center">ORDER AND REASONS</p>
 
 On the eve of the 2020 presidential election, the plaintiff
 
@@ -62,7 +62,7 @@ urgency of Dumas’s requests, the Court finds that Dumas lacks
 
 standing to pursue his claims in federal court.
 
-#### I.
+#### <p align="center">I.</p>
 
 > “The party invoking federal jurisdiction bears the burden of establishing”
 
@@ -104,7 +104,7 @@ Dumas’s complaints do not establish any of these
 
 indispensable elements. See id.
 
-##### A. Injury in Fact
+##### <p align="center">A. Injury in Fact</p>
 
 Dumas has not alleged a sufficiently concrete injury in fact.
 
@@ -138,7 +138,7 @@ then quoting
 
 *~ O’Shea v. Littleton, 414 U.S. 488, 494 (1974))).*
 
-##### B. Causation
+##### <p align="center">B. Causation</p>
 
 In a similar vein, Dumas does not state with any particularity
 
@@ -180,7 +180,7 @@ has heretofore gone uncorrected by the people’s representatives is
 
 fanciful and underdeveloped.
 
-##### C. Redressability
+##### <p align="center">C. Redressability</p>
 
 Likewise, it is unlikely that any injuries Dumas has alleged
 
@@ -243,8 +243,8 @@ Accordingly, IT IS ORDERED: that the plaintiff’s complaints
 
 in the consolidated actions captioned above are DISMISSED.
 
- New Orleans, Louisiana, November 3, 2020
+<p align="right">New Orleans, Louisiana, November 3, 2020
  
 _____________________________
- MARTIN L. C. FELDMAN
-UNITED STATES DISTRICT JUDGE
+<p align="right">MARTIN L. C. FELDMAN</p>
+<p align="right">UNITED STATES DISTRICT JUDGE</p>
