@@ -1,3 +1,7 @@
+***Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 1 of 5***
+
+**1**
+
 # UNITED STATES DISTRICT COURT EASTERN DISTRICT OF LOUISIANA
 
 CIVIL ACTION NO. 20-2965 c/w 20-2966
@@ -16,19 +20,15 @@ this Court.1 Among other impracticable remedies, Dumas “demand[s]”
 
 the Court’s enjoinment of a national election in which nearly
 
-100,000,000 Americans have already voted. See Katie Glueck, Early
-
-Votes Near 100 Million as Campaign Races to a Close, N.Y. TIMES
-
-(Nov. 3, 2020).
+100,000,000 Americans have already voted. See *Katie Glueck, Early Votes Near 100 Million as Campaign Races to a Close, N.Y. TIMES (Nov. 3, 2020).*
 
 While Dumas’s pro se complaints are largely incomprehensible,
 
 he appears to assert – in essence - that the actions of a broad
 
-#### 1
+___
 
-Because they are substantively identical, the Court
+[1] Because they are substantively identical, the Court
 
 consolidates both complaints for review here. The Court also
 
@@ -44,9 +44,9 @@ election on election day, the Court disregards the complaints’
 
 deficiencies and proceeds to rule as follows.
 
-Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 1 of 5
+Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 2 of 5
 
-#### 2
+**2**
 
 array of American entities2 have combined to disenfranchise
 
@@ -58,69 +58,49 @@ urgency of Dumas’s requests, the Court finds that Dumas lacks
 
 standing to pursue his claims in federal court.
 
-##### I.
+#### I.
 
-> “The party invoking federal jurisdiction bears the burden of
- 
-establishing” standing to sue. 
+> “The party invoking federal jurisdiction bears the burden of establishing”
 
-Lujan v. Defs. of Wildlife, 504
+standing to sue. 
 
-U.S. 555, 561 (1992). 
+*~ Lujan v. Defs. of Wildlife, 504 U.S. 555, 561 (1992).*
 
-> “Over the years, [the Supreme Court’s] cases
+> “Over the years, [the Supreme Court’s] cases have established that the irreducible constitutional minimum of standing contains three elements.”
 
-have established that the irreducible constitutional minimum of
+*~ Id. at 560.*
 
-standing contains three elements.” Id. at 560. 
+> “First, the plaintiff must have suffered an ‘injury in fact’ – an invasion of a legally protected interest which is (a) concrete and particularized, and (b) ‘actual or imminent, not “conjectural” or “hypothetical.”’” 
 
-> “First, the
+*~ Id. (citations omitted).*
 
-plaintiff must have suffered an ‘injury in fact’ – an invasion of
+> “Second, there must be a causal connection between the injury and the conduct complained of – the injury has to be ‘fairly trace[able] to the challenged action of the defendant, and not . . . th[e] result [of] the independent action of some third party not before the court.” 
 
-a legally protected interest which is (a) concrete and
+*~ Id. (alterations in original) (quoting Simon v. E. Ky. Welfare Rights Org., 426 U.S. 41–42 (1976)).*
 
-particularized, and (b) ‘actual or imminent, not “conjectural” or
+> “Third, it must be
 
-“hypothetical.”’” Id. (citations omitted). “Second, there must
+___
 
-be a causal connection between the injury and the conduct
+[2] Including departments of motor vehicles, the United States Postal Service, private financial institutions, the IRS, and the Federal Election Commission.
 
-complained of – the injury has to be ‘fairly trace[able] to the
+***Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 3 of 5***
 
-challenged action of the defendant, and not . . . th[e] result
+**3**
 
-[of] the independent action of some third party not before the
+> ‘likely,’ as opposed to merely ‘speculative,’ that the injury will be ‘redressed by a favorable decision.’” 
 
-court.” Id. (alterations in original) (quoting Simon v. E. Ky.
+*~ Id. at 561 (quoting Simon, 426 U.S. at 38, 43).*
 
-Welfare Rights Org., 426 U.S. 41–42 (1976)). “Third, it must be
+Even at the pleading stage, where 
 
-2 Including departments of motor vehicles, the United States
+> “general factual allegations of injury resulting from the defendant’s conduct may suffice,” 
 
-Postal Service, private financial institutions, the IRS, and the
-
-Federal Election Commission.
-
-Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 2 of 5
-
-3
-
-‘likely,’ as opposed to merely ‘speculative,’ that the injury will
-
-be ‘redressed by a favorable decision.’” Id. at 561 (quoting
-
-Simon, 426 U.S. at 38, 43).
-
-Even at the pleading stage, where “general factual
-
-allegations of injury resulting from the defendant’s conduct may
-
-suffice,” Dumas’s complaints do not establish any of these
+Dumas’s complaints do not establish any of these
 
 indispensable elements. See id.
 
-A. Injury in Fact
+##### A. Injury in Fact
 
 Dumas has not alleged a sufficiently concrete injury in fact.
 
@@ -134,41 +114,45 @@ incomprehensible academic projects regarding loosely understood
 
 immediate injunctive relief, Dumas does not specifically identify
 
-any “actual or imminent” injury he has suffered or may suffer as
+any 
 
-a result of the defendants’ actions. See Whitmore v. Arkansas,
+> “actual or imminent”
 
-495 U.S. 149, 155 (1990) (“The complainant must allege an injury
+injury he has suffered or may suffer as
 
-to himself that is ‘distinct and palpable,’ as opposed to merely
+a result of the defendants’ actions. 
 
-‘[a]bstract.’” (alteration in original) (emphasis added) (citation
+*~ See Whitmore v. Arkansas, 495 U.S. 149, 155 (1990) 
 
-omitted) (first quoting Warth v. Seldin, 422 U.S. 490, 501 (1975);
+> (“The complainant must allege an injury to himself that is ‘distinct and palpable,’ as opposed to merely ‘[a]bstract.’”
 
-then quoting O’Shea v. Littleton, 414 U.S. 488, 494 (1974))).
+~ (alteration in original) (emphasis added) (citation omitted) (first quoting 
 
-B. Causation
+*~ Warth v. Seldin, 422 U.S. 490, 501 (1975)*;
+
+then quoting 
+
+*~ O’Shea v. Littleton, 414 U.S. 488, 494 (1974))).*
+
+##### B. Causation
 
 In a similar vein, Dumas does not state with any particularity
 
 or precision how the collective actions of the diverse group of
 
-Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 3 of 5
+***Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 4 of 5***
 
-4
+**4**
 
 entities he has sued have caused any injury he has suffered.
 
-Article III’s cases-or-controversies limitation “requires that a
+Article III’s cases-or-controversies limitation 
 
-federal court act only to redress injury that fairly can be traced
+> “requires that a federal court act only to redress injury that fairly can be traced to the challenged action of the defendant, and not injury that results from the independent action of some third party not before the court.” 
 
-to the challenged action of the defendant, and not injury that
+*~ Simon, 426 U.S. at 41–42.*
 
-results from the independent action of some third party not before
-
-the court.” Simon, 426 U.S. at 41–42. Here, Dumas’s complaints
+Here, Dumas’s complaints
 
 fail to allege how his injuries can fairly be traced to the
 
@@ -192,43 +176,48 @@ has heretofore gone uncorrected by the people’s representatives is
 
 fanciful and underdeveloped.
 
-C. Redressability
+##### C. Redressability
 
 Likewise, it is unlikely that any injuries Dumas has alleged
 
-are redressable by “a properly framed judicial decree.” See RICHARD
+are redressable by 
 
-H. FALLON, JR. ET AL., HART AND WECHSLER’S THE FEDERAL COURTS AND THE FEDERAL
+> “a properly framed judicial decree.” 
+*~ See RICHARD H. FALLON, JR. ET AL., HART AND WECHSLER’S THE FEDERAL COURTS AND THE FEDERAL SYSTEM 101 (7th ed. 2015)*.
 
-SYSTEM 101 (7th ed. 2015). For one, it is extremely doubtful that
+For 
+
+**one,**
+
+it is extremely doubtful that
 
 a federal district judge may lawfully enjoin a constitutionally
 
 mandated presidential election. Moreover, it is doubtful that any
 
-Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 4 of 5
+***Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 5 of 5***
 
-5
+**5**
 
 retroactive relief could redress Dumas’s disenfranchisement in
 
 this year’s election.
 
-* * *
+<p align="center">* * *</p>
 
-“No principle is more fundamental to the judiciary’s proper
+> “No principle is more fundamental to the judiciary’s proper role in our system of government than the constitutional limitation of federal-court jurisdiction to actual cases or controversies.”
 
-role in our system of government than the constitutional limitation
+*~ Simon, 426 U.S. at 37.*
 
-of federal-court jurisdiction to actual cases or controversies.”
-
-Simon, 426 U.S. at 37. Equally fundamental to our system of
+Equally fundamental to our system of
 
 government are the quadrennial national elections in which we elect
 
-“a President of the United States of America.” See U.S. CONST.
+> “a President of the United States of America.” 
 
-art. II, § 1. With few exceptions, and for good reason, the
+*~ See U.S. CONST. art. II, § 1.*
+
+With few exceptions, and for good reason, the
 
 criteria for determining the manner in which eligible individuals
 
@@ -252,8 +241,6 @@ in the consolidated actions captioned above are DISMISSED.
 
  New Orleans, Louisiana, November 3, 2020
  
-
 _____________________________
  MARTIN L. C. FELDMAN
 UNITED STATES DISTRICT JUDGE
-Case 2:20-cv-02965-MLCF-DPC Document 4 Filed 11/03/20 Page 5 of 5
