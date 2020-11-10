@@ -49,7 +49,7 @@ Deployed web presence & structured more concepts:
 - [Electric RickShaw](pages/2019/ers.md)
 - Wepwawet (privacy in public)
 - FireSide Chats
-  - Getting my Electoral College "Pledges" (I'm actually against this)
+  - Getting my Electoral College "Pledges" with a ***Hack the Electoral College*** Campaign
 - [Sleucebox Politics](pages/2019/sbp.md)
    - Curated & Conceptualized Implementation
 - [Feel the Thunberg!](pages/2019/ftt.md) 
@@ -102,6 +102,7 @@ Deployed web presence & structured more concepts:
 - [ ] IRS - Stimulus
 - [x] [Filed in LAED](pages/theSuits/Complaints/Residence/_assets/LAED-tributes_n_contacts)
 - - [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.)
+- [ ] SCOTUS Challenge Electoral College
 
 ## Other Complaints
 ### Seattle
@@ -115,7 +116,7 @@ Deployed web presence & structured more concepts:
  - [AUDIO: Tow RAID, Parking Manager](https://bittube.tv/post/0fd2849b-4e65-4333-b923-1de4f8321333)
  - ### New Orleans
  - - #### NOPD, French Market, & DPW (etc...)
-
+ - Presidential Campaign "Hostage"
 
 # Experience
 - [C.E.D.A.](http://www.cedadebate.org/) (Cross Examination Debate Association)
