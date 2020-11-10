@@ -192,6 +192,8 @@ Dodged concussion grenades & tear gas.
 
 Christina goes missing for 10 days!!!!
 
+![getPics](#todo +todo)
+
 # Oregon
 ### Portland
 
