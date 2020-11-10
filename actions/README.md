@@ -1,4 +1,3 @@
-
 # D'Art Write-in, 2020, Vision for the Future.
 # Nicholas D'Artagnan Dumas
 
@@ -74,6 +73,8 @@ Deployed web presence & structured more concepts:
 
 - [FEMA Food Provider Contract Termination](pages/2020/ffpct.md)
 
+- [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77) These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.
+
 # 'Suits
 ## [Residency Issue Discoveries](pages/theSuits/Complaints/Residence)
 
@@ -85,7 +86,7 @@ Deployed web presence & structured more concepts:
 - [ ] "Obama Phones"
 - [x] Private Postal Service
 - [x] FinCEN
-- [ ] FEC (Federal Elections Commision)
+- [x] FEC (Federal Elections Commision)
 
 ### 2019
 
@@ -99,10 +100,10 @@ Deployed web presence & structured more concepts:
 - [ ] Blood Bank
 - [ ] mediCal - meds staph
 - [ ] Prisons
-- [ ] IRS - Stimulus
+- [x] IRS - Stimulus
 - [x] [Filed in LAED](pages/theSuits/Complaints/Residence/_assets/LAED-tributes_n_contacts)
-- - [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.)
-- [ ] SCOTUS Challenge Electoral College
+- - [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.) {+img's}
+- [ ] SCOTUS Challenge Electoral College arguments
 
 ## Other Complaints
 ### Seattle
@@ -113,10 +114,10 @@ Deployed web presence & structured more concepts:
 ## NOPD
  - [VIDEO: Seatbelt Cut Out](https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d)
  - [VIDEO: Officer Interaction](https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a)
- - [AUDIO: Tow RAID, Parking Manager](https://bittube.tv/post/0fd2849b-4e65-4333-b923-1de4f8321333)
+ - [AUDIO: "One Vehicle" Tow RAID, Parking Manager](https://bittube.tv/post/0fd2849b-4e65-4333-b923-1de4f8321333)
  - ### New Orleans
  - - #### NOPD, French Market, & DPW (etc...)
- - Presidential Campaign "Hostage"
+ - Presidential "Campaign Materials Hostage"
 
 # Experience
 - [C.E.D.A.](http://www.cedadebate.org/) (Cross Examination Debate Association)
