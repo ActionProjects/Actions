@@ -18,4 +18,4 @@ Coffee for my Office Space
   - install Spare
 - Tire(s)
   - Full Time 4WD is tearing the, unequally sized, tires apart.
-- 
+[See: pANDorA](htttps://OpenCollective.com/Dartanium)
