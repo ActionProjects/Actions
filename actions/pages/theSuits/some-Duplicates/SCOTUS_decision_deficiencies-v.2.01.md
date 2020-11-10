@@ -19,7 +19,7 @@ The idea of appointing them in the first place establishes contrary grounds than
 
 This systems fundamental design is around the separation of powers; including the people from the government, through the filters of representatives.
 
-To bind a contract to a vote is abhorrent.
+To bind a contract to a vote is abhorrent. <!--the people want it! ... 'explicitly prohibited' people are free to make the change for direct control-->
 
 Thus this exemplifies the public interest in maintaining a just system through the chusing of the representing individuals. Laying the burden of knowing the characters of those who set the tone of the nation.
 
@@ -69,7 +69,10 @@ of the Electoral College’s original voting rules.
 
 <!--Who is "everyone"?-->
 
-<!-- Constitutional Power of establishing a political party -->
+<!-- Constitutional Power of establishing a political party --><!--Freedom tho!-->
+
+<!--(One might think of this as fodder
+for a new season of Veep.)--> <!--really? Does the VP Control anything? Even w/out a vote? Do both sides get something? What would we learn about the selected's abilities to work on the nation?-->
 
 What is the problem with opposing political parties representing Presidential and Vice- offices? How is this "unworkable"? Is it not stated in the constitution that it is decided by the House'o'Rep's?
 
@@ -102,6 +105,10 @@ not liked most by the people
 ### Election by a 'special quorum' 
 
 <!-- explicite consistitutional stateents +cite July6th; cite constitution -->
+> The Electors shall meet in their respective States
+
+What is the purpose of the meeting if they are to be bound by a prior contract?
+Should we be binding Electors, at a State level; or should these "proxies" be enforced privately?
 
 ### The Electoral College is the most important pick.
 
@@ -114,6 +121,13 @@ What does it mean to be 'Nominated'?
 
 ### Should the Presidential Candidate even know they are being considered?
 
+> Candidates should have a reason to campaign in all 50 states
+*~ https://www.nationalpopularvote.com/state-status*
+
+Should candidates be "Campaigning" at all?
+
+Would the public be rioting? Isn't this the opposite of the direction envisioned by 'the Founders'
+
 ## Working in a hijacked system.
 
 <!--### on the financial system--><!--words!ComeBack! {HASH}-->
@@ -123,7 +137,7 @@ What does it mean to be 'Nominated'?
 we are free to be deceived.
 
 <!--if ignorance makes us happier.-->
-
+<!--
 #### Think of a {--} gang (partyRings)
 
 #### bRacketeering systems
@@ -138,6 +152,11 @@ FEC Homepage
 ### Transients are able to contribute
 
 ## Equal voices and freedom of speech by the dollar.
-
+-->
 <!-- to read use THIS HASH sent/txt'd to some people -->
 
+To know our system better
+
+[these are the quadrennial considerations](https://en.wikipedia.org/wiki/List_of_2016_United_States_presidential_electors)
+
+If you believe in the constitution; then, maybe we should give the *Real Electoral College* a try.
