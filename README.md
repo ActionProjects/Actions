@@ -13,4 +13,6 @@ do the things
 
 # [Things which would assist](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/NEEDS.md)
 
+# [this is where I'm from - Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting) if he spoke like we do in C.E.D.A. (check the link in the *Who am I?* he would've made it through his delivery; also, it's not a speaker anymore, it's an, attempted, arrest.)
+
 #todo - ./rel/links!
