@@ -27,6 +27,8 @@ How to create a sinkhole for your citizens.
 
 [Hack the College - SCOTUS](some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
 
+[NOLA]()
+
 ### An Address is the issue
 
 ![whatAddress?](./Complaints/Residence/_assets/LAED-tributes_n_contacts/20201104_165059.jpg)
