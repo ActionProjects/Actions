@@ -159,4 +159,6 @@ To know our system better
 
 [these are the quadrennial considerations](https://en.wikipedia.org/wiki/List_of_2016_United_States_presidential_electors)
 
-If you believe in the constitution; then, maybe we should give the *Real Electoral College* a try.
+If you believe in the constitution; then, maybe we should give the *Real Electoral College* a try. Otherwise; this should need an addendum/amendment.
+
+<!-- SCOTUS's job is, as I see it, to preserve freedoms; maintain the integrity of the mechanics of the system. Eroding the separation of powers is a poor decision. -->
