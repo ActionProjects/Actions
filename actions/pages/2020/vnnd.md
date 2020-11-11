@@ -1,5 +1,9 @@
 # Volunteer Navajo Navajo Decontamination 
 
+Instrumental in initital negotiations for the $10mil C.A.R.E.S. Act Contract.
+
+[Burke Andersson has the record](http://burkefornevada.com/)
+
 ![relPATHcheck](../../_assets/navajoxcerpts/20200701_124740.jpg)
 
 <!--![](/storage/emulated/0/Documents/markor/actions/_assets/GIF/20200701102113.gif)-->
