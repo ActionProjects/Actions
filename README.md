@@ -13,6 +13,8 @@ do the things
 - I've been through:
   - California, Oregon, Washington, Idaho, Utah, Arizona. Nevada, New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
+[see the pledges here](actions\pages\electors)
+
   - #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
 
 - ### Law is Code; right
@@ -21,7 +23,9 @@ do the things
 
     - #### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
 
-- ### Hijacked System - the Electoral College & are Parties Special Interest
+- ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
+
+- How to do it right.
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
 
