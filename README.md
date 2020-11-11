@@ -6,7 +6,9 @@ do the things
 ## [Actions](actions/README.md)
 
 - ### [Presidential Run](actions/README.md#what-have-i-been-up-to)
-- ### [picBlogginHere - caution lrgPics](actions/pages/postBlogPicsMyb.md) #todo+todo img resize
+- I've been through:
+  - California, Oregon, Washington, Idaho, Utah, Arizona. Nevada, New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
+  - #### [picBlogginHere - caution lrgPics](actions/pages/postBlogPicsMyb.md) {#todo+todo img resize, add content, thumbnails & links}
 - ### Law is Code; right?
   - #### [Legal Actions](actions/pages/theSuits/README.md)
     - #### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision)
