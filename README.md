@@ -11,7 +11,7 @@ do the things
 - I've been through:
   - California, Oregon, Washington, Idaho, Utah, Arizona. Nevada, New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
   - #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
-- ### Law is Code; right?
+- ### Law is Code; right
   - #### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
     - #### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
 
