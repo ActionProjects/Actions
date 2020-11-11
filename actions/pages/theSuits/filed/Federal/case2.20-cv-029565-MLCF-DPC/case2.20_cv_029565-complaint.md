@@ -6,7 +6,7 @@
 
 - ### Making sure to only address it from the frame of perspective desired to be dismissive
 
-  - ## This fails liberal construction
+- #### This fails liberal construction
 
 - "Intended to be Amended & Addended"
 
