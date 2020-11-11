@@ -13,7 +13,7 @@ do the things
 - I've been through:
   - California, Oregon, Washington, Idaho, Utah, Arizona. Nevada, New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
-[see the pledges here](actions\pages\electors)
+[see the pledges here](action/pages/electors)
 
   - #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
 
