@@ -19,6 +19,8 @@ Liberal Construction [^2][2]:
 Patriot Act & Property Tax
 How to create a sinkhole for your citizens.
 
+[filedProbsTransientResidence](/actions/pages/theSuits/Complaints/masterComplaint.md)
+
 [residence-SoC.md](Complaints/Residence/statementOfClaim.md)
 
 [Presidential Campaign](Complaints/Presidential_Campaign/README.md)
@@ -27,7 +29,7 @@ How to create a sinkhole for your citizens.
 
 [Hack the College - SCOTUS](some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
 
-[NOLA]()
+[NOLA](actions\pages\theSuits\Complaints\LA\NewOrleans\Complaint_NOLA.md)
 
 ### An Address is the issue
 
