@@ -34,9 +34,14 @@
 
 <!--https://stackoverflow.com/questions/125632/is-it-possible-to-link-to-a-bookmark-within-a-pdf-using-url-parameters-->
 
-https://cdn.donaldjtrump.com/public-files/press_assets/1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf
-
 (actions\pages\theSuits\Complaints\Presidential_Campaign\_resources\trump\SCOTUS\20201022093436364_WISE SCOTUS Emergency Injunction.pdf)
+
 - [original](https://www.supremecourt.gov/DocketPDF/20/20A71/158465/20201022093436364_WISE%20SCOTUS%20Emergency%20Injunction.pdf)
-(actions\pages\theSuits\Complaints\Presidential_Campaign\_resources\trump\SCOTUS\20201022114507746_SCOTUS Emergency Motion for Injunction Pending Appeal vf wDHT sig.pdf)
+
+[Emergency Injunction](actions\pages\theSuits\Complaints\Presidential_Campaign\_resources\trump\SCOTUS\20201022114507746_SCOTUS Emergency Motion for Injunction Pending Appeal vf wDHT sig.pdf)
+
 - [original](https://www.supremecourt.gov/DocketPDF/20/20A72/158478/20201022114507746_SCOTUS%20Emergency%20Motion%20for%20Injunction%20Pending%20Appeal%20vf%20wDHT%20sig.pdf)
+
+[Michigan](actions\pages\theSuits\Complaints\Presidential_Campaign\_resources\trump\1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf)
+
+[trump-Michigan Original](https://cdn.donaldjtrump.com/public-files/press_assets/1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf)
