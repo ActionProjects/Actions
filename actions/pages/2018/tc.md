@@ -13,4 +13,14 @@ Pay your community, instead of the gym.
 Bonuses:
 _
 
+Chico:
 
+Logan's started a team!
+
+...
+
+Along my travels I've found:
+
+- Seattle
+- NOLA
+  - Empire](
