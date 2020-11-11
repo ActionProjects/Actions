@@ -23,7 +23,7 @@ do the things
 - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
 - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
-## [Assist](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/NEEDS.md "help hack the Electoral College")
+## [Assist](actions\pages\NEEDS.md "help hack the Electoral College")
 
 #todo - ./rel/links!
 
