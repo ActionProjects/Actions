@@ -1,13 +1,13 @@
 # SCOTUS Electoral College Decision
 
-The decision invalidates the central role of the Electoral College. 
+The decision invalidates the central role of the Electoral College.
 The Electors chuse [sic] the President; and, the systems faith is in knowing this whole's discretionary character; predicated upon their nomination and election to position.
 
 The state legislature to mandate a Popular Vote to take all minifies the core to merely a 'point system;' whereby no Electors are needed.
 
 <!-- Time to make a timely decision when NV Stokkes issues present themselves, among other issues.-->
 
-## The meeting of the Electors to sign on their, final, decisions.
+## The meeting of the Electors to sign on their, final, decisions
 
 Thus this system's  entire reliance is upon representation; at its foundation is the formation of a select set of individuals; with, which whom the power lay to establish the grounds of each governance cycle, through further selections of judicial officials. The very nature of the system is through indirect  powers; giving authorative responsibility to those entrusted. This design had [in part] the intention of slowing the public sway to some momentary swing of position; generating a stable system.
 
@@ -78,7 +78,7 @@ What is the problem with opposing political parties representing Presidential an
 
 Contrary to the existing status quo; the premise that the Electoral College candidate selection may be, prima faci, the most in important selection process. Where, the decisions regarding the 12th Addendum and selecting Candidates for the Electoral College predicated upon the popular presidential candidate 
 
-## Is the Party System the Problem?
+## Is the Party System the Problem
 
 aren't parties inherently, also bound to, special interests?
 
@@ -94,7 +94,7 @@ There are things which are blatantly more easily observed in the forest than fro
 
 This paradigmical lensing of a society to follow a tradition; rather than the mechanical implementation, beginning with a feud (cite July6th), seems to be an unspoken blindspot (the unexpected evolution of the party system) in a type of 'Survivor/Success(airplanes&buildings) Bias' issue. Where do we draw the line when it comes to 'Group Think' and [conformity](https://en.wikipedia.org/wiki/Asch_conformity_experiments). While appearances are had that the best arguments are made by those at the top of some [social hierarchy](https://courses.lumenlearning.com/boundless-sociology/chapter/the-class-structure-in-the-u-s/), with premises of 'merits'<!--; established by time-->. Where is the argument for doing it right?
 
-### Should we even know who might be considered for President?
+### Should we even know who might be considered for President
 
 > ~best for the nation
 
@@ -110,7 +110,7 @@ not liked most by the people
 What is the purpose of the meeting if they are to be bound by a prior contract?
 Should we be binding Electors, at a State level; or should these "proxies" be enforced privately?
 
-### The Electoral College is the most important pick.
+### The Electoral College is the most important pick
 
 <!-- best for the country doesn't mean liked by the people -->
 <!-- cite emotional response studies, dials on videos during Obama speeches; etc... -->
@@ -119,16 +119,16 @@ Should a candidate even know they are being considered to fulfill a national dut
 
 What does it mean to be 'Nominated'?
 
-### Should the Presidential Candidate even know they are being considered?
+### Should the Presidential Candidate even know they are being considered
 
 > Candidates should have a reason to campaign in all 50 states
-*~ https://www.nationalpopularvote.com/state-status*
+*[PopularVote](~ https://www.nationalpopularvote.com/state-status)*
 
 Should candidates be "Campaigning" at all?
 
 Would the public be rioting? Isn't this the opposite of the direction envisioned by 'the Founders'
 
-## Working in a hijacked system.
+## Working in a hijacked system
 
 <!--### on the financial system--><!--words!ComeBack! {HASH}-->
 
@@ -162,3 +162,8 @@ To know our system better
 If you believe in the constitution; then, maybe we should give the *Real Electoral College* a try. Otherwise; this should need an addendum/amendment.
 
 <!-- SCOTUS's job is, as I see it, to preserve freedoms; maintain the integrity of the mechanics of the system. Eroding the separation of powers is a poor decision. -->
+
+
+## > length of time doing something - eg: we've been doing it this way for... xTime
+
+Length of time doing something wrong is no excuse to keep doing it wrong.

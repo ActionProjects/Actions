@@ -14,6 +14,6 @@
 
 ## Practicality
 
-- [Trump victory in PA](./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania)
-
 [Support](./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md)
+
+- [Trump victory in PA](./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania)
