@@ -49,6 +49,7 @@ Deployed web presence & structured more concepts:
 - Wepwawet (privacy in public)
 - FireSide Chats
   - Getting my Electoral College "Pledges" with a ***Hack the Electoral College*** Campaign
+  - find me on things like "Couchsurfing"
 - [Sleucebox Politics](pages/2019/sbp.md)
    - Curated & Conceptualized Implementation
 - [Feel the Thunberg!](pages/2019/ftt.md) 
