@@ -1,0 +1,783 @@
+2020-11-12T21:38:52.5144444Z ##[group]Run gaurav-nelson/github-action-markdown-link-check@v1
+2020-11-12T21:38:52.5145643Z with:
+2020-11-12T21:38:52.5146188Z   use-quiet-mode: no
+2020-11-12T21:38:52.5146867Z   use-verbose-mode: no
+2020-11-12T21:38:52.5147599Z   config-file: mlc_config.json
+2020-11-12T21:38:52.5148259Z   folder-path: .
+2020-11-12T21:38:52.5148801Z   max-depth: -1
+2020-11-12T21:38:52.5149570Z   check-modified-files-only: no
+2020-11-12T21:38:52.5150417Z   base-branch: master
+2020-11-12T21:38:52.5151048Z   file-extension: .md
+2020-11-12T21:38:52.5151626Z ##[endgroup]
+2020-11-12T21:38:52.5224671Z ##[command]/usr/bin/docker run --name bb1072419103a74e43b69431f64f7c152cec_0ef057 --label 54bb10 --workdir /github/workspace --rm -e INPUT_USE-QUIET-MODE -e INPUT_USE-VERBOSE-MODE -e INPUT_CONFIG-FILE -e INPUT_FOLDER-PATH -e INPUT_MAX-DEPTH -e INPUT_CHECK-MODIFIED-FILES-ONLY -e INPUT_BASE-BRANCH -e INPUT_FILE-EXTENSION -e INPUT_FILE-PATH -e HOME -e GITHUB_JOB -e GITHUB_REF -e GITHUB_SHA -e GITHUB_REPOSITORY -e GITHUB_REPOSITORY_OWNER -e GITHUB_RUN_ID -e GITHUB_RUN_NUMBER -e GITHUB_RETENTION_DAYS -e GITHUB_ACTOR -e GITHUB_WORKFLOW -e GITHUB_HEAD_REF -e GITHUB_BASE_REF -e GITHUB_EVENT_NAME -e GITHUB_SERVER_URL -e GITHUB_API_URL -e GITHUB_GRAPHQL_URL -e GITHUB_WORKSPACE -e GITHUB_ACTION -e GITHUB_EVENT_PATH -e GITHUB_ACTION_REPOSITORY -e GITHUB_ACTION_REF -e GITHUB_PATH -e GITHUB_ENV -e RUNNER_OS -e RUNNER_TOOL_CACHE -e RUNNER_TEMP -e RUNNER_WORKSPACE -e ACTIONS_RUNTIME_URL -e ACTIONS_RUNTIME_TOKEN -e ACTIONS_CACHE_URL -e GITHUB_ACTIONS=true -e CI=true -v "/var/run/docker.sock":"/var/run/docker.sock" -v "/home/runner/work/_temp/_github_home":"/github/home" -v "/home/runner/work/_temp/_github_workflow":"/github/workflow" -v "/home/runner/work/_temp/_runner_file_commands":"/github/file_commands" -v "/home/runner/work/Actions/Actions":"/github/workspace" 54bb10:72419103a74e43b69431f64f7c152cec  "no" "no" "mlc_config.json" "." "-1" "no" "master" ".md" ""
+2020-11-12T21:39:12.4545481Z npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+2020-11-12T21:39:12.6559675Z npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+2020-11-12T21:39:12.9480736Z 
+2020-11-12T21:39:12.9481341Z added 65 packages, and audited 65 packages in 3s
+2020-11-12T21:39:12.9481622Z 
+2020-11-12T21:39:12.9481920Z 4 packages are looking for funding
+2020-11-12T21:39:12.9482302Z   run `npm fund` for details
+2020-11-12T21:39:12.9489836Z 
+2020-11-12T21:39:12.9490192Z found 0 vulnerabilities
+2020-11-12T21:39:12.9567549Z [0;34mCannot find [0;33mmlc_config.json[0m
+2020-11-12T21:39:12.9568744Z [0;33mNOTE: See https://github.com/tcort/markdown-link-check#config-file-format to know more about
+2020-11-12T21:39:12.9569896Z customizing markdown-link-check by using a configuration file.[0m
+2020-11-12T21:39:12.9570606Z [0;34mUSE_QUIET_MODE: no[0m
+2020-11-12T21:39:12.9571084Z [0;34mUSE_VERBOSE_MODE: no[0m
+2020-11-12T21:39:12.9571530Z [0;34mFOLDER_PATH: .[0m
+2020-11-12T21:39:12.9571964Z [0;34mMAX_DEPTH: -1[0m
+2020-11-12T21:39:12.9572471Z [0;34mCHECK_MODIFIED_FILES: no[0m
+2020-11-12T21:39:12.9575964Z [0;34mFILE_EXTENSION: .md[0m
+2020-11-12T21:39:12.9576430Z [0;34mFILE_PATH: [0m
+2020-11-12T21:39:12.9577169Z + find . -name '*.md' -not -path './node_modules/*' -exec markdown-link-check '{}' ';'
+2020-11-12T21:40:17.4746837Z + set +x
+2020-11-12T21:40:17.4794564Z [0;33m=========================> MARKDOWN LINK CHECK <=========================[0m
+2020-11-12T21:40:17.4808421Z 
+2020-11-12T21:40:17.4813312Z FILE: ./README.md
+2020-11-12T21:40:17.4814193Z [✓] https://OpenCollective.com/Dartanium
+2020-11-12T21:40:17.4814827Z [✓] actions/README.md
+2020-11-12T21:40:17.4815419Z [✓] actions/README.md#what-have-i-been-up-to
+2020-11-12T21:40:17.4817185Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/README.md#--volunteer-navajo-nation-decontamination-captured-this-moment
+2020-11-12T21:40:17.4818727Z [✓] actions/_assets/electors
+2020-11-12T21:40:17.4819293Z [✓] actions/pages/postBlogPicsMyb.md
+2020-11-12T21:40:17.4820190Z [✓] actions/pages/theSuits/README.md
+2020-11-12T21:40:17.4821763Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision
+2020-11-12T21:40:17.4823049Z [✓] actions/README.md#experience
+2020-11-12T21:40:17.4824037Z [✓] https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California
+2020-11-12T21:40:17.4826411Z [✓] https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting
+2020-11-12T21:40:17.4828613Z [✖] https://www.sacbee.com/news/california/article246652603.html
+2020-11-12T21:40:17.4829526Z [✓] https://www.ijpr.org/state-of-jefferson
+2020-11-12T21:40:17.4830143Z [✓] actions/pages/NEEDS.md
+2020-11-12T21:40:17.4830694Z [✓] https://github.com/topics/osint
+2020-11-12T21:40:17.4831358Z [✓] https://github.com/jivoi/awesome-osint
+2020-11-12T21:40:17.4832068Z [✓] https://github.com/smicallef/spiderfoot
+2020-11-12T21:40:17.4832733Z [✓] https://github.com/topics/foia
+2020-11-12T21:40:17.4833449Z [✓] https://github.com/sunlightpolicy/Sunlight_FOIA
+2020-11-12T21:40:17.4834374Z [✓] https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn
+2020-11-12T21:40:17.4834895Z 
+2020-11-12T21:40:17.4835130Z 20 links checked.
+2020-11-12T21:40:17.4835356Z 
+2020-11-12T21:40:17.4835619Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.4836398Z [✖] https://www.sacbee.com/news/california/article246652603.html → Status: 0
+2020-11-12T21:40:17.4836872Z 
+2020-11-12T21:40:17.4837341Z FILE: ./actions/pages/2020/deconD'Arts/README.md
+2020-11-12T21:40:17.4837735Z No hyperlinks found!
+2020-11-12T21:40:17.4837945Z 
+2020-11-12T21:40:17.4838184Z 0 links checked.
+2020-11-12T21:40:17.4838382Z 
+2020-11-12T21:40:17.4838641Z FILE: ./actions/pages/2020/cav.md
+2020-11-12T21:40:17.4838983Z No hyperlinks found!
+2020-11-12T21:40:17.4839206Z 
+2020-11-12T21:40:17.4839444Z 0 links checked.
+2020-11-12T21:40:17.4839627Z 
+2020-11-12T21:40:17.4839913Z FILE: ./actions/pages/2020/mu.md
+2020-11-12T21:40:17.4840248Z No hyperlinks found!
+2020-11-12T21:40:17.4840456Z 
+2020-11-12T21:40:17.4840693Z 0 links checked.
+2020-11-12T21:40:17.4840893Z 
+2020-11-12T21:40:17.4841249Z FILE: ./actions/pages/2020/royalShotsSeeded.md
+2020-11-12T21:40:17.4842124Z [⚠] blob:https://instant.io/abd587c5-aeab-46c3-aa43-747241cb8199
+2020-11-12T21:40:17.4843136Z [⚠] blob:https://instant.io/bc1e38fe-81d0-4b28-96ee-93da52999781
+2020-11-12T21:40:17.4844047Z [⚠] blob:https://instant.io/3681013a-2b31-48bd-bffb-d7334fc0fd87
+2020-11-12T21:40:17.4844988Z [⚠] blob:https://instant.io/d4c8b14c-9f42-4ecc-bee3-7a2ccad6418c
+2020-11-12T21:40:17.4845971Z [✓] https://instant.io/#784b44208a7b99d2a8cc48a21b6cabc7b4dee3bd
+2020-11-12T21:40:17.4848538Z [⚠] magnet:?xt=urn:btih:784b44208a7b99d2a8cc48a21b6cabc7b4dee3bd&dn=VID_20201030_163659250.mp4&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.empire-js.us%3A1337
+2020-11-12T21:40:17.4850805Z [⚠] blob:https://instant.io/d3525b1b-a55c-485a-adcc-0ad5b575728c
+2020-11-12T21:40:17.4851244Z 
+2020-11-12T21:40:17.4851491Z 7 links checked.
+2020-11-12T21:40:17.4851821Z 
+2020-11-12T21:40:17.4852101Z FILE: ./actions/pages/2020/posp.md
+2020-11-12T21:40:17.4852578Z [✓] https://FEC.gov
+2020-11-12T21:40:17.4853424Z [✓] https://www.reddit.com/r/ScottSantens/comments/f3ehx6/join_the_scott_santens_discord_server/
+2020-11-12T21:40:17.4854353Z [✖] actions\pages\2020\_assets-2020\Screenshot_20201112-130233_Gmail.jpg
+2020-11-12T21:40:17.4854691Z 
+2020-11-12T21:40:17.4854932Z 3 links checked.
+2020-11-12T21:40:17.4855118Z 
+2020-11-12T21:40:17.4855380Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.4856027Z [✖] actions\pages\2020\_assets-2020\Screenshot_20201112-130233_Gmail.jpg → Status: 400
+2020-11-12T21:40:17.4856376Z 
+2020-11-12T21:40:17.4856757Z FILE: ./actions/pages/2020/ffpct.md
+2020-11-12T21:40:17.4857230Z [✖] linksomething
+2020-11-12T21:40:17.4857453Z 
+2020-11-12T21:40:17.4857680Z 1 links checked.
+2020-11-12T21:40:17.4857879Z 
+2020-11-12T21:40:17.4858137Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.4858620Z [✖] linksomething → Status: 400
+2020-11-12T21:40:17.4858879Z 
+2020-11-12T21:40:17.4859155Z FILE: ./actions/pages/2020/vnnd.md
+2020-11-12T21:40:17.4859756Z [✓] http://burkefornevada.com/
+2020-11-12T21:40:17.4860463Z [✓] ../../_assets/navajoxcerpts/20200701_124740.jpg
+2020-11-12T21:40:17.4860938Z [✓] ../../_assets/GIF/20200701102113.gif
+2020-11-12T21:40:17.4861556Z [✓] ../../_assets/GIF/20200820_210213.gif
+2020-11-12T21:40:17.4862006Z [✓] ../../_assets/GIF/20200916_104036.gif
+2020-11-12T21:40:17.4862501Z [✓] ../../_assets/navajoxcerpts/20200709_182447.jpg
+2020-11-12T21:40:17.4862765Z 
+2020-11-12T21:40:17.4862992Z 6 links checked.
+2020-11-12T21:40:17.4863194Z 
+2020-11-12T21:40:17.4863469Z FILE: ./actions/pages/2020/dfd.md
+2020-11-12T21:40:17.4864171Z [✓] https://southernsolidarity.org/
+2020-11-12T21:40:17.4864583Z 
+2020-11-12T21:40:17.4864822Z 1 links checked.
+2020-11-12T21:40:17.4865006Z 
+2020-11-12T21:40:17.4865280Z FILE: ./actions/pages/2020/fbit.md
+2020-11-12T21:40:17.4865993Z [✓] https://en.wikipedia.org/wiki/Capitol_Hill_Autonomous_Zone
+2020-11-12T21:40:17.4866452Z 
+2020-11-12T21:40:17.4866677Z 1 links checked.
+2020-11-12T21:40:17.4866879Z 
+2020-11-12T21:40:17.4867146Z FILE: ./actions/pages/2018/wd.md
+2020-11-12T21:40:17.4867482Z No hyperlinks found!
+2020-11-12T21:40:17.4867691Z 
+2020-11-12T21:40:17.4867927Z 0 links checked.
+2020-11-12T21:40:17.4868110Z 
+2020-11-12T21:40:17.4868381Z FILE: ./actions/pages/2018/bhl.md
+2020-11-12T21:40:17.4868720Z No hyperlinks found!
+2020-11-12T21:40:17.4868928Z 
+2020-11-12T21:40:17.4869167Z 0 links checked.
+2020-11-12T21:40:17.4869365Z 
+2020-11-12T21:40:17.4869639Z FILE: ./actions/pages/2018/cfen.md
+2020-11-12T21:40:17.4870275Z [✓] https://en.wikipedia.org/wiki/Dyson_sphere
+2020-11-12T21:40:17.4871042Z [✓] https://duckduckgo.com/i/742a122a.png
+2020-11-12T21:40:17.4871379Z 
+2020-11-12T21:40:17.4871619Z 2 links checked.
+2020-11-12T21:40:17.4871803Z 
+2020-11-12T21:40:17.4872075Z FILE: ./actions/pages/2018/cyv.md
+2020-11-12T21:40:17.4872414Z No hyperlinks found!
+2020-11-12T21:40:17.4872621Z 
+2020-11-12T21:40:17.4872863Z 0 links checked.
+2020-11-12T21:40:17.4873081Z 
+2020-11-12T21:40:17.4873335Z FILE: ./actions/pages/2018/tto.md
+2020-11-12T21:40:17.4873672Z No hyperlinks found!
+2020-11-12T21:40:17.4873893Z 
+2020-11-12T21:40:17.4874130Z 0 links checked.
+2020-11-12T21:40:17.4874316Z 
+2020-11-12T21:40:17.4874580Z FILE: ./actions/pages/2018/tc.md
+2020-11-12T21:40:17.4874912Z No hyperlinks found!
+2020-11-12T21:40:17.4875118Z 
+2020-11-12T21:40:17.4875355Z 0 links checked.
+2020-11-12T21:40:17.4875552Z 
+2020-11-12T21:40:17.4875812Z FILE: ./actions/pages/2018/mlgb.md
+2020-11-12T21:40:17.4876458Z [✓] https://www.liveleak.com/view?t=aWjSO_1604496076
+2020-11-12T21:40:17.4876834Z 
+2020-11-12T21:40:17.4877075Z 1 links checked.
+2020-11-12T21:40:17.4877427Z 
+2020-11-12T21:40:17.4877688Z FILE: ./actions/pages/2019/sbp.md
+2020-11-12T21:40:17.4878513Z [✓] https://en.m.wikipedia.org/wiki/Placer_mining#Sluice_box
+2020-11-12T21:40:17.4879525Z [✓] https://en.wikipedia.org/wiki/Sluice#Types_of_sluice_gates
+2020-11-12T21:40:17.4879946Z 
+2020-11-12T21:40:17.4880329Z 2 links checked.
+2020-11-12T21:40:17.4880515Z 
+2020-11-12T21:40:17.4880783Z FILE: ./actions/pages/2019/ers.md
+2020-11-12T21:40:17.4881119Z No hyperlinks found!
+2020-11-12T21:40:17.4881327Z 
+2020-11-12T21:40:17.4881565Z 0 links checked.
+2020-11-12T21:40:17.4881749Z 
+2020-11-12T21:40:17.4882016Z FILE: ./actions/pages/2019/ftt.md
+2020-11-12T21:40:17.4882353Z No hyperlinks found!
+2020-11-12T21:40:17.4882577Z 
+2020-11-12T21:40:17.4882796Z 0 links checked.
+2020-11-12T21:40:17.4882995Z 
+2020-11-12T21:40:17.4883626Z FILE: ./actions/pages/arts-n-campn/copiesMirrorsForks/asset2.md
+2020-11-12T21:40:17.4884362Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152154266.jpg
+2020-11-12T21:40:17.4885060Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152214339.jpg
+2020-11-12T21:40:17.4885633Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152244803.jpg
+2020-11-12T21:40:17.4886225Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152307664.jpg
+2020-11-12T21:40:17.4886500Z 
+2020-11-12T21:40:17.4886739Z 4 links checked.
+2020-11-12T21:40:17.4886942Z 
+2020-11-12T21:40:17.4887381Z ERROR: 4 dead links found!
+2020-11-12T21:40:17.4888016Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152154266.jpg → Status: 400
+2020-11-12T21:40:17.4888740Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152214339.jpg → Status: 400
+2020-11-12T21:40:17.4889459Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152244803.jpg → Status: 400
+2020-11-12T21:40:17.4890157Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152307664.jpg → Status: 400
+2020-11-12T21:40:17.4890490Z 
+2020-11-12T21:40:17.4891143Z FILE: ./actions/pages/arts-n-campn/copiesMirrorsForks/asset1.md
+2020-11-12T21:40:17.4891826Z [✓] assets/IMG_20201027_152154266.jpg
+2020-11-12T21:40:17.4892311Z [✓] assets/IMG_20201027_152214339.jpg
+2020-11-12T21:40:17.4892751Z [✓] assets/IMG_20201027_152244803.jpg
+2020-11-12T21:40:17.4893204Z [✓] assets/IMG_20201027_152307664.jpg
+2020-11-12T21:40:17.4894480Z [✓] https://docs.google.com/spreadsheets/d/1fV5d5xh4jVgf64LqQeruthXGeCErheku01y3v7Fnac4/edit?usp=drivesdk
+2020-11-12T21:40:17.4895467Z 
+2020-11-12T21:40:17.4895727Z 5 links checked.
+2020-11-12T21:40:17.4895928Z 
+2020-11-12T21:40:17.4896473Z FILE: ./actions/pages/arts-n-campn/portuda/FrMkt.md
+2020-11-12T21:40:17.4896930Z No hyperlinks found!
+2020-11-12T21:40:17.4897155Z 
+2020-11-12T21:40:17.4897408Z 0 links checked.
+2020-11-12T21:40:17.4897619Z 
+2020-11-12T21:40:17.4898137Z FILE: ./actions/pages/arts-n-campn/legendAr'Act.md
+2020-11-12T21:40:17.4898827Z [✖] copiesMirrorsForks/Concept.md
+2020-11-12T21:40:17.4899400Z [✖] portuda/Concept.md
+2020-11-12T21:40:17.4900003Z [✖] royalPhilCampSafety/Concept.md
+2020-11-12T21:40:17.4900435Z 
+2020-11-12T21:40:17.4900672Z 3 links checked.
+2020-11-12T21:40:17.4900885Z 
+2020-11-12T21:40:17.4901143Z ERROR: 3 dead links found!
+2020-11-12T21:40:17.4902042Z [✖] copiesMirrorsForks/Concept.md → Status: 400
+2020-11-12T21:40:17.4902750Z [✖] portuda/Concept.md → Status: 400
+2020-11-12T21:40:17.4903388Z [✖] royalPhilCampSafety/Concept.md → Status: 400
+2020-11-12T21:40:17.4903772Z 
+2020-11-12T21:40:17.4904094Z FILE: ./actions/pages/theSuits/Legend.md
+2020-11-12T21:40:17.4904543Z [✓] #custom-id
+2020-11-12T21:40:17.4905078Z [✓] Complaints/LA/NewOrleans/Legend-NOLA.md
+2020-11-12T21:40:17.4905544Z [✓] 
+2020-11-12T21:40:17.4981792Z [✖] [New_Orleans,_Louisiana](/storage/emulated/0/Documents/markor/theSuits/Complaints/LA/NewOrleans/Legend-NOLA.md)
+2020-11-12T21:40:17.4982430Z 
+2020-11-12T21:40:17.4982709Z 4 links checked.
+2020-11-12T21:40:17.4982913Z 
+2020-11-12T21:40:17.4983176Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.4984310Z [✖] [New_Orleans,_Louisiana](/storage/emulated/0/Documents/markor/theSuits/Complaints/LA/NewOrleans/Legend-NOLA.md) → Status: 400
+2020-11-12T21:40:17.4984980Z 
+2020-11-12T21:40:17.4985435Z FILE: ./actions/pages/theSuits/Complaints/_FedSup/_assets/inclMGsIPFS.md
+2020-11-12T21:40:17.4985953Z No hyperlinks found!
+2020-11-12T21:40:17.4986163Z 
+2020-11-12T21:40:17.4986402Z 0 links checked.
+2020-11-12T21:40:17.4986599Z 
+2020-11-12T21:40:17.4987054Z FILE: ./actions/pages/theSuits/Complaints/_FedSup/_resources/inclPDFsIPFS.md
+2020-11-12T21:40:17.4987789Z No hyperlinks found!
+2020-11-12T21:40:17.4988014Z 
+2020-11-12T21:40:17.4988251Z 0 links checked.
+2020-11-12T21:40:17.4988434Z 
+2020-11-12T21:40:17.4989028Z FILE: ./actions/pages/theSuits/Complaints/States-RON/README.md
+2020-11-12T21:40:17.4989502Z No hyperlinks found!
+2020-11-12T21:40:17.4989710Z 
+2020-11-12T21:40:17.4989948Z 0 links checked.
+2020-11-12T21:40:17.4990145Z 
+2020-11-12T21:40:17.4991282Z FILE: ./actions/pages/theSuits/Complaints/Presidential_Campaign/Challenge-2-SCOTUS-electoralCollege-Decision.md
+2020-11-12T21:40:17.4993315Z [✓] https://via.hypothes.is/https://www.supremecourt.gov/DocketPDF/19/19-518/142792/20200501134637387_19-518ReplyBriefForPresidentialElectors.pdf
+2020-11-12T21:40:17.4994389Z 
+2020-11-12T21:40:17.4994629Z 1 links checked.
+2020-11-12T21:40:17.4994813Z 
+2020-11-12T21:40:17.4995272Z FILE: ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md
+2020-11-12T21:40:17.4997488Z [✖] [https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state](https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state)
+2020-11-12T21:40:17.5000487Z [✓] https://web.archive.org/web/20201106021846/https://www.usnews.com/news/elections/articles/2020-11-05/trump-campaign-files-lawsuits-in-swing-states
+2020-11-12T21:40:17.5002458Z [✓] https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/DOCKET-ALERT.pdf
+2020-11-12T21:40:17.5003789Z [✓] https://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx
+2020-11-12T21:40:17.5005803Z [✓] https://www.ncsl.org/research/elections-and-campaigns/after-the-voting-ends-the-steps-to-complete-an-election.aspx
+2020-11-12T21:40:17.5007697Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG
+2020-11-12T21:40:17.5008746Z [✓] https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-12T21:40:17.5009902Z [✓] https://web.archive.org/web/20201105211435/https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-12T21:40:17.5011237Z [✓] https://www.supremecourt.gov/DocketPDF/20/20A71/158465/20201022093436364_WISE%20SCOTUS%20Emergency%20Injunction.pdf
+2020-11-12T21:40:17.5012628Z [✓] https://www.supremecourt.gov/DocketPDF/20/20A72/158478/20201022114507746_SCOTUS%20Emergency%20Motion%20for%20Injunction%20Pending%20Appeal%20vf%20wDHT%20sig.pdf
+2020-11-12T21:40:17.5014453Z [✖] actions\pages\theSuits\Complaints\Presidential_Campaign_resources\trump\1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf
+2020-11-12T21:40:17.5016498Z [✓] https://cdn.donaldjtrump.com/public-files/press_assets/1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf
+2020-11-12T21:40:17.5020739Z [✓] https://www.google.com/search?&q=site%3Ahttps%3A%2F%2Fcdn.donaldjtrump.com%2F+*.pdf
+2020-11-12T21:40:17.5021472Z 
+2020-11-12T21:40:17.5021745Z 13 links checked.
+2020-11-12T21:40:17.5021952Z 
+2020-11-12T21:40:17.5022235Z ERROR: 3 dead links found!
+2020-11-12T21:40:17.5024448Z [✖] [https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state](https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state) → Status: 400
+2020-11-12T21:40:17.5026871Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG → Status: 400
+2020-11-12T21:40:17.5028496Z [✖] actions\pages\theSuits\Complaints\Presidential_Campaign_resources\trump\1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf → Status: 400
+2020-11-12T21:40:17.5029404Z 
+2020-11-12T21:40:17.5029853Z FILE: ./actions/pages/theSuits/Complaints/Presidential_Campaign/README.md
+2020-11-12T21:40:17.5030742Z [✖] ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md
+2020-11-12T21:40:17.5031673Z [✖] ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania
+2020-11-12T21:40:17.5032139Z 
+2020-11-12T21:40:17.5032379Z 2 links checked.
+2020-11-12T21:40:17.5032567Z 
+2020-11-12T21:40:17.5032983Z ERROR: 2 dead links found!
+2020-11-12T21:40:17.5033720Z [✖] ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md → Status: 400
+2020-11-12T21:40:17.5034719Z [✖] ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania → Status: 400
+2020-11-12T21:40:17.5035232Z 
+2020-11-12T21:40:17.5035670Z FILE: ./actions/pages/theSuits/Complaints/masterComplaint.md
+2020-11-12T21:40:17.5036463Z [✓] https://github.com/ActionProjects/Actions
+2020-11-12T21:40:17.5037071Z [✓] #issues-under
+2020-11-12T21:40:17.5037702Z [✓] #intended-to-be-amended--addended
+2020-11-12T21:40:17.5038485Z [✓] #rico-act
+2020-11-12T21:40:17.5038938Z [✓] #false-claims-act
+2020-11-12T21:40:17.5039520Z [✓] #1st-amendment
+2020-11-12T21:40:17.5039957Z [✓] #4th-amendment
+2020-11-12T21:40:17.5040433Z [✓] #5th--15th-amendments
+2020-11-12T21:40:17.5040907Z [✓] #6th-amendment
+2020-11-12T21:40:17.5041346Z [✓] #8th-amendment
+2020-11-12T21:40:17.5041767Z [✓] #9th-amendment
+2020-11-12T21:40:17.5042284Z [✓] #12th-amendment-vs-17th
+2020-11-12T21:40:17.5042848Z [✓] #13th--16th-amendments
+2020-11-12T21:40:17.5043363Z [✓] #15th--26th-amendments
+2020-11-12T21:40:17.5043867Z [✓] #access-to-courts
+2020-11-12T21:40:17.5044870Z [✓] #access-to-law-legel-opinions-ruling-filings-etc
+2020-11-12T21:40:17.5045791Z [✓] #injunction
+2020-11-12T21:40:17.5046868Z [✓] #residence---animus-manendi-the-intention-of-remaining
+2020-11-12T21:40:17.5047928Z [✓] #presidency
+2020-11-12T21:40:17.5048307Z [✓] #ron
+2020-11-12T21:40:17.5048682Z [✓] #entities
+2020-11-12T21:40:17.5049050Z [✓] #laed
+2020-11-12T21:40:17.5049410Z [✓] #clerks
+2020-11-12T21:40:17.5049881Z [✓] #judge-dismiss-order
+2020-11-12T21:40:17.5050333Z [✓] #scotus
+2020-11-12T21:40:17.5050791Z [✓] #address-required
+2020-11-12T21:40:17.5051839Z [✓] https://www.law.cornell.edu/constitution-conan/article-4/section-2/clause-1/access-to-courts
+2020-11-12T21:40:17.5053021Z [✓] https://en.wikipedia.org/wiki/Freedom_of_movement
+2020-11-12T21:40:17.5054302Z [✓] http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources
+2020-11-12T21:40:17.5055939Z [✓] https://legal-dictionary.thefreedictionary.com/Residence
+2020-11-12T21:40:17.5057952Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision
+2020-11-12T21:40:17.5059533Z [✓] https://www.fec.gov/data/candidate/P00017343/?cycle=2020&election_full=true
+2020-11-12T21:40:17.5060816Z [✓] https://www.counties.org/post/el-dorado-countys-homeless-outreach-team
+2020-11-12T21:40:17.5066420Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG
+2020-11-12T21:40:17.5067759Z [✓] https://web.archive.org/web/20201108040308/https://www.huffpost.com/entry/voting-and-homeless_b_5533134
+2020-11-12T21:40:17.5069416Z [✓] https://docs.google.com/spreadsheets/d/11BQV6dw4WY2neblNqhRKdZolpbf4zc49yi7NcvXTuB0/edit?usp=drivesdk
+2020-11-12T21:40:17.5070307Z 
+2020-11-12T21:40:17.5070557Z 36 links checked.
+2020-11-12T21:40:17.5070758Z 
+2020-11-12T21:40:17.5071023Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5071924Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG → Status: 400
+2020-11-12T21:40:17.5072512Z 
+2020-11-12T21:40:17.5073103Z FILE: ./actions/pages/theSuits/Complaints/S_1983/El_Dorado/SoC-DBProud.md
+2020-11-12T21:40:17.5073607Z No hyperlinks found!
+2020-11-12T21:40:17.5073830Z 
+2020-11-12T21:40:17.5074612Z 0 links checked.
+2020-11-12T21:40:17.5074820Z 
+2020-11-12T21:40:17.5075661Z FILE: ./actions/pages/theSuits/Complaints/S_1983/El_Dorado/SoC-Clerks.md
+2020-11-12T21:40:17.5076285Z No hyperlinks found!
+2020-11-12T21:40:17.5076498Z 
+2020-11-12T21:40:17.5076835Z 0 links checked.
+2020-11-12T21:40:17.5077050Z 
+2020-11-12T21:40:17.5077828Z FILE: ./actions/pages/theSuits/Complaints/S_1983/forgot-Amador/SoC-Clerks.md
+2020-11-12T21:40:17.5078480Z No hyperlinks found!
+2020-11-12T21:40:17.5078709Z 
+2020-11-12T21:40:17.5078934Z 0 links checked.
+2020-11-12T21:40:17.5079241Z 
+2020-11-12T21:40:17.5079889Z FILE: ./actions/pages/theSuits/Complaints/S_1983/README.md
+2020-11-12T21:40:17.5082011Z [✖] actions\pages\theSuits\Complaints\S_1983\El_Dorado\SoC-DBProud.md
+2020-11-12T21:40:17.5083106Z [✖] actions\pages\theSuits\Complaints\S_1983\El_Dorado\SoC-Clerks.md
+2020-11-12T21:40:17.5084093Z [✖] actions\pages\theSuits\Complaints\S_1983\forgot-Amador\SoC-Clerks.md
+2020-11-12T21:40:17.5084623Z 
+2020-11-12T21:40:17.5084880Z 3 links checked.
+2020-11-12T21:40:17.5085067Z 
+2020-11-12T21:40:17.5085433Z ERROR: 3 dead links found!
+2020-11-12T21:40:17.5086277Z [✖] actions\pages\theSuits\Complaints\S_1983\El_Dorado\SoC-DBProud.md → Status: 400
+2020-11-12T21:40:17.5087381Z [✖] actions\pages\theSuits\Complaints\S_1983\El_Dorado\SoC-Clerks.md → Status: 400
+2020-11-12T21:40:17.5088698Z [✖] actions\pages\theSuits\Complaints\S_1983\forgot-Amador\SoC-Clerks.md → Status: 400
+2020-11-12T21:40:17.5089442Z 
+2020-11-12T21:40:17.5090205Z FILE: ./actions/pages/theSuits/Complaints/TX/Dallas/SoC-DPD.md
+2020-11-12T21:40:17.5090832Z No hyperlinks found!
+2020-11-12T21:40:17.5091084Z 
+2020-11-12T21:40:17.5091345Z 0 links checked.
+2020-11-12T21:40:17.5091677Z 
+2020-11-12T21:40:17.5092462Z FILE: ./actions/pages/theSuits/Complaints/TX/Dallas/SoC-MedCity.md
+2020-11-12T21:40:17.5093109Z No hyperlinks found!
+2020-11-12T21:40:17.5093364Z 
+2020-11-12T21:40:17.5093621Z 0 links checked.
+2020-11-12T21:40:17.5093938Z 
+2020-11-12T21:40:17.5094346Z FILE: ./actions/pages/theSuits/Complaints/TX/README.md
+2020-11-12T21:40:17.5095377Z [✖] actions\pages\theSuits\Complaints\TX\Dallas\SoC-DPD.md
+2020-11-12T21:40:17.5095746Z 
+2020-11-12T21:40:17.5096006Z 1 links checked.
+2020-11-12T21:40:17.5096342Z 
+2020-11-12T21:40:17.5096623Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5097463Z [✖] actions\pages\theSuits\Complaints\TX\Dallas\SoC-DPD.md → Status: 400
+2020-11-12T21:40:17.5098025Z 
+2020-11-12T21:40:17.5098898Z FILE: ./actions/pages/theSuits/Complaints/CA/SanJuaqAmador-NativeLands/San_Juaqi-dor.md
+2020-11-12T21:40:17.5099621Z No hyperlinks found!
+2020-11-12T21:40:17.5099855Z 
+2020-11-12T21:40:17.5100112Z 0 links checked.
+2020-11-12T21:40:17.5100311Z 
+2020-11-12T21:40:17.5100806Z FILE: ./actions/pages/theSuits/Complaints/CA/README.md
+2020-11-12T21:40:17.5101671Z [✖] actions/pages/theSuits/Complaints/S_1983/DBProud-ElDo/README.md
+2020-11-12T21:40:17.5102251Z 
+2020-11-12T21:40:17.5102498Z 1 links checked.
+2020-11-12T21:40:17.5102716Z 
+2020-11-12T21:40:17.5102998Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5103747Z [✖] actions/pages/theSuits/Complaints/S_1983/DBProud-ElDo/README.md → Status: 400
+2020-11-12T21:40:17.5104177Z 
+2020-11-12T21:40:17.5104617Z FILE: ./actions/pages/theSuits/Complaints/WA/Seattle/Seattle.md
+2020-11-12T21:40:17.5105121Z No hyperlinks found!
+2020-11-12T21:40:17.5105355Z 
+2020-11-12T21:40:17.5105613Z 0 links checked.
+2020-11-12T21:40:17.5105830Z 
+2020-11-12T21:40:17.5106212Z FILE: ./actions/pages/theSuits/Complaints/WA/README.md
+2020-11-12T21:40:17.5106680Z No hyperlinks found!
+2020-11-12T21:40:17.5106923Z 
+2020-11-12T21:40:17.5107324Z 0 links checked.
+2020-11-12T21:40:17.5107535Z 
+2020-11-12T21:40:17.5108027Z FILE: ./actions/pages/theSuits/Complaints/OR/SecretaryOfState.md
+2020-11-12T21:40:17.5108591Z No hyperlinks found!
+2020-11-12T21:40:17.5108814Z 
+2020-11-12T21:40:17.5109074Z 0 links checked.
+2020-11-12T21:40:17.5109286Z 
+2020-11-12T21:40:17.5109704Z FILE: ./actions/pages/theSuits/Complaints/Individuals/BMW.md
+2020-11-12T21:40:17.5110208Z No hyperlinks found!
+2020-11-12T21:40:17.5110448Z 
+2020-11-12T21:40:17.5110706Z 0 links checked.
+2020-11-12T21:40:17.5110902Z 
+2020-11-12T21:40:17.5111638Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_assets/images/tickets.md
+2020-11-12T21:40:17.5112555Z [✖] /storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg
+2020-11-12T21:40:17.5113368Z [✖] /storage/emulated/0/Pictures/Screenshots/Screenshot_20201025-004245.png
+2020-11-12T21:40:17.5113747Z 
+2020-11-12T21:40:17.5114007Z 2 links checked.
+2020-11-12T21:40:17.5114225Z 
+2020-11-12T21:40:17.5114584Z ERROR: 2 dead links found!
+2020-11-12T21:40:17.5115356Z [✖] /storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg → Status: 400
+2020-11-12T21:40:17.5116172Z [✖] /storage/emulated/0/Pictures/Screenshots/Screenshot_20201025-004245.png → Status: 400
+2020-11-12T21:40:17.5116568Z 
+2020-11-12T21:40:17.5117337Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_assets/images/advocacyMaterials.md
+2020-11-12T21:40:17.5117977Z No hyperlinks found!
+2020-11-12T21:40:17.5118201Z 
+2020-11-12T21:40:17.5118442Z 0 links checked.
+2020-11-12T21:40:17.5118628Z 
+2020-11-12T21:40:17.5119497Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_assets/images/leslie.md
+2020-11-12T21:40:17.5120277Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115243991~2.jpg
+2020-11-12T21:40:17.5120986Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115245925~2.jpg
+2020-11-12T21:40:17.5121600Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115321371_HDR.jpg
+2020-11-12T21:40:17.5122233Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115321371_HDR~2.jpg
+2020-11-12T21:40:17.5122858Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~2.jpg
+2020-11-12T21:40:17.5123444Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~3.jpg
+2020-11-12T21:40:17.5124043Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~4.jpg
+2020-11-12T21:40:17.5124652Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115456645_HDR~2.jpg
+2020-11-12T21:40:17.5124939Z 
+2020-11-12T21:40:17.5125182Z 8 links checked.
+2020-11-12T21:40:17.5125367Z 
+2020-11-12T21:40:17.5125625Z ERROR: 8 dead links found!
+2020-11-12T21:40:17.5126212Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115243991~2.jpg → Status: 400
+2020-11-12T21:40:17.5126890Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115245925~2.jpg → Status: 400
+2020-11-12T21:40:17.5127555Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115321371_HDR.jpg → Status: 400
+2020-11-12T21:40:17.5128251Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115321371_HDR~2.jpg → Status: 400
+2020-11-12T21:40:17.5128957Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~2.jpg → Status: 400
+2020-11-12T21:40:17.5129621Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~3.jpg → Status: 400
+2020-11-12T21:40:17.5130280Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~4.jpg → Status: 400
+2020-11-12T21:40:17.5130953Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115456645_HDR~2.jpg → Status: 400
+2020-11-12T21:40:17.5131259Z 
+2020-11-12T21:40:17.5131948Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_assets/images/donations.md
+2020-11-12T21:40:17.5132564Z [✓] 
+2020-11-12T21:40:17.5132727Z 
+2020-11-12T21:40:17.5132964Z 1 links checked.
+2020-11-12T21:40:17.5133160Z 
+2020-11-12T21:40:17.5133813Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/infoRequests.md
+2020-11-12T21:40:17.5134374Z No hyperlinks found!
+2020-11-12T21:40:17.5134585Z 
+2020-11-12T21:40:17.5134863Z 0 links checked.
+2020-11-12T21:40:17.5135049Z 
+2020-11-12T21:40:17.5135761Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/D_vs_NOLA-PD-AP-FrM-DPW.md
+2020-11-12T21:40:17.5136381Z No hyperlinks found!
+2020-11-12T21:40:17.5136603Z 
+2020-11-12T21:40:17.5136841Z 0 links checked.
+2020-11-12T21:40:17.5137024Z 
+2020-11-12T21:40:17.5137849Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_resources/inclCityDocsManualsEtc.md
+2020-11-12T21:40:17.5138563Z No hyperlinks found!
+2020-11-12T21:40:17.5138773Z 
+2020-11-12T21:40:17.5139012Z 0 links checked.
+2020-11-12T21:40:17.5139214Z 
+2020-11-12T21:40:17.5139862Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/NOLA_PC_SoC_FrMrk-JB.md
+2020-11-12T21:40:17.5140488Z [✖] LA_NOLA.md
+2020-11-12T21:40:17.5140682Z 
+2020-11-12T21:40:17.5140922Z 1 links checked.
+2020-11-12T21:40:17.5141106Z 
+2020-11-12T21:40:17.5141869Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5142399Z [✖] LA_NOLA.md → Status: 400
+2020-11-12T21:40:17.5142602Z 
+2020-11-12T21:40:17.5143221Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/demands.md
+2020-11-12T21:40:17.5143858Z No hyperlinks found!
+2020-11-12T21:40:17.5144066Z 
+2020-11-12T21:40:17.5144308Z 0 links checked.
+2020-11-12T21:40:17.5144509Z 
+2020-11-12T21:40:17.5145166Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/Complaint_NOLA.md
+2020-11-12T21:40:17.5145808Z [✓] #nola-complaint
+2020-11-12T21:40:17.5146753Z [✓] #interference-with-federal-presidential-campaign
+2020-11-12T21:40:17.5147836Z [✓] #holding-of-campaign-materials
+2020-11-12T21:40:17.5148410Z [✓] #harassment
+2020-11-12T21:40:17.5148806Z [✓] #dpw-signage
+2020-11-12T21:40:17.5149191Z [✓] #funraiser
+2020-11-12T21:40:17.5149544Z [✓] #audio
+2020-11-12T21:40:17.5149866Z [✓] #fraud
+2020-11-12T21:40:17.5150330Z [✓] #conspiracy
+2020-11-12T21:40:17.5150886Z [✓] #discriminatory-enforcement
+2020-11-12T21:40:17.5151401Z [✓] #tickets
+2020-11-12T21:40:17.5151755Z [✓] #notable
+2020-11-12T21:40:17.5152091Z [✓] #nopd
+2020-11-12T21:40:17.5152430Z [✓] #charges
+2020-11-12T21:40:17.5152760Z [✓] #theft
+2020-11-12T21:40:17.5153157Z [✓] #home-invasion
+2020-11-12T21:40:17.5153540Z [✓] #assault
+2020-11-12T21:40:17.5154000Z [✓] #attempted-kidnapping
+2020-11-12T21:40:17.5154611Z [✓] #attempted-murder--maiming
+2020-11-12T21:40:17.5155138Z [✓] #grand-theft
+2020-11-12T21:40:17.5155508Z [✓] #issues
+2020-11-12T21:40:17.5155911Z [✓] #malicious-intent
+2020-11-12T21:40:17.5156685Z [✓] #nola-parking-enforcement--adjudication
+2020-11-12T21:40:17.5157347Z [✓] #art
+2020-11-12T21:40:17.5157687Z [✓] #damages
+2020-11-12T21:40:17.5158064Z [✓] #individuals
+2020-11-12T21:40:17.5158444Z [✓] #rico-act
+2020-11-12T21:40:17.5159045Z [✓] #note-fema-issues
+2020-11-12T21:40:17.5159799Z [✓] https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d
+2020-11-12T21:40:17.5160767Z [✓] https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a
+2020-11-12T21:40:17.5161637Z [✖] /storage/emulated/0/DCIM/Camera/VID_20200911_125304393_exported_7881_1603575713333~2.jpg
+2020-11-12T21:40:17.5162248Z [✓] NOLA_PC_SoC_FrMrk-JB.md
+2020-11-12T21:40:17.5162852Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115243991~2.jpg
+2020-11-12T21:40:17.5163489Z [✖] resources/leslie.md
+2020-11-12T21:40:17.5164104Z [✖] /storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg
+2020-11-12T21:40:17.5164581Z [✓] 
+2020-11-12T21:40:17.5164946Z [✖] ../../../../../../IMG_20201028_170011333.jpg
+2020-11-12T21:40:17.5165328Z [✓] IMG_20201018_163810509.jpg
+2020-11-12T21:40:17.5165705Z [✓] IMG_20201012_124308276.jpg
+2020-11-12T21:40:17.5166202Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201024_204340294.jpg
+2020-11-12T21:40:17.5166803Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200955794.jpg
+2020-11-12T21:40:17.5167397Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200558165~2.jpg
+2020-11-12T21:40:17.5168004Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200731229.jpg
+2020-11-12T21:40:17.5168448Z [✓] #mal-int
+2020-11-12T21:40:17.5168877Z [✖] FrMkt/_assets/images/leslie.md
+2020-11-12T21:40:17.5169131Z 
+2020-11-12T21:40:17.5169370Z 45 links checked.
+2020-11-12T21:40:17.5169564Z 
+2020-11-12T21:40:17.5169870Z ERROR: 10 dead links found!
+2020-11-12T21:40:17.5170529Z [✖] /storage/emulated/0/DCIM/Camera/VID_20200911_125304393_exported_7881_1603575713333~2.jpg → Status: 400
+2020-11-12T21:40:17.5171247Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115243991~2.jpg → Status: 400
+2020-11-12T21:40:17.5171831Z [✖] resources/leslie.md → Status: 400
+2020-11-12T21:40:17.5172512Z [✖] /storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg → Status: 400
+2020-11-12T21:40:17.5173122Z [✖] ../../../../../../IMG_20201028_170011333.jpg → Status: 400
+2020-11-12T21:40:17.5173696Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201024_204340294.jpg → Status: 400
+2020-11-12T21:40:17.5174376Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200955794.jpg → Status: 400
+2020-11-12T21:40:17.5175215Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200558165~2.jpg → Status: 400
+2020-11-12T21:40:17.5175930Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200731229.jpg → Status: 400
+2020-11-12T21:40:17.5176673Z [✖] FrMkt/_assets/images/leslie.md → Status: 400
+2020-11-12T21:40:17.5176960Z 
+2020-11-12T21:40:17.5177472Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/UMC+Security/README.md
+2020-11-12T21:40:17.5178049Z No hyperlinks found!
+2020-11-12T21:40:17.5178287Z 
+2020-11-12T21:40:17.5178530Z 0 links checked.
+2020-11-12T21:40:17.5178744Z 
+2020-11-12T21:40:17.5179210Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/WWLtv/README.md
+2020-11-12T21:40:17.5179749Z No hyperlinks found!
+2020-11-12T21:40:17.5179975Z 
+2020-11-12T21:40:17.5180232Z 0 links checked.
+2020-11-12T21:40:17.5180431Z 
+2020-11-12T21:40:17.5181090Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/Legend-NOLA.md
+2020-11-12T21:40:17.5182321Z [✖] Complaints/LA/NewOrleans/Legend-NOLA.md
+2020-11-12T21:40:17.5182827Z [✓] 
+2020-11-12T21:40:17.5182989Z 
+2020-11-12T21:40:17.5183249Z 2 links checked.
+2020-11-12T21:40:17.5183463Z 
+2020-11-12T21:40:17.5183743Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5184388Z [✖] Complaints/LA/NewOrleans/Legend-NOLA.md → Status: 400
+2020-11-12T21:40:17.5184774Z 
+2020-11-12T21:40:17.5185223Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/README.md
+2020-11-12T21:40:17.5185743Z No hyperlinks found!
+2020-11-12T21:40:17.5185966Z 
+2020-11-12T21:40:17.5186222Z 0 links checked.
+2020-11-12T21:40:17.5186421Z 
+2020-11-12T21:40:17.5186761Z FILE: ./actions/pages/theSuits/README.md
+2020-11-12T21:40:17.5187640Z [✓] http://www.duhaime.org/LegalDictionary/C/Construction.aspx
+2020-11-12T21:40:17.5188814Z [✓] http://www.duhaime.org/LegalDictionary/L/LiberalConstruction.aspx
+2020-11-12T21:40:17.5189836Z [✖] pages/theSuits/Complaints/masterComplaint.md
+2020-11-12T21:40:17.5190668Z [✖] /actions/pages/theSuits/Complaints/masterComplaint.md
+2020-11-12T21:40:17.5191498Z [✖] Complaints/Residence/statementOfClaim.md
+2020-11-12T21:40:17.5192258Z [✓] Complaints/Presidential_Campaign/README.md
+2020-11-12T21:40:17.5193063Z [✖] Complaints/transient_voter/noVotes.md#barred-from-voting
+2020-11-12T21:40:17.5193955Z [✓] some-Duplicates/SCOTUS_decision_deficiencies-v.2.md
+2020-11-12T21:40:17.5194865Z [✖] actions\pages\theSuits\Complaints\LA\NewOrleans\Complaint_NOLA.md
+2020-11-12T21:40:17.5195757Z [✖] ./Complaints/Residence/_assets/LAED-tributes_n_contacts/20201104_165059.jpg
+2020-11-12T21:40:17.5196168Z 
+2020-11-12T21:40:17.5196417Z 10 links checked.
+2020-11-12T21:40:17.5196632Z 
+2020-11-12T21:40:17.5196910Z ERROR: 6 dead links found!
+2020-11-12T21:40:17.5197614Z [✖] pages/theSuits/Complaints/masterComplaint.md → Status: 400
+2020-11-12T21:40:17.5198531Z [✖] /actions/pages/theSuits/Complaints/masterComplaint.md → Status: 400
+2020-11-12T21:40:17.5199421Z [✖] Complaints/Residence/statementOfClaim.md → Status: 400
+2020-11-12T21:40:17.5200371Z [✖] Complaints/transient_voter/noVotes.md#barred-from-voting → Status: 400
+2020-11-12T21:40:17.5201353Z [✖] actions\pages\theSuits\Complaints\LA\NewOrleans\Complaint_NOLA.md → Status: 400
+2020-11-12T21:40:17.5202316Z [✖] ./Complaints/Residence/_assets/LAED-tributes_n_contacts/20201104_165059.jpg → Status: 400
+2020-11-12T21:40:17.5202764Z 
+2020-11-12T21:40:17.5203539Z FILE: ./actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.01.md
+2020-11-12T21:40:17.5204633Z [✓] https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-12T21:40:17.5205640Z [✓] https://en.wikipedia.org/wiki/Asch_conformity_experiments
+2020-11-12T21:40:17.5207116Z [✓] https://courses.lumenlearning.com/boundless-sociology/chapter/the-class-structure-in-the-u-s/
+2020-11-12T21:40:17.5208662Z [✓] https://www.nationalpopularvote.com/state-status
+2020-11-12T21:40:17.5209854Z [✓] https://en.wikipedia.org/wiki/List_of_2016_United_States_presidential_electors
+2020-11-12T21:40:17.5210380Z 
+2020-11-12T21:40:17.5210653Z 5 links checked.
+2020-11-12T21:40:17.5210871Z 
+2020-11-12T21:40:17.5211651Z FILE: ./actions/pages/theSuits/some-Duplicates/SCOTUS'-decision-deficiencies.md
+2020-11-12T21:40:17.5212721Z [✓] https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-12T21:40:17.5213207Z 
+2020-11-12T21:40:17.5213565Z 1 links checked.
+2020-11-12T21:40:17.5213766Z 
+2020-11-12T21:40:17.5214538Z FILE: ./actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md
+2020-11-12T21:40:17.5216134Z [✓] https://github.com/ActionProjects/Actions/blob/10666f652948b0eecbbb783e94b82f0fa6442b16/actions/pages/theSuits/Complaints/Presidential_Campaign/_resources/19-465_i425.pdf
+2020-11-12T21:40:17.5217567Z [✓] https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-12T21:40:17.5218038Z 
+2020-11-12T21:40:17.5218298Z 2 links checked.
+2020-11-12T21:40:17.5218512Z 
+2020-11-12T21:40:17.5218998Z FILE: ./actions/pages/theSuits/filed/injunctionVoteCount.md
+2020-11-12T21:40:17.5219544Z No hyperlinks found!
+2020-11-12T21:40:17.5219858Z 
+2020-11-12T21:40:17.5220117Z 0 links checked.
+2020-11-12T21:40:17.5220316Z 
+2020-11-12T21:40:17.5221084Z FILE: ./actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/clerkIssues.md
+2020-11-12T21:40:17.5221891Z No hyperlinks found!
+2020-11-12T21:40:17.5222119Z 
+2020-11-12T21:40:17.5222386Z 0 links checked.
+2020-11-12T21:40:17.5222602Z 
+2020-11-12T21:40:17.5223409Z FILE: ./actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/case2.20_cv_029565-complaint.md
+2020-11-12T21:40:17.5224667Z [✖] actions\pages\theSuits\Complaints\Presidential_Campaign_resources\trump\Stokke_et_al-v.-Cegavske_et_al,_2-20_cv_02046_DJA.pdf
+2020-11-12T21:40:17.5225252Z 
+2020-11-12T21:40:17.5225513Z 1 links checked.
+2020-11-12T21:40:17.5225714Z 
+2020-11-12T21:40:17.5225997Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5226999Z [✖] actions\pages\theSuits\Complaints\Presidential_Campaign_resources\trump\Stokke_et_al-v.-Cegavske_et_al,_2-20_cv_02046_DJA.pdf → Status: 400
+2020-11-12T21:40:17.5227636Z 
+2020-11-12T21:40:17.5228330Z FILE: ./actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md
+2020-11-12T21:40:17.5229074Z [✓] #order-and-reasons
+2020-11-12T21:40:17.5229502Z [✓] #i
+2020-11-12T21:40:17.5229922Z [✓] #a-injury-in-fact
+2020-11-12T21:40:17.5230377Z [✓] #b-causation
+2020-11-12T21:40:17.5230853Z [✓] #c-redressability
+2020-11-12T21:40:17.5231265Z [✓] #1
+2020-11-12T21:40:17.5231578Z [✓] #2
+2020-11-12T21:40:17.5232645Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts/11-05-2020/085111986347.pdf
+2020-11-12T21:40:17.5233385Z 
+2020-11-12T21:40:17.5233644Z 8 links checked.
+2020-11-12T21:40:17.5233844Z 
+2020-11-12T21:40:17.5234686Z FILE: ./actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md
+2020-11-12T21:40:17.5236106Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L21
+2020-11-12T21:40:17.5237676Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L23
+2020-11-12T21:40:17.5239228Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L27
+2020-11-12T21:40:17.5240793Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L31
+2020-11-12T21:40:17.5242337Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L33
+2020-11-12T21:40:17.5243929Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L33-59
+2020-11-12T21:40:17.5245373Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L61
+2020-11-12T21:40:17.5246477Z [✓] https://en.wikipedia.org/wiki/List_of_logic_symbols
+2020-11-12T21:40:17.5247336Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md
+2020-11-12T21:40:17.5247747Z 
+2020-11-12T21:40:17.5247988Z 9 links checked.
+2020-11-12T21:40:17.5248173Z 
+2020-11-12T21:40:17.5248434Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5249247Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md → Status: 400
+2020-11-12T21:40:17.5249675Z 
+2020-11-12T21:40:17.5250107Z FILE: ./actions/pages/theSuits/filed/Federal/Appeals/_resources/README.md
+2020-11-12T21:40:17.5251037Z [✓] http://cafc.uscourts.gov/contact/clerks-office/filing-resources
+2020-11-12T21:40:17.5251534Z 
+2020-11-12T21:40:17.5251777Z 1 links checked.
+2020-11-12T21:40:17.5251964Z 
+2020-11-12T21:40:17.5252449Z FILE: ./actions/pages/theSuits/filed/Federal/Residence/statementOfClaim.md
+2020-11-12T21:40:17.5253115Z [✖] complaint_NOLA.md
+2020-11-12T21:40:17.5253518Z [✖] LA_NOLA.md
+2020-11-12T21:40:17.5254025Z [✖] ./actions/pages/theSuits/Residence/resSoC.md
+2020-11-12T21:40:17.5254837Z [✓] https://docquery.fec.gov/pdf/998/202009229284686998/202009229284686998.pdf
+2020-11-12T21:40:17.5255209Z 
+2020-11-12T21:40:17.5255449Z 4 links checked.
+2020-11-12T21:40:17.5255632Z 
+2020-11-12T21:40:17.5255890Z ERROR: 3 dead links found!
+2020-11-12T21:40:17.5256373Z [✖] complaint_NOLA.md → Status: 400
+2020-11-12T21:40:17.5256850Z [✖] LA_NOLA.md → Status: 400
+2020-11-12T21:40:17.5257440Z [✖] ./actions/pages/theSuits/Residence/resSoC.md → Status: 400
+2020-11-12T21:40:17.5257762Z 
+2020-11-12T21:40:17.5258164Z FILE: ./actions/pages/theSuits/filed/Federal/Residence/resSoC.md
+2020-11-12T21:40:17.5258629Z No hyperlinks found!
+2020-11-12T21:40:17.5259511Z 
+2020-11-12T21:40:17.5259758Z 0 links checked.
+2020-11-12T21:40:17.5259958Z 
+2020-11-12T21:40:17.5260484Z FILE: ./actions/pages/theSuits/filed/Federal/Residence/Elections/Elections/transient_voter/noVotes.md
+2020-11-12T21:40:17.5261276Z [✓] #barred-from-voting
+2020-11-12T21:40:17.5261639Z 
+2020-11-12T21:40:17.5261963Z 1 links checked.
+2020-11-12T21:40:17.5262146Z 
+2020-11-12T21:40:17.5262926Z FILE: ./actions/pages/theSuits/filed/Federal/Residence/Elections/Elections/transient-residence.md
+2020-11-12T21:40:17.5263583Z No hyperlinks found!
+2020-11-12T21:40:17.5263794Z 
+2020-11-12T21:40:17.5264031Z 0 links checked.
+2020-11-12T21:40:17.5264239Z 
+2020-11-12T21:40:17.5264503Z FILE: ./actions/pages/NEEDS.md
+2020-11-12T21:40:17.5265440Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/arts-n-campn/ezgif-7-e8ba05d97c43.png
+2020-11-12T21:40:17.5266501Z [⚠] htttps://OpenCollective.com/Dartanium
+2020-11-12T21:40:17.5266927Z 
+2020-11-12T21:40:17.5267168Z 2 links checked.
+2020-11-12T21:40:17.5267354Z 
+2020-11-12T21:40:17.5267710Z FILE: ./actions/pages/postBlogPicsMyb.md
+2020-11-12T21:40:17.5268166Z node:internal/validators:123
+2020-11-12T21:40:17.5268754Z     throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
+2020-11-12T21:40:17.5269077Z     ^
+2020-11-12T21:40:17.5269235Z 
+2020-11-12T21:40:17.5269681Z TypeError [ERR_INVALID_ARG_TYPE]: The "url" argument must be of type string. Received null
+2020-11-12T21:40:17.5270266Z     at new NodeError (node:internal/errors:277:15)
+2020-11-12T21:40:17.5270770Z     at validateString (node:internal/validators:123:11)
+2020-11-12T21:40:17.5271193Z     at Url.parse (node:url:159:3)
+2020-11-12T21:40:17.5271595Z     at Object.urlParse [as parse] (node:url:154:13)
+2020-11-12T21:40:17.5272472Z     at linkCheck (/usr/local/lib/node_modules/markdown-link-check/node_modules/link-check/index.js:19:27)
+2020-11-12T21:40:17.5273415Z     at /usr/local/lib/node_modules/markdown-link-check/index.js:74:9
+2020-11-12T21:40:17.5274322Z     at /usr/local/lib/node_modules/markdown-link-check/node_modules/async/dist/async.js:243:13
+2020-11-12T21:40:17.5275353Z     at replenish (/usr/local/lib/node_modules/markdown-link-check/node_modules/async/dist/async.js:440:21)
+2020-11-12T21:40:17.5276488Z     at iterateeCallback (/usr/local/lib/node_modules/markdown-link-check/node_modules/async/dist/async.js:424:21)
+2020-11-12T21:40:17.5277568Z     at /usr/local/lib/node_modules/markdown-link-check/node_modules/async/dist/async.js:321:20 {
+2020-11-12T21:40:17.5278270Z   code: 'ERR_INVALID_ARG_TYPE'
+2020-11-12T21:40:17.5278530Z }
+2020-11-12T21:40:17.5278685Z 
+2020-11-12T21:40:17.5278973Z FILE: ./actions/pages/README.md
+2020-11-12T21:40:17.5279463Z No hyperlinks found!
+2020-11-12T21:40:17.5279675Z 
+2020-11-12T21:40:17.5279913Z 0 links checked.
+2020-11-12T21:40:17.5280101Z 
+2020-11-12T21:40:17.5280369Z FILE: ./actions/READM3.md
+2020-11-12T21:40:17.5281025Z [✖] /storage/emulated/0/Documents/markor/actions/arts/legendAr'Act.md
+2020-11-12T21:40:17.5281398Z 
+2020-11-12T21:40:17.5281627Z 1 links checked.
+2020-11-12T21:40:17.5281825Z 
+2020-11-12T21:40:17.5282085Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5282757Z [✖] /storage/emulated/0/Documents/markor/actions/arts/legendAr'Act.md → Status: 400
+2020-11-12T21:40:17.5283145Z 
+2020-11-12T21:40:17.5283416Z FILE: ./actions/README.md
+2020-11-12T21:40:17.5284076Z [✓] http://historichwy49.com/placer/pvhist.html
+2020-11-12T21:40:17.5284941Z [✓] https://hangmanstree.com/history/
+2020-11-12T21:40:17.5285788Z [✓] https://en.wikipedia.org/wiki/Placerville%2C_California
+2020-11-12T21:40:17.5286723Z [✓] https://evogov.s3.amazonaws.com/media/17/media/5722.png
+2020-11-12T21:40:17.5287679Z [✓] https://en.wikipedia.org/wiki/El_Dorado_County%2C_California
+2020-11-12T21:40:17.5288637Z [✓] https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29
+2020-11-12T21:40:17.5289922Z [✓] https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seal_of_Jefferson_%28proposed%29.svg/100px-Seal_of_Jefferson_%28proposed%29.svg.png
+2020-11-12T21:40:17.5291061Z [✓] https://en.wikipedia.org/wiki/Lotus%2C_California
+2020-11-12T21:40:17.5291911Z [✓] https://en.wikipedia.org/wiki/Coloma%2C_California
+2020-11-12T21:40:17.5292832Z [✓] https://www.britannica.com/place/Mother-Lode-Country
+2020-11-12T21:40:17.5293730Z [✓] https://en.wikipedia.org/wiki/Competent_man
+2020-11-12T21:40:17.5294294Z [✓] pages/2018
+2020-11-12T21:40:17.5294669Z [✓] pages/2018/cyv.md
+2020-11-12T21:40:17.5295054Z [✓] pages/2018/tc.md
+2020-11-12T21:40:17.5295429Z [✓] pages/2018/wd.md
+2020-11-12T21:40:17.5295809Z [✓] pages/2018/tto.md
+2020-11-12T21:40:17.5296196Z [✓] pages/2018/mlgb.md
+2020-11-12T21:40:17.5296592Z [✓] pages/2018/cfen.md
+2020-11-12T21:40:17.5296992Z [✓] pages/2018/bhl.md
+2020-11-12T21:40:17.5297343Z [✓] pages/2019
+2020-11-12T21:40:17.5297664Z [✓] 
+2020-11-12T21:40:17.5298016Z [✓] pages/2019/ers.md
+2020-11-12T21:40:17.5298402Z [✓] pages/2019/sbp.md
+2020-11-12T21:40:17.5298785Z [✓] pages/2019/ftt.md
+2020-11-12T21:40:17.5299151Z [✓] pages/2020
+2020-11-12T21:40:17.5299513Z [✓] pages/2020/posp.md
+2020-11-12T21:40:17.5299902Z [✓] pages/2020/mu.md
+2020-11-12T21:40:17.5300284Z [✓] pages/2020/dfd.md
+2020-11-12T21:40:17.5300672Z [✓] pages/2020/fbit.md
+2020-11-12T21:40:17.5301162Z [✓] pages/_assets-logPics/20200820_130020.jpg
+2020-11-12T21:40:17.5301783Z [✓] pages/2020/cav.md
+2020-11-12T21:40:17.5302181Z [✓] pages/2020/vnnd.md
+2020-11-12T21:40:17.5302684Z [✓] _assets/navajoxcerpts/20200711_170651.jpg
+2020-11-12T21:40:17.5303216Z [✓] _assets/navajoxcerpts/20200709_182447.jpg
+2020-11-12T21:40:17.5303725Z [✓] pages/2018/tc.md#Albuquerque
+2020-11-12T21:40:17.5304172Z [✓] pages/2020/ffpct.md
+2020-11-12T21:40:17.5305363Z [✓] https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77
+2020-11-12T21:40:17.5306819Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/README.md
+2020-11-12T21:40:17.5307636Z [✓] pages/theSuits/filed/Federal/Residence
+2020-11-12T21:40:17.5308374Z [✓] pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts
+2020-11-12T21:40:17.5309250Z [✓] https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d
+2020-11-12T21:40:17.5310107Z [✓] https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a
+2020-11-12T21:40:17.5310965Z [✓] https://bittube.tv/post/0fd2849b-4e65-4333-b923-1de4f8321333
+2020-11-12T21:40:17.5311717Z [✓] http://www.cedadebate.org/
+2020-11-12T21:40:17.5312487Z [✓] https://www.youtube.com/watch?v=JhzwSlK4uEc
+2020-11-12T21:40:17.5313198Z [✓] http://cedadebate.org/node/893
+2020-11-12T21:40:17.5314006Z [✓] https://saccityexpress.com/debating-greatness/
+2020-11-12T21:40:17.5314986Z [✓] https://en.wikipedia.org/wiki/University_of_California%2C_Merced
+2020-11-12T21:40:17.5316117Z [✓] https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States
+2020-11-12T21:40:17.5317064Z [✓] https://en.wikipedia.org/wiki/Cognitive_science
+2020-11-12T21:40:17.5317919Z [✓] https://en.wikipedia.org/wiki/Cultural_anthropology
+2020-11-12T21:40:17.5318834Z [✓] https://en.wikipedia.org/wiki/Technology_acceptance_model
+2020-11-12T21:40:17.5319749Z [✓] https://en.wikipedia.org/wiki/Diffusion_of_innovations
+2020-11-12T21:40:17.5320617Z [✓] https://www.envisioning.io/clients/deftech
+2020-11-12T21:40:17.5321404Z [✓] https://en.wikipedia.org/wiki/RNLAF
+2020-11-12T21:40:17.5322021Z [✓] http://deftech.ch/
+2020-11-12T21:40:17.5322923Z [✓] https://pinzagroup.com/wp-content/endurance-page-cache/_index.html
+2020-11-12T21:40:17.5323788Z [✖] https://angel.co/company/dronebuilder
+2020-11-12T21:40:17.5324995Z [✓] http://opainc.net/
+2020-11-12T21:40:17.5325426Z 
+2020-11-12T21:40:17.5325680Z 59 links checked.
+2020-11-12T21:40:17.5325868Z 
+2020-11-12T21:40:17.5326260Z ERROR: 1 dead links found!
+2020-11-12T21:40:17.5327033Z [✖] https://angel.co/company/dronebuilder → Status: 403
+2020-11-12T21:40:17.5327387Z 
+2020-11-12T21:40:17.5327928Z [0;33m=========================================================================[0m
