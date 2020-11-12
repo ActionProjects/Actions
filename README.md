@@ -23,9 +23,9 @@ do the things
   - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *Navajo Nation (discussed COVID decon with President Nez, with regards to C.A.R.E
 S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
-[see the pledges here](action/pages/electors)
+[see the pledges here](actions/_assets/electors)
 
-![Why I'm still 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)
+<!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)--><img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="50%" height="50%">
 
   - #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
 
