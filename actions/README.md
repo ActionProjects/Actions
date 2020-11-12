@@ -73,7 +73,7 @@ Deployed web presence & structured more concepts:
 
 - [Care a Van](pages/2020/cav.md)
 
-### - [Volunteer Navajo Nation Decontamination](pages/2020/vnnd.md) Captured this moment:(#v-nnd)
+### - [Volunteer Navajo Nation Decontamination](pages/2020/vnnd.md) Captured this moment:
 !["Real COVID"](_assets/navajoxcerpts/20200711_170651.jpg)
 ![meetingNEZ](_assets/navajoxcerpts/20200709_182447.jpg)
 
