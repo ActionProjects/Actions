@@ -247,3 +247,5 @@ in the consolidated actions captioned above are DISMISSED.
 ___
 <p align="right">MARTIN L. C. FELDMAN</p>
 <p align="right">UNITED STATES DISTRICT JUDGE</p>
+
+translated to .md from source: [OrderPDF](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts/11-05-2020/085111986347.pdf)
