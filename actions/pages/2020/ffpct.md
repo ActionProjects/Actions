@@ -29,3 +29,8 @@ Provide false and innacurate information; dissuading Deliah from continuing to i
 ## Deliah Succeeds
 
 Deliah's pursuits lead to ensuring contact with the correct representatives and making a case for nutritional meals.
+
+# The Antagonist
+
+The contracted food provider, and the establishment coordinating the service, retaliate on Deliah.
+[Support Deliah's Legal Fund](linksomething "confirm from Deliah legal action is still happening")
