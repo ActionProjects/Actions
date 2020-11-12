@@ -17,7 +17,7 @@ do the things
   - private social sharing (friends & friends of friends)
 
   - "Where's Waldo" style travels
-  - - eg: no prior setup, no telling where I'm going next, 'pass-back' what I've done once I've left via SMS.
+    - eg: no prior setup, no telling where I'm going next, 'pass-back' what I've done once I've left via SMS.
 
   - I've been through:
     - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *Navajo Nation (discussed COVID decon with President Nez, with regards to C.A.R.E
@@ -27,13 +27,13 @@ S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote p
 
 <!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)--><img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%">
 
-  - #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
+- #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
 
 - ### Law is Code; right
 
-  - #### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
+- #### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
 
-    - #### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
+  - ##### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
