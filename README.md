@@ -51,7 +51,7 @@ S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote p
 
 - on, social, bias & reward systems
 
-## [Assist](actions\pages\NEEDS.md "help hack the Electoral College")
+## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
 
 #todo - ./rel/links!
 

@@ -34,14 +34,14 @@ Coffee for my Office Space
     - [ ] San Francisco
     - [ ] Merced County
   - [ ] Washington
-    - [ ] Seattle
-      - [ ] encounter#1
-        - [ ] audios
-        - [ ] videos
-        - [ ] reports
-        - [ ] call logs
-        - [ ] gps logs
-        - [ ] dispatch logs
+    <details><summary>- [ ] Seattle</summary><!-- goingto lose markdown checklists( & indents?)-->
+      - [ ] encounter#1<br>
+        - [ ] audios<br>
+        - [ ] videos<br>
+        - [ ] reports<br>
+        - [ ] call logs<br>
+        - [ ] gps logs<br>
+        - [ ] dispatch logs</details>
       - [ ] encounter#2
         - [ ] audios
         - [ ] videos
