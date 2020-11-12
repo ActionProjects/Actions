@@ -35,7 +35,7 @@ Coffee for my Office Space
     - [ ] Merced County
   - [ ] Washington
     <details><summary>- [ ] Seattle</summary><!--goingto lose markdown checklists( & indents?)-->"dropDownListFailsFormatting"
-      <details<>summary>- [ ] encounter#1</summary></details><!--yeah, no inline html; i kno...-->
+      <details><summary>- [ ] encounter#1</summary></details><!--yeah, no inline html; i kno...-->
         - [ ] audios<br>
         - [ ] videos<br>
         - [ ] reports<br>
