@@ -35,20 +35,22 @@ Coffee for my Office Space
     - [ ] Merced County
   - [ ] Washington
     <details><summary>- [ ] Seattle</summary><!--goingto lose markdown checklists( & indents?)-->"dropDownListFailsFormatting"
-      <details><summary>- [ ] encounter#1</summary></details><!--yeah, no inline html; i kno...-->
+      <details><summary>- [ ] encounter#1</summary><!--yeah, no inline html; i kno...-->
         - [ ] audios<br>
         - [ ] videos<br>
         - [ ] reports<br>
         - [ ] call logs<br>
         - [ ] gps logs<br>
-        - [ ] dispatch logs</details>
-      - [ ] encounter#2
-        - [ ] audios
-        - [ ] videos
-        - [ ] reports
-        - [ ] call logs
-        - [ ] gps logs
         - [ ] dispatch logs
+      </details>
+      <details><summary>- [ ] encounter#2</summary>
+        - [ ] audios<br>
+        - [ ] videos<br>
+        - [ ] reports<br>
+        - [ ] call logs<br>
+        - [ ] gps logs<br>
+        - [ ] dispatch logs<br>
+    </details> 
   - [ ] Texas
     - [ ] Dallas
       - [ ] encounter#1
