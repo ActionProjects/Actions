@@ -36,20 +36,20 @@ Coffee for my Office Space
   - [ ] Washington
     <details><summary>- [ ] Seattle</summary><!--goingto lose markdown checklists( & indents?)-->
       <details><summary>  - [ ] encounter#1</summary><!--yeah, no inline html; i kno...-->
-          - [ ] audios<br>
-          - [ ] videos<br>
-          - [ ] reports<br>
-          - [ ] call logs<br>
-          - [ ] gps logs<br>
-          - [ ] dispatch logs
+        - - [ ] audios<br>
+        - - [ ] videos<br>
+        - - [ ] reports<br>
+        - - [ ] call logs<br>
+        - - [ ] gps logs<br>
+        - - [ ] dispatch logs
       </details>
       <details><summary>- [ ] encounter#2</summary>
-          - [ ] audios<br>
-          - [ ] videos<br>
-          - [ ] reports<br>
-          - [ ] call logs<br>
-          - [ ] gps logs<br>
-          - [ ] dispatch logs<br>
+        - - [ ] audios<br>
+        - - [ ] videos<br>
+        - - [ ] reports<br>
+        - - [ ] call logs<br>
+        - - [ ] gps logs<br>
+        - - [ ] dispatch logs<br>
     </details> 
   - [ ] Texas
     - [ ] Dallas
