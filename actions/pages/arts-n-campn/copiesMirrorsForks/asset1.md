@@ -63,3 +63,5 @@
 ₒ.բ₁.
 
 [AlphaProtoDemo](https://docs.google.com/spreadsheets/d/1fV5d5xh4jVgf64LqQeruthXGeCErheku01y3v7Fnac4/edit?usp=drivesdk)
+
+<sup>the quick brown fox jumped over the lazy dog. THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG</sup>

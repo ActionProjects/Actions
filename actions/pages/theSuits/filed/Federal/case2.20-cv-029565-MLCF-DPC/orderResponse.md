@@ -29,7 +29,7 @@ NO. 20-2965 c/w 20-2966
 > [prompt sua sponte](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L61 "In law, sua sponte or suo motu describes an act of authority taken without formal prompting from another party. The term is usually applied to actions by a judge taken without a prior motion or request from the parties. The form nostra sponte is sometimes used by the court itself, when the action is taken by a multi-member court, such as an appellate court, rather than by a single judge. While usually applied to actions of a court, the term may reasonably be applied to actions by government agencies and individuals acting in official capacity. One situation in which a party might encourage a judge to move sua sponte occurs when that party is preserving a special appearance, and therefore cannot make motions on its own behalf without making a general appearance. https://en.wikipedia.org/wiki/Sua_sponte")
 > > Failed; maybe instead of looking to attack the argument, as a Judge, should be looking to interpret the issue. your latin majik words failed you.
 
-> standing to sue.
+> standing to pursue claims in federal court. <!-- translation issue w/ standing to sue v. standing to pursue LN#'s & .pdf check-->
 > injury
 > > pics
 > actual, iminent
