@@ -34,7 +34,7 @@ Coffee for my Office Space
     - [ ] San Francisco
     - [ ] Merced County
   - [ ] Washington
-    <details><summary>- [ ] Seattle</summary><!--goingto lose markdown checklists( & indents?)-->
+    <details open><summary>- [ ] Seattle</summary><!--goingto lose markdown checklists( & indents?)-->
       <details><summary>  - [ ] encounter#1</summary><!--yeah, no inline html; i kno...-->
         - [ ] audios<br>
         - [ ] videos<br>
@@ -50,6 +50,7 @@ Coffee for my Office Space
         - [ ] call logs<br>
         - [ ] gps logs<br>
         - [ ] dispatch logs<br>
+      </details>
     </details> 
   - [ ] Texas
     - [ ] Dallas
