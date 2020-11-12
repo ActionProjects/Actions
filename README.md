@@ -32,7 +32,8 @@ S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote p
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
-- when I hung out in a 'smart college town' the Electoral College was something to get rid of... However, the mechanics of the system have been gutted.
+- when I hung out in a 'smart college town' the Electoral College was something to get rid of...
+
 - ***How to do it right.***
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
