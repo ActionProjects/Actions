@@ -24,4 +24,64 @@ Coffee for my Office Space
 
 ## Debaters to initiate
 
-## 
+## Information Requests
+
+- [ ] Public Records
+  - [ ] California
+    - [ ] El Dorado County
+    - [ ] Sacramento County
+    - [ ] Contra Costa County
+    - [ ] San Francisco
+    - [ ] Merced County
+  - [ ] Washington
+    - [ ] Seattle
+      - [ ] encounter#1
+        - [ ] audios
+        - [ ] videos
+        - [ ] reports
+        - [ ] call logs
+        - [ ] gps logs
+        - [ ] dispatch logs
+      - [ ] encounter#2
+        - [ ] audios
+        - [ ] videos
+        - [ ] reports
+        - [ ] call logs
+        - [ ] gps logs
+        - [ ] dispatch logs
+  - [ ] Texas
+    - [ ] Dallas
+      - [ ] encounter#1
+        - [ ] audios
+        - [ ] videos
+        - [ ] reports
+        - [ ] call logs
+        - [ ] gps logs
+        - [ ] dispatch logs
+  - [ ] Louisiana
+    - [ ] New Orleans
+      - [ ] encounter#1
+        - [ ] audios
+          - [ ] NOPD
+          - [ ] State Trooper
+        - [ ] videos
+          - [ ] French Market
+          - [ ] B.B. Kings
+          - [ ] NOPD
+        - [ ] reports
+          - [ ] NOPD
+          - [ ] DPW - Parking
+        - [ ] call logs
+          - [ ] NOPD
+          - [ ] State Trooper
+          - [ ] AutoPound
+        - [ ] gps logs
+          - [ ] DPW - Parking
+          - [ ] NOPD
+          - [ ] State Trooper
+          - [ ] AutoPound
+        - [ ] dispatch logs
+          - [ ] DPW - Parking
+          - [ ] NOPD
+          - [ ] State Trooper
+          - [ ] AutoPound
