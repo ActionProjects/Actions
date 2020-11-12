@@ -4,29 +4,29 @@
 
 NO. 20-2965 c/w 20-2966
 
->filed two election-related complaints
+>[filed two election-related complaints](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L21)
 
 > > note the PDF's "Required" by the court do not allow for enough room to list defendants -> needs new page creation.
 > > {}
 
-> impracticable remedies
+> [impracticable remedies](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L23)
 > > Trumps capaign had a victory in PA
 > > Trump has filed on Nov. 6th
 
-> 100,000,000 Americans have already voted
+> [100,000,000 Americans have already voted](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L27)
 > > inconsequential
 > > +todo#todo -cite pics of vote#'s/area
 
-> largely incomprehensible
+> [largely incomprehensible](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L31)
 > > "intended to be amended & addended"
 
-> "he appears to assert"
+> [he appears to assert](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L33)
 > > Judge doesn't understand the assertion & dismisses anyhow.
 
-> a broad array of American entities have combined to disenfranchise homeless individuals who lack a physical address.
+> [a broad array of American entities have combined to disenfranchise homeless individuals who lack a physical address.](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L33-59)
 > > "have combined" how is that interpreted; these entities follow some similar rule? Did I say 'homeless'? (i hope not)
 
-> prompt sua sponte
+> [prompt sua sponte](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L61 "In law, sua sponte or suo motu describes an act of authority taken without formal prompting from another party. The term is usually applied to actions by a judge taken without a prior motion or request from the parties. The form nostra sponte is sometimes used by the court itself, when the action is taken by a multi-member court, such as an appellate court, rather than by a single judge. While usually applied to actions of a court, the term may reasonably be applied to actions by government agencies and individuals acting in official capacity. One situation in which a party might encourage a judge to move sua sponte occurs when that party is preserving a special appearance, and therefore cannot make motions on its own behalf without making a general appearance. https://en.wikipedia.org/wiki/Sua_sponte")
 > > Failed; maybe instead of looking to attack the argument, as a Judge, should be looking to interpret the issue. your latin majik words failed you.
 
 > standing to sue.
