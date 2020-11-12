@@ -1,9 +1,11 @@
-intended to be amended & addended
+# intended to be amended & addended
 
 filing under organization at [https://github.com/ActionProjects/Actions](https://github.com/ActionProjects/Actions)
 
 [Issues Under:](#issues-under)
-- [Issues Under:](#issues-under)
+
+- [intended to be amended & addended](#intended-to-be-amended--addended)
+	- [Issues Under](#issues-under)
 		- [RICO Act](#rico-act)
 		- [False Claims Act](#false-claims-act)
 		- [1st Amendment](#1st-amendment)
@@ -18,7 +20,7 @@ filing under organization at [https://github.com/ActionProjects/Actions](https:/
 		- [Access to Courts](#access-to-courts)
 		- [Access to LAW (legel opinions, ruling, filings, etc...)](#access-to-law-legel-opinions-ruling-filings-etc)
 	- [Injunction](#injunction)
-	- [Residence - ANIMUS MANENDI. The intention of remaining.](#residence---animus-manendi-the-intention-of-remaining)
+	- [Residence - ANIMUS MANENDI. The intention of remaining](#residence---animus-manendi-the-intention-of-remaining)
 	- [Presidency](#presidency)
 		- [RON](#ron)
 	- [entities](#entities)
@@ -28,53 +30,73 @@ filing under organization at [https://github.com/ActionProjects/Actions](https:/
 		- [SCOTUS](#scotus)
 		- [Address Required](#address-required)
 
-
 Injunction - Federal, Presidential Election
 
+## Issues Under
 
-
-# Issues Under:
 ### RICO Act
-### False Claims Act
-### 1st Amendment
-	Infringment on Campaign & Artistic Displays
-### 4th Amendment
-	unreasonable searches and seizures
-### 5th & 15th Amendments
-	Due Process	
-### 6th Amendment
-	Right to know accusers (NOPD, LAState Troopers, Parking, SPCA)
-### 8th Amendment
-	 imposing excessive bail, excessive fines, or cruel and unusual punishments.
-### 9th Amendment
-	specific enumerations
-### 12th Amendment vs. 17th
-	Presidential Election Process -> Electoral vs. Direct
-### 13th & 16th Amendments
-	income tax is slavery
-### 15th, & 26th Amendments
-	Resident Travelers issues
-### Access to Courts
-	https://www.law.cornell.edu/constitution-conan/article-4/section-2/clause-1/access-to-courts
-	https://en.wikipedia.org/wiki/Freedom_of_movement
-	~ Paul v. Virginia, 75 U.S. 168 (1869)
 
-	http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources
+### False Claims Act
+
+### 1st Amendment
+
+ Infringment on Campaign & Artistic Displays
+
+### 4th Amendment
+
+ unreasonable searches and seizures
+
+### 5th & 15th Amendments
+
+ Due Process
+
+### 6th Amendment
+
+ Right to know accusers (NOPD, LAState Troopers, Parking, SPCA)
+
+### 8th Amendment
+
+  imposing excessive bail, excessive fines, or cruel and unusual punishments.
+
+### 9th Amendment
+
+ specific enumerations
+
+### 12th Amendment vs. 17th
+
+ Presidential Election Process -> Electoral vs. Direct
+
+### 13th & 16th Amendments
+
+ income tax is slavery
+
+### 15th, & 26th Amendments
+
+ Resident Travelers issues
+
+### Access to Courts
+
+ <https://www.law.cornell.edu/constitution-conan/article-4/section-2/clause-1/access-to-courts>
+
+ <https://en.wikipedia.org/wiki/Freedom_of_movement>
+ ~ Paul v. Virginia, 75 U.S. 168 (1869)
+
+ <http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources>
+
 ### Access to LAW (legel opinions, ruling, filings, etc...)
 
 ## Injunction
 
 I Nicholas D'Artagnan Dumas demand an injunction on the 2020 Federal Presidential Election; predicated upon unfair practices by Federal and State Agencies.
 
-## Residence - ANIMUS MANENDI. The intention of remaining.
+## Residence - ANIMUS MANENDI. The intention of remaining
 
 >      RESIDENCE. The place of one's domicil. (q.v.) There is a difference between a man's residence and his domicil. He may have his domicil in Philadelphia, and still he may have a residence in New York; for although a man can have but one domicil, he may have several residences. A residence is generally transient in its nature, it becomes a domicil when it is taken up animo manendi. Roberts; Ecc. R. 75.
-
 >     2. Residence is prima facie evidence of national character, but this may at all times be explained. When it is for a special purpose and transient in its nature, it does not destroy the national character.
 *~ West's Encyclopedia of American Law, edition 2. S.v. "residence." Retrieved November 2 2020 from [https://legal-dictionary.thefreedictionary.com/Residence](https://legal-dictionary.thefreedictionary.com/Residence)*
 
+The following institutions failed to provide services based upon, what appears to be, a Patriot Act stipulation for a Physical Residence Address:
 
-The following institutions failed to provide services based upon, what appears to be, a Patriot Act stipulation for a Physical Residence Address: 
 - Federal Elections Commission
   - lack of support for multi-state transient voters (eg: vacationers)
 - FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America)
@@ -143,9 +165,10 @@ Nicholas D'Artagnan Dumas announced candidacy to the [El Dorado County HOTeam](h
 - Electoral College Decision
 
 ### Address Required
+
 - LAED, DMV, IRS, EDD, voterRegistration
   - "where you sleep"
-    - https://web.archive.org/web/20201108040308/https://www.huffpost.com/entry/voting-and-homeless_b_5533134
+    - <https://web.archive.org/web/20201108040308/https://www.huffpost.com/entry/voting-and-homeless_b_5533134>
     - getting cleared out of locations
     - frequent change of location
   - voterReg [into the matrices](https://docs.google.com/spreadsheets/d/11BQV6dw4WY2neblNqhRKdZolpbf4zc49yi7NcvXTuB0/edit?usp=drivesdk
