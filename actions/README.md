@@ -114,7 +114,7 @@ Deployed web presence & structured more concepts:
 # NOLA
 ## NOPD
  - [VIDEO: Seatbelt Cut Out](https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d)
- - [VIDEO: Officer Interaction](https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a)
+ - [VIDEO: Clip of Officer Interaction](https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a)
  - [AUDIO: "One Vehicle" Tow RAID, Parking Manager](https://bittube.tv/post/0fd2849b-4e65-4333-b923-1de4f8321333)
  - ### New Orleans
  - - #### NOPD, French Market, & DPW (etc...)
@@ -129,10 +129,10 @@ Deployed web presence & structured more concepts:
     - A.A. Social Sciences
     - A.A. Humanities
     - (informed of qualifications for Comms & some Maths)
-- U.C. Merced declarations
-  - B.Sc. Major Cognitive Science
+- [U.C. Merced](https://en.wikipedia.org/wiki/University_of_California%2C_Merced) declarations [^1][1]
+  - B.Sc. Major [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science)
   - Minors
-    - [Cultural] Anthropology
+    - [{Cultural} Anthropology](https://en.wikipedia.org/wiki/Cultural_anthropology "'Cultural' wasn't able to be declared unless for a Masters") w/ interest in ['Acceptance Modeling'](https://en.wikipedia.org/wiki/Technology_acceptance_model) & ['Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
     - Philosophy
 - [envisioning.io](https://www.envisioning.io/clients/deftech)
   - [RNLAF](https://en.wikipedia.org/wiki/RNLAF) & [DefTech](http://deftech.ch/)
@@ -150,3 +150,5 @@ What are you wondering about?
 Enforcement / Policing, Judges, Attorneys, & D.A.'s, Prosecutorial Fairness, Institutionalized Bias, etc...
 
 Note:: "Frictionalized system... discovery & access eg: Bus Tickets 'home'
+
+[1]: https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States

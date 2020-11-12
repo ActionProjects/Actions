@@ -16,11 +16,16 @@ do the things
 
 - private social sharing (friends & friends of friends)
 
+- "Where's Waldo" style travels
+- - eg: no prior setup, no telling where I'm going next, 'pass-back' what I've done once I've left via SMS.
+
 - I've been through:
-  - (*California, Oregon, Washington = Mask ⬆️ & FBI Tacos*)  Idaho, Utah, Arizona. Nevada, *Navajo Nation (discussed COVID decon with President Nez, with regards to C.A.R.E
+  - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *Navajo Nation (discussed COVID decon with President Nez, with regards to C.A.R.E
 S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
 [see the pledges here](action/pages/electors)
+
+![Why I'm still 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)
 
   - #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
 
