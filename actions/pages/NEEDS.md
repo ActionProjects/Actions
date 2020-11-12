@@ -4,7 +4,7 @@
 
 ## Fiscal Agent
 
-- OpenCollective.com/Dartanium
+- allowing OpenCollective.com/Dartanium (and others) to be operational.
 
 ## Coffee for my O.S.
 
@@ -15,6 +15,8 @@ Coffee for my Office Space
 <!--HASH encrypted original -->
 
 ## Vehicle Maintenance
+
+To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants; so, let's hand deliver.
 
 - [ ] wheel lock key ordered from VW
   - [ ] install Spare
