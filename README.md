@@ -20,7 +20,7 @@ do the things
     - eg: no prior setup, no telling where I'm going next, 'pass-back' what I've done once I've left via SMS.
 
   - I've been through:
-    - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *[Navajo Nation](actions/README.md#vnnd) (discussed COVID decon with President Nez, with regards to C.A.R.E.S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
+    - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *[Navajo Nation](actions/README.md#v-nnd) (discussed COVID decon with President Nez, with regards to C.A.R.E.S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
 [see the pledges here](actions/_assets/electors)
 
