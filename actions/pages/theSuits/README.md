@@ -12,7 +12,9 @@ Construction [^1][1]:
 Liberal Construction [^2][2]:
 > A form of construction which allows a judge to consider other factors when deciding the meaning of a phrase or document.
 
-{#todo +todo find Liberal Construction .pdf}
+<!--{#todo +todo find Liberal Construction .pdf}-->
+
+[masterComplaint](pages/theSuits/Complaints/masterComplaint.md) submitted 1st commit <!--#todo+todo link .pdf-->
 
 ## Residence
 <!--{#todo +todo tag "Deficiencies"}-->

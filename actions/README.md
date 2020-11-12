@@ -1,4 +1,5 @@
-# D'Art Write-in, 2020, Vision for the Future.
+# D'Art Write-in, 2020, Vision for the Future
+
 # Nicholas D'Artagnan Dumas
 
 This has been started, a few, times.
@@ -48,17 +49,19 @@ I believe in [The Competent Individual](https://en.wikipedia.org/wiki/Competent_
 Tow Truck Operator transition to familial tasks + paperwork started. *imgs on locked device* [cellbrite fundRequest]().
 
 Deployed web presence & structured more concepts:
+
 - [Electric RickShaw](pages/2019/ers.md)
 - Wepwawet (privacy in public)
 - FireSide Chats
   - Getting my Electoral College "Pledges" with a ***Hack the Electoral College*** Campaign
   - find me on things like "Couchsurfing"
 - [Sleucebox Politics](pages/2019/sbp.md)
-   - Curated & Conceptualized Implementation; advocated.
-- [Feel the Thunberg!](pages/2019/ftt.md) 
+  - Curated & Conceptualized Implementation; advocated.
+- [Feel the Thunberg!](pages/2019/ftt.md)
   - Greta PSA reen***act***ment challenges. (site draft on locked device)
 
 ## [2020](pages/2020)
+
 - [Personal Opposition Spending Project](pages/2020/posp.md), measuring advertising effect. On Scott Santens Discord as @everybody#4559
 - [Mask :arrow_up:](pages/2020/mu.md)
   - compounding the Privacy in Public message
@@ -69,11 +72,13 @@ Deployed web presence & structured more concepts:
     - County & State Solutions along travels.
 
 ### - [F.B.I. Tacos!](pages/2020/fbit.md) Fried Bread "Indian" Tacos!
-  - ![FBI Nola pic](pages/_assets-logPics/20200820_130020.jpg)
+
+- ![FBI Nola pic](pages/_assets-logPics/20200820_130020.jpg)
 
 - [Care a Van](pages/2020/cav.md)
 
-### - [Volunteer Navajo Nation Decontamination](pages/2020/vnnd.md) Captured this moment:
+### - [Volunteer Navajo Nation Decontamination](pages/2020/vnnd.md) Captured this moment
+
 !["Real COVID"](_assets/navajoxcerpts/20200711_170651.jpg)
 ![meetingNEZ](_assets/navajoxcerpts/20200709_182447.jpg)
 
@@ -83,14 +88,12 @@ Deployed web presence & structured more concepts:
 
 - [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77) These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.
 
-# ['Suits](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/README.md)
+## ['Suits](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/README.md)
 
-[masterComplaint](pages/theSuits/Complaints/masterComplaint.md) submitted 1st commit <!--#todo+todo link .pdf-->
+### [Residency Issue Discoveries](pages/theSuits/filed/Federal/Residence)
 
-## [Residency Issue Discoveries](pages/theSuits/filed/Federal/Residence)
-
- - [x] Action Initialized
- - [ ] Awaiting Action
+- [x] Action Initialized
+- [ ] Awaiting Action
 
 ### 2018
 
@@ -104,7 +107,7 @@ Deployed web presence & structured more concepts:
 - [x] DMV
 - [ ] EDD - unemployment
 - [ ] HHS - DMV verification form issues
-- ...etc...Fill in 
+- ...etc...Fill in
 
 ### 2020
 
@@ -113,7 +116,7 @@ Deployed web presence & structured more concepts:
 - [ ] Prisons
 - [x] IRS - Stimulus
 - [x] [Filed in LAED](pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts)
-- - [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.) {+img's}
+- [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.) {+img's}
 - [ ] SCOTUS Challenge Electoral College arguments
 
 ## Other Complaints
@@ -129,12 +132,14 @@ Deployed web presence & structured more concepts:
 ### NOLA
 
 - #### NOPD, French Market, & DPW (etc...)
+
 - Presidential "Campaign Materials Hostage"
   - [VIDEO: Seatbelt Cut Out](https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d)
   - [VIDEO: Clip of Officer Interaction](https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a)
   - [AUDIO: "One Vehicle" Tow RAID, Parking Manager](https://bittube.tv/post/0fd2849b-4e65-4333-b923-1de4f8321333)
 
-# Experience
+## Experience
+
 - [C.E.D.A.](http://www.cedadebate.org/) (Cross Examination Debate Association)
   - [videoExampleHere](https://www.youtube.com/watch?v=JhzwSlK4uEc)
   - [__Nuclear Foreign Policy__](http://cedadebate.org/node/893), [*Team 4th(?) in Nation*](https://saccityexpress.com/debating-greatness/)
@@ -157,7 +162,7 @@ Deployed web presence & structured more concepts:
 - [Opainc.net](http://opainc.net/)
   - The Integrated Risk Management Group
 
-# [Find Me & Ask Me's]'(#fmam-pulls?)
+## [Find Me & Ask Me's]'(#fmam-pulls?)
 
 What are you wondering about?
 
