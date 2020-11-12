@@ -68,12 +68,12 @@ Deployed web presence & structured more concepts:
   - Noted [homeless dispersed]() (#todo+todo fixlink cellbrite4video+imgs)
     - County & State Solutions along travels.
 
-- [F.B.I. Tacos!](pages/2020/fbit.md) Fried Bread "Indian" Tacos!
+### - [F.B.I. Tacos!](pages/2020/fbit.md) Fried Bread "Indian" Tacos!
   - ![FBI Nola pic](pages/_assets-logPics/20200820_130020.jpg)
 
 - [Care a Van](pages/2020/cav.md)
 
-- [Volunteer Navajo Nation Decontamination](pages/2020/vnnd.md) Captured this moment:
+### - [Volunteer Navajo Nation Decontamination](pages/2020/vnnd.md) Captured this moment:{#vnnd}
 !["Real COVID"](_assets/navajoxcerpts/20200711_170651.jpg)
 ![meetingNEZ](_assets/navajoxcerpts/20200709_182447.jpg)
 
