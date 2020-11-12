@@ -25,7 +25,9 @@ S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote p
 
 [see the pledges here](actions/_assets/electors)
 
-<!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)--><img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%">
+<img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%"><!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)-->
+
+<img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
 - #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
 
