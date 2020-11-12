@@ -4,14 +4,21 @@ do the things
 
 ## [D'Artagnan's Dartanium](https://OpenCollective.com/Dartanium "Brief Outline earlier this year")
 
+- CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
+
+- also, mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame).
+
 ## [Actions](actions/README.md "Top Level")
 
 - ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
 - No Campaign Fundraising or Paid Advertising
 
+- private social sharing (friends & friends of friends)
+
 - I've been through:
-  - California, Oregon, Washington, Idaho, Utah, Arizona. Nevada, New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
+  - (*California, Oregon, Washington = Mask ⬆️ & FBI Tacos*)  Idaho, Utah, Arizona. Nevada, *Navajo Nation (discussed COVID decon with President Nez, with regards to C.A.R.E
+S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
 [see the pledges here](action/pages/electors)
 
@@ -25,15 +32,19 @@ do the things
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
-- How to do it right.
+- when I hung out in a 'smart college town' the Electoral College was something to get rid of...
+
+- ***How to do it right.***
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
 
 ### from this, Constitutionally strong, area [State of Jefferson](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F. Bay Area
 
-- [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting) (if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{; also, it's not a speaker anymore; it's an, attempted, arrest}. Did the Enforcing Officers Fail their Duty?)
+- [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}. Did the Enforcing Officers Fail their Duty?}")
 - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
 - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
+
+- on, social, bias & reward systems
 
 ## [Assist](actions\pages\NEEDS.md "help hack the Electoral College")
 
