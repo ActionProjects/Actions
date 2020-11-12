@@ -6,15 +6,15 @@ filing under organization at [https://github.com/ActionProjects/Actions](https:/
 - [Issues Under:](#issues-under)
 		- [RICO Act](#rico-act)
 		- [False Claims Act](#false-claims-act)
-		- [1st Addendum](#1st-addendum)
-		- [4th Addendum](#4th-addendum)
-		- [5th & 15th Addendums](#5th--15th-addendums)
-		- [6th Addendum](#6th-addendum)
-		- [8th Addendum](#8th-addendum)
-		- [9th Addendum](#9th-addendum)
-		- [12th Addendum vs. 17th](#12th-addendum-vs-17th)
-		- [13th & 16th Addendums](#13th--16th-addendums)
-		- [15th, & 26th Addendums](#15th--26th-addendums)
+		- [1st Amendment](#1st-amendment)
+		- [4th Amendment](#4th-amendment)
+		- [5th & 15th Amendments](#5th--15th-amendments)
+		- [6th Amendment](#6th-amendment)
+		- [8th Amendment](#8th-amendment)
+		- [9th Amendment](#9th-amendment)
+		- [12th Amendment vs. 17th](#12th-amendment-vs-17th)
+		- [13th & 16th Amendments](#13th--16th-amendments)
+		- [15th, & 26th Amendments](#15th--26th-amendments)
 		- [Access to Courts](#access-to-courts)
 		- [Access to LAW (legel opinions, ruling, filings, etc...)](#access-to-law-legel-opinions-ruling-filings-etc)
 	- [Injunction](#injunction)
@@ -36,23 +36,23 @@ Injunction - Federal, Presidential Election
 # Issues Under:
 ### RICO Act
 ### False Claims Act
-### 1st Addendum
+### 1st Amendment
 	Infringment on Campaign & Artistic Displays
-### 4th Addendum
+### 4th Amendment
 	unreasonable searches and seizures
-### 5th & 15th Addendums
+### 5th & 15th Amendments
 	Due Process	
-### 6th Addendum
+### 6th Amendment
 	Right to know accusers (NOPD, LAState Troopers, Parking, SPCA)
-### 8th Addendum
+### 8th Amendment
 	 imposing excessive bail, excessive fines, or cruel and unusual punishments.
-### 9th Addendum
+### 9th Amendment
 	specific enumerations
-### 12th Addendum vs. 17th
+### 12th Amendment vs. 17th
 	Presidential Election Process -> Electoral vs. Direct
-### 13th & 16th Addendums
+### 13th & 16th Amendments
 	income tax is slavery
-### 15th, & 26th Addendums
+### 15th, & 26th Amendments
 	Resident Travelers issues
 ### Access to Courts
 	https://www.law.cornell.edu/constitution-conan/article-4/section-2/clause-1/access-to-courts

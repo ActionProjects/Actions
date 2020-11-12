@@ -4,9 +4,7 @@ do the things
 
 ## [D'Artagnan's Dartanium](https://OpenCollective.com/Dartanium "Brief Outline earlier this year")
 
-- CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
-
-- also, mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame).
+mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame).
 
 ## [Actions](actions/README.md "Top Level")
 
@@ -70,3 +68,5 @@ do the things
 - [a count ability](https://github.com/sunlightpolicy/Sunlight_FOIA "enforcer data")
 
 [someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
+
+- CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
