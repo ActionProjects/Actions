@@ -77,7 +77,7 @@ Deployed web presence & structured more concepts:
 - [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77) These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.
 
 # 'Suits
-## [Residency Issue Discoveries](actions/pages/theSuits/filed/Federal/Residence)
+## [Residency Issue Discoveries](pages/theSuits/filed/Federal/Residence)
 
  - [x] Action Initialized
  - [ ] Awaiting Action
@@ -102,7 +102,7 @@ Deployed web presence & structured more concepts:
 - [ ] mediCal - meds staph
 - [ ] Prisons
 - [x] IRS - Stimulus
-- [x] [Filed in LAED](pages/theSuits/Complaints/Residence/_assets/LAED-tributes_n_contacts)
+- [x] [Filed in LAED](pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts)
 - - [ ] Settle Signature & Address Deficiencies ... (Residence Address is the BASIS of the case.) {+img's}
 - [ ] SCOTUS Challenge Electoral College arguments
 
