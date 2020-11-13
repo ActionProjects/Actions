@@ -154,7 +154,7 @@ Deployed web presence & structured more concepts:
   - B.Sc. Major [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science)
   - Minors
     - [{Cultural} Anthropology](https://en.wikipedia.org/wiki/Cultural_anthropology "'Cultural' wasn't able to be declared unless for a Masters") w/ interest in ['Acceptance Modeling'](https://en.wikipedia.org/wiki/Technology_acceptance_model), ['Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations) w/ [my A.A.'s](https://en.m.wikipedia.org/wiki/Sociocultural_anthropology#Overview)
-    - Philosophy {of Law}
+    - Philosophy {of Law}(, interest in Stoics & Cynics)
 - [envisioning.io](https://www.envisioning.io/clients/deftech)
   - [RNLAF](https://en.wikipedia.org/wiki/RNLAF) & [DefTech](http://deftech.ch/)
 - [PinzaGroup](https://pinzagroup.com/wp-content/endurance-page-cache/_index.html)
