@@ -6,12 +6,12 @@ A "MacGyver" challenge to capture energy from rolling mass.
 
 End goal = Olympics
 
-Started Olympics concept with Boyd and furthered with [Redding Shasta Covered Wagon].
+Started Olympics concept with Boyd and furthered with Willis.
 1100m adding 100kg every 100m; starting with zero stored energy or weight.
 
 Classes devised:
 
-Pedestrian
+Pedestrian Boyd's Category, from Grass Valley, California 
 1100kg
 
 Bicycle trailer
