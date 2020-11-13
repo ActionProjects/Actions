@@ -20,8 +20,8 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
   - I've been through:
     - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *[Navajo Nation](https://github.com/ActionProjects/Actions/blob/main/actions/README.md#--volunteer-navajo-nation-decontamination-captured-this-moment) (discussed COVID decon with President Nez, with regards to C.A.R.E.S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
-[see the pledges here](actions/_assets/electors)
-
+[see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
+<!--#todo+todo deduplication & checkboxes-->
 <img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%"><!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)-->
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
