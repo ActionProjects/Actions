@@ -17,7 +17,7 @@ Pedestrian
 Bicycle trailer
 ?kg
 
-Tricycle
+Tricycle Willis Bohall Category, from Shasta County; with a covered Wagon gooseneck trike!
 3500kg+
 
 <!-- #todo find pics! -->
