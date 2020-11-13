@@ -38,7 +38,7 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
 - when I hung out in a 'smart college town' the Electoral College was something to get rid of...
 
-- ***How to do it right.***
+- ***How to do it right.*** <sup>would you trust a bunch of 5th Graders?</sup>
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
 
