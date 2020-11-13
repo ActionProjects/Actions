@@ -6,7 +6,7 @@ This has been started, a few, times.
 
 I was born from ["Old Dry Diggins"](http://historichwy49.com/placer/pvhist.html), ["Hangtown"](https://hangmanstree.com/history/), now [Placerville](https://en.wikipedia.org/wiki/Placerville%2C_California) !["Hangtown,"](https://evogov.s3.amazonaws.com/media/17/media/5722.png); known to be in [El Dorado County California](https://en.wikipedia.org/wiki/El_Dorado_County%2C_California), and the [State of Jefferson region](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29) ![SoJlogo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seal_of_Jefferson_%28proposed%29.svg/100px-Seal_of_Jefferson_%28proposed%29.svg.png).
 
-'Nominated, on a handshake, for the role of **_President & Commander in Chief_**, in [Lotus](https://en.wikipedia.org/wiki/Lotus%2C_California); across the bridge from [Coloma, CA](https://en.wikipedia.org/wiki/Coloma%2C_California); [_the Mother Lode_](https://www.britannica.com/place/Mother-Lode-Country), where gold was discovered.
+'Nominated, on a handshake, for the role of **_President & Commander in Chief_**, in [Lotus](https://en.wikipedia.org/wiki/Lotus%2C_California); across the bridge from [Coloma, CA](https://en.wikipedia.org/wiki/Coloma%2C_California); [_the Mother Lode_](https://www.britannica.com/place/Mother-Lode-Country), where [gold was discovered in California](https://en.m.wikipedia.org/wiki/Sutter%27s_Mill).
 
 This event occurred after a discussion one evening; where, I was asked to hold my word. Being told people need to hear me; while, in childhood, I had the "*Quietest Gator*" Award from the C.R.C. Swim Team; and, I still feel gypped out of that 5th grade spelling bee.
 
