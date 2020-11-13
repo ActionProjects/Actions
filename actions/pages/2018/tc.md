@@ -15,14 +15,17 @@ _
 
 ...
 
-Chico:
+## Chico
 
 Logan's started a team!
 
+## Albuquerque
+
+Saturday Morning demonstration at the park. <!--{Video w/ pastor}-->
 ...
 
-Along my travels I've found:
+## Along my travels I've found:
 
-- Seattle
+- Seattle, WA
 - NOLA
-  - Empire](
+  - [Empire](
