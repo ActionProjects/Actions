@@ -48,7 +48,7 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
 - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
-- on, social, bias & reward systems
+- on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'nto be alright</sup></a>
 
 ## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
 
