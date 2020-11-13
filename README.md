@@ -66,6 +66,7 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
 - [FOIA Tools](https://github.com/topics/foia "Freedom of Information Act")
 - [a count ability](https://github.com/sunlightpolicy/Sunlight_FOIA "enforcer data")
+- [isn't the law what the public is bound by? And it's locked](https://github.com/freelawproject/), [article](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
 
 [someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
 
