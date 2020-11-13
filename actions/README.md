@@ -16,6 +16,8 @@ It seems as though all the right opportunities have formed themselves around cre
 
 I believe in [The Competent Individual](https://en.wikipedia.org/wiki/Competent_man)
 
+I believe in the {conceptual & executive} pinnacles of mastering a 'niche'
+
 # Actions Initialized
 
 *some of these things are started on a, currently, locked device.*
