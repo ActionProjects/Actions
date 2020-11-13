@@ -90,3 +90,5 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
           - [ ] NOPD
           - [ ] State Trooper
           - [ ] AutoPound
+
+Segwit Compat BTC, P2SH="3BCsp8UVfPdUZCntw9wjgTGsm5N7BQvENp"
