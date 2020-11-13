@@ -114,7 +114,7 @@ The following institutions failed to provide services based upon, what appears t
 
 2018:
 
-I, Nicholas D'Artagnan Dumas, was asked to lie, at multiple DMV's and Banks, about my Residence Address while being 'shelterless' with no, permitted, Physical Residence Address; barring the ability to: receive private mail; open a bank account / safety deposit box; file for unemployment; receive stimulus; register, timely and properly, with the FEC;
+I, Nicholas D'Artagnan Dumas, was asked to lie, at multiple DMV's and Banks, about my Residence Address while being a 'Resident in Transience;' with no, permitted, Physical Residence Address; barring the ability to: receive private mail; open a bank account / safety deposit box; file for unemployment; receive stimulus; register, timely and properly, with the FEC; contribute to the CENSUS; 
 
 2020:
 
@@ -123,6 +123,7 @@ Traveling individuals, while residents, without specific residential street addr
 ## Presidency
 
 9 States bar Write-in candidates.
+The SCOTUS decision further undermines the separation of powers.
 
 [Electoral College SCOTUS decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision)
 
