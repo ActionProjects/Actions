@@ -29,14 +29,15 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
 ## Information Requests
 
 - [ ] Public Records
-  - [ ] California
+  - [ ] <details open><summary>California</summary>
     - [ ] El Dorado County
     - [ ] Sacramento County
     - [ ] Contra Costa County
     - [ ] San Francisco
     - [ ] Merced County
-  - [ ] Washington
-    <details open><summary>- [ ] Seattle</summary><!--goingto lose markdown checklists( & indents?)-->
+</details>
+  - [ ] <details><summary>Washington</summary>
+    <details><summary>- [ ] Seattle</summary><!--goingto lose markdown checklists( & indents?)-->
       <details><summary>  - [ ] encounter#1</summary><!--yeah, no inline html; i kno...-->
         - [ ] audios<br>
         - [ ] videos<br>
@@ -53,8 +54,9 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
         - [ ] gps logs<br>
         - [ ] dispatch logs<br>
       </details>
-    </details> 
-  - [ ] Texas
+    </details>
+</details>
+  - [ ] <details><summary>Texas</summary>
     - [ ] Dallas
       - [ ] encounter#1
         - [ ] audios
@@ -63,12 +65,14 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
         - [ ] call logs
         - [ ] gps logs
         - [ ] dispatch logs
-  - [ ] Louisiana
-    - [ ] New Orleans
-      - [ ] encounter#1
-        - [ ] audios
+</details>
+  - [ ] <details><summary>Louisiana</summary>
+    - [ ] <details><summary>New Orleans</summary>
+      - [ ] <details><summary>encounter#1</summary>
+        - [ ] <details><summary>audios</summary>
           - [ ] NOPD
           - [ ] State Trooper
+         </details>
         - [ ] videos
           - [ ] French Market
           - [ ] B.B. Kings
@@ -90,5 +94,8 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
           - [ ] NOPD
           - [ ] State Trooper
           - [ ] AutoPound
+      </details>
+    </details
+</details>
 
 Segwit Compat BTC, P2SH="3BCsp8UVfPdUZCntw9wjgTGsm5N7BQvENp"
