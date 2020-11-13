@@ -151,7 +151,7 @@ Deployed web presence & structured more concepts:
 - [U.C. Merced](https://en.wikipedia.org/wiki/University_of_California%2C_Merced) declarations [^1][1]
   - B.Sc. Major [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science)
   - Minors
-    - [{Cultural} Anthropology](https://en.wikipedia.org/wiki/Cultural_anthropology "'Cultural' wasn't able to be declared unless for a Masters") w/ interest in ['Acceptance Modeling'](https://en.wikipedia.org/wiki/Technology_acceptance_model) & ['Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)
+    - [{Cultural} Anthropology](https://en.wikipedia.org/wiki/Cultural_anthropology "'Cultural' wasn't able to be declared unless for a Masters") w/ interest in ['Acceptance Modeling'](https://en.wikipedia.org/wiki/Technology_acceptance_model), ['Diffusion of Innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations) w/ [my A.A.'s](https://en.m.wikipedia.org/wiki/Sociocultural_anthropology#Overview)
     - Philosophy
 - [envisioning.io](https://www.envisioning.io/clients/deftech)
   - [RNLAF](https://en.wikipedia.org/wiki/RNLAF) & [DefTech](http://deftech.ch/)
