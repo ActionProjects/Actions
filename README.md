@@ -26,19 +26,17 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
-- #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
-
 - ### Law is Code; right
 
-- ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
+  - ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
 
-  - #### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
+    - #### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
 
-- ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
+  - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
-- when I hung out in a 'smart college town' the Electoral College was something to get rid of...
+    - when I hung out in a 'smart college town' the Electoral College was something to get rid of...
 
-- ***How to do it right.*** <sup>would you trust a bunch of 5th Graders?</sup>
+    - ***How to do it right.*** <sup>would you trust a bunch of 5th Graders?</sup>
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
 
@@ -50,13 +48,12 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
 - on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'nto be alright</sup></a>
 
+
+## [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
+
 ## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
 
-#todo - ./rel/links!
-
-### Find out, more
-
-#### about your candidates
+### Find out, more <sub>about your candidates</sub>
 
 - [Open Source Intelligence](https://github.com/topics/osint "long list of stuffs")
 - [Awesome OSINT!](https://github.com/jivoi/awesome-osint "a curated library")
@@ -71,3 +68,5 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 [someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
 
 - CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
+
+<!--#todo+todo - ./rel/links!-->
