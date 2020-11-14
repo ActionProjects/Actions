@@ -173,3 +173,19 @@ Enforcement / Policing, Judges, Attorneys, & D.A.'s, Prosecutorial Fairness, Ins
 Note:: "Frictionalized system... discovery & access eg: Bus Tickets 'home'
 
 [1]: https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States
+
+## References
+
+High School
+- [ ] Valedictorian
+- [ ] other students/instructors
+  - [ ] Engineering
+  - [ ] Physics
+  - [ ] Science
+
+College
+- [ ] [Amir Sabzevary](https://laney.edu/humanities_philosophy/humanities-philosophy-faculty/)
+
+Work
+- [ ] you pick
+
