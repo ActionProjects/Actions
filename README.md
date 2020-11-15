@@ -35,10 +35,6 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
     - NOLA
       - ##### vids
         - [deconDarts Channel](https://bittube.tv/profile/deconDarts)
-        - on [IPFS.io](https://ipfs.io/) - DTube *fail*
-          - [NOLA NOPD & Auto Pound attempted kidnapping 240p](https://ipfs.io/ipfs/QmQhpo2SyHrjqi5Z2Xq2DUonpRdm3iCNMixT6Ww62r8cRp)
-          - [NOLA NOPD nopd & Auto Pound attempted kidnapping 480p](https://ipfs.io/ipfs/QmNTjDqAotwNVJ1At7YBwzRCCG1A31DBrpQ275Wk18XLh1)
-          - [NOLA NOPD & Auto Pound attempted kidnapping source](https://ipfs.io/ipfs/QmPt6KkCUUbHngiRBXPfxyQZhbGVqCjZ3b86ceetVVwGYa)
 
   - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
