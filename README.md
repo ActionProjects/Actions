@@ -40,6 +40,8 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
     - when I hung out in a 'smart college town' the Electoral College was something to get rid of...
 
+- on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'nto be alright</sup></a>
+
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
@@ -49,9 +51,6 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 - [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}. Did the Enforcing Officers Fail their Duty?}")
 - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
 - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
-
-- on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'nto be alright</sup></a>
-
 
 ## [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
 
