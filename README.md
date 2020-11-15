@@ -26,17 +26,23 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
-- #### [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
-
 - ### Law is Code; right
 
-- ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
+  - ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
 
-  - #### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
+    - #### SCOTUS
+      - ##### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
+    - NOLA
+      - ##### vids
+        - [deconDarts Channel](https://bittube.tv/profile/deconDarts)
+        - on [IPFS.io](https://ipfs.io/) - DTube *fail*
+          - [NOLA NOPD & Auto Pound attempted kidnapping 240p](https://ipfs.io/ipfs/QmQhpo2SyHrjqi5Z2Xq2DUonpRdm3iCNMixT6Ww62r8cRp)
+          - [NOLA NOPD nopd & Auto Pound attempted kidnapping 480p](https://ipfs.io/ipfs/QmNTjDqAotwNVJ1At7YBwzRCCG1A31DBrpQ275Wk18XLh1)
+          - [NOLA NOPD & Auto Pound attempted kidnapping source](https://ipfs.io/ipfs/QmPt6KkCUUbHngiRBXPfxyQZhbGVqCjZ3b86ceetVVwGYa)
 
-- ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
+  - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
-- when I hung out in a 'smart college town' the Electoral College was something to get rid of...
+    - when I hung out in a 'smart college town' the Electoral College was something to get rid of...
 
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 
@@ -48,15 +54,14 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
 - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
-- on, social, bias & reward systems
+- on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'nto be alright</sup></a>
+
+
+## [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
 
 ## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
 
-#todo - ./rel/links!
-
-### Find out, more
-
-#### about your candidates
+### Find out, more <sub>about your candidates</sub>
 
 - [Open Source Intelligence](https://github.com/topics/osint "long list of stuffs")
 - [Awesome OSINT!](https://github.com/jivoi/awesome-osint "a curated library")
@@ -71,3 +76,5 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 [someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
 
 - CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
+
+<!--#todo+todo - ./rel/links!-->
