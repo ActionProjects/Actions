@@ -29,9 +29,9 @@ do the things
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
-### Here's a map of pages linked as of November 16th, 2020 <sub>29 of 68 Linked; so, browse around</sub>
+### Here's a map of pages linked as of November 16th, 2020 <sub>30 of 68 Linked; so, browse around</sub>
 
-[![linkLogFiles](linksLogs/LinkMap_3.PNG "Check the LinkLog")](/linksLogs)
+[![linkLogFiles](linksLogs/LinkMap_4.PNG "Check the LinkLog")](/linksLogs)
 
 - ### Law is Code; right
 

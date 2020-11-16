@@ -21,19 +21,17 @@ Liberal Construction [^2][2]:
 Patriot Act & Property Tax
 How to create a sinkhole for your citizens.
 
-[filedProbsTransientResidence](/actions/pages/theSuits/Complaints/masterComplaint.md)
+- [filedProbsTransientResidence](/actions/pages/theSuits/Complaints/masterComplaint.md)
 
-[residence-SoC.md](Complaints/Residence/statementOfClaim.md)
+  - [residence-SoC.md](Complaints/Residence/statementOfClaim.md)
 
-[Presidential Campaign](Complaints/Presidential_Campaign/README.md)
+  - [Voters in Transit](Complaints/transient_voter/noVotes.md#barred-from-voting)
 
-[Voters in Transit](Complaints/transient_voter/noVotes.md#barred-from-voting)
+- [Presidential Campaign](Complaints/Presidential_Campaign/README.md)
 
-[Hack the College - SCOTUS](some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
+  - [Hack the College - SCOTUS](some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
 
-[NOLA](actions/pages/theSuits/Complaints/LA/NewOrleans/Complaint_NOLA.md)
-
-WWLtv - watermark, name, exclusivity fee
+- [NOLA](actions/pages/theSuits/Complaints/LA/NewOrleans/Complaint_NOLA.md)
 
 ### An Address is the issue
 
@@ -58,11 +56,18 @@ she said no pictures ... even if I put it in .pdf? wtf Connie... what is e-maili
   - [LA_NOLA-dup](./Complaints/LA/NewOrleans/FrMkt/duplicates_q-mark/LA_NOLA.md)
   - [NOLA_FrMkt-SoC.txt](./Complaints/LA/NewOrleans/FrMkt/statementOfClaim.txt)
    <!-- #todo find .md -->
-   #todo - consolidate!
+<!--{#todo+todo - consolidate!}-->
 
-## Art
-
-Lawrence
+## Art <!--Sidewalks - findLawrence-->
 
   [1]: http://www.duhaime.org/LegalDictionary/C/Construction.aspx
   [2]: http://www.duhaime.org/LegalDictionary/L/LiberalConstruction.aspx
+
+## Other Complaints
+
+- NOLA
+  - {WWLtv - watermark, name, exclusivity fee}
+  - NOPD
+  - AutoPound
+  - DPW
+  - NOParking
