@@ -36,23 +36,8 @@ do the things
 [![linkLogFiles](linksLogs/LinkMap_4.PNG "Check the LinkLog")](/linksLogs)
 
 - ### Law is Code; right
-
-- ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
-
-- #### SCOTUS July 6th, 2020 Electoral College Decision
-
-  - ##### [SCOTUS E.C. Deficiencies](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
-
-  - #### NOLA
-
-    - ##### vids <!--make page-->
-
-      - [deconDarts Channel](https://bittube.tv/profile/deconDarts)
-
-- #### LAED
-
-  - [Dismiss Order](actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md)
-  - [Response](actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md)
+  
+  - #### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
@@ -70,8 +55,10 @@ do the things
 - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
 - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
-## [loggin', large, Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics")
+## loggin'
+- [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md "caution lrgPics")
 <!--{#todo+todo img resize, add content, thumbnails & links}-->
+- vids <!--make page--> [deconDarts Channel](https://bittube.tv/profile/deconDarts)
 
 ## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
 

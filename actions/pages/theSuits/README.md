@@ -14,7 +14,15 @@ Liberal Construction [^2][2]:
 
 <!--{#todo +todo find Liberal Construction .pdf}-->
 
-[masterComplaint](pages/theSuits/Complaints/masterComplaint.md) submitted 1st commit <!--#todo+todo link .pdf-->
+- ### SCOTUS July 6th, 2020 Electoral College Decision
+
+  - #### [SCOTUS E.C. Deficiencies](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
+
+- #### Filed in LAED
+
+  - [masterComplaint](pages/theSuits/Complaints/masterComplaint.md) submitted 1st commit <!--#todo+todo link .pdf-->
+    - [Dismiss Order formatted](actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md) - [Original pdf](actions/pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts/11-05-2020/085111986347.pdf)
+    - [Response](actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md)
 
 ## [Residence](actions/pages/theSuits/Complaints/masterComplaint.md#residence)
 <!--{#todo +todo tag "Deficiencies"}-->
