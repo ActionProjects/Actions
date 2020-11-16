@@ -2,30 +2,34 @@
 
 ## California
 
-### [California El Dorado County](CAElDo/README.md)
+- ### [California El Dorado County](CAElDo/README.md)
 
-### [California Amador County](CAAmador/README.md)
+- ### [California Amador County](CAAmador/README.md)
 
-### [California Sacramento County](CASac/README.md)
+- ### [California Sacramento County](CASac/README.md)
 
-### [California San Juaqin](../CA/SanJuaqAmador-NativeLands/San_Juaqi-dor.md)
+- ### [California San Juaqin](../CA/SanJuaqAmador-NativeLands/San_Juaqi-dor.md)
 
-### Contra Costa
+- ### Contra Costa
 
-### San Francisco
+- ### San Francisco
 
 ## Oregon
 
-### ? SoS Clerk
+- ### ? SoS Clerk
 
 ## Washington
 
-### Seattle
+- ### Seattle
+
+## Arizona / New Mexico -> Navajo Nation
+
+- ### TBNamed
 
 ## Texas
 
-### Dallas
+- ### Dallas
 
 ## Louisiana
 
-### New Orleans
+- ### New Orleans

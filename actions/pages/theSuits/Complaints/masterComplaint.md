@@ -106,20 +106,20 @@ The following institutions failed to provide services based upon, what appears t
 
 ### - Federal Elections Commission
 
-  - lack of support for multi-state transient resident voters (eg: vacationers)
-  - webForms
+- lack of support for multi-state transient resident voters (eg: vacationers)
+- webForms
 
 ### - FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America)
 
-  - bank account (checking, savings, CD, Safety Deposit Box)
+- bank account (checking, savings, CD, Safety Deposit Box)
 
 ### - USPS (PostNet, UPS)
 
-  - private mail delivery ref:CAEDcase
+- private mail delivery ref:CAEDcase
 
 ### - DMV
 
-  - form{??}ref:CAEDcase
+- form{??}ref:CAEDcase
 
 - ### IRS
 
@@ -195,8 +195,7 @@ Nicholas D'Artagnan Dumas announced candidacy to the [El Dorado County HOTeam](h
   - minimal argument representation
     - fails to submit to record 'separation of powers'
       - intention of E.C. vs. "points system"
-  - Recusal from case
-<!-->    - 5th Amendment use can (replace: incite/infer 'guilt') be used against an individual.-->
+  - Recusal from case<!--5th Amendment use can (replace: incite/infer 'guilt') be used against an individual.-->
 
 ### Address Required
 

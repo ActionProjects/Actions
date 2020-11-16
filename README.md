@@ -31,7 +31,7 @@ do the things
 
 ### Here's a map of pages linked as of November 12th, 2020
 
-[![linkLogFiles](LinkMap.PNG "Check the LinkLog")](/linksLogs)
+[![linkLogFiles](linksLogs/LinkMap_3.PNG "Check the LinkLog")](/linksLogs)
 
 - ### Law is Code; right
 
@@ -39,7 +39,7 @@ do the things
 
 - #### SCOTUS
 
-    - ##### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
+  - ##### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
 
     - #### NOLA
       - ##### vids

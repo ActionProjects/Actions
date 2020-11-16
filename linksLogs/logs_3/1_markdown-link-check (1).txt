@@ -1,0 +1,1430 @@
+2020-11-16T16:02:16.9754567Z ##[section]Starting: Request a runner to run this job
+2020-11-16T16:02:32.0379578Z Can't find any online and idle self-hosted runner in current repository that matches the required labels: 'ubuntu-latest'
+2020-11-16T16:02:32.0379687Z Can't find any online and idle self-hosted runner in current repository's account/organization that matches the required labels: 'ubuntu-latest'
+2020-11-16T16:02:32.0380046Z Found online and idle hosted runner in current repository's account/organization that matches the required labels: 'ubuntu-latest'
+2020-11-16T16:02:32.2019476Z ##[section]Finishing: Request a runner to run this job
+2020-11-16T16:02:39.8436767Z Current runner version: '2.274.1'
+2020-11-16T16:02:39.8473683Z ##[group]Operating System
+2020-11-16T16:02:39.8474500Z Ubuntu
+2020-11-16T16:02:39.8474832Z 18.04.5
+2020-11-16T16:02:39.8475142Z LTS
+2020-11-16T16:02:39.8475532Z ##[endgroup]
+2020-11-16T16:02:39.8475954Z ##[group]Virtual Environment
+2020-11-16T16:02:39.8476473Z Environment: ubuntu-18.04
+2020-11-16T16:02:39.8476894Z Version: 20201108.1
+2020-11-16T16:02:39.8477694Z Included Software: https://github.com/actions/virtual-environments/blob/ubuntu18/20201108.1/images/linux/Ubuntu1804-README.md
+2020-11-16T16:02:39.8478546Z ##[endgroup]
+2020-11-16T16:02:39.8482878Z Prepare workflow directory
+2020-11-16T16:02:39.9237239Z Prepare all required actions
+2020-11-16T16:02:39.9250668Z Getting action download info
+2020-11-16T16:02:40.3258756Z Download action repository 'actions/checkout@master'
+2020-11-16T16:02:42.2823093Z Download action repository 'gaurav-nelson/github-action-markdown-link-check@v1'
+2020-11-16T16:02:42.8291680Z ##[group]Build container for action use: '/home/runner/work/_actions/gaurav-nelson/github-action-markdown-link-check/v1/Dockerfile'.
+2020-11-16T16:02:42.8374495Z ##[command]/usr/bin/docker build -t 54bb10:19910d5f3929454daa9bb90b8e8a3268 -f "/home/runner/work/_actions/gaurav-nelson/github-action-markdown-link-check/v1/Dockerfile" "/home/runner/work/_actions/gaurav-nelson/github-action-markdown-link-check/v1"
+2020-11-16T16:02:43.6381424Z Sending build context to Docker daemon  48.13kB
+2020-11-16T16:02:43.6383062Z 
+2020-11-16T16:02:43.6838639Z Step 1/5 : FROM node:alpine
+2020-11-16T16:02:44.7806927Z alpine: Pulling from library/node
+2020-11-16T16:02:44.7808775Z cbdbe7a5bc2a: Already exists
+2020-11-16T16:02:44.7809483Z 574ae380241a: Pulling fs layer
+2020-11-16T16:02:44.7810148Z cefbd5169b2c: Pulling fs layer
+2020-11-16T16:02:44.7810906Z 8ffaa1035f19: Pulling fs layer
+2020-11-16T16:02:45.0616173Z 8ffaa1035f19: Download complete
+2020-11-16T16:02:45.2651933Z 574ae380241a: Verifying Checksum
+2020-11-16T16:02:45.2653991Z 574ae380241a: Download complete
+2020-11-16T16:02:45.3116515Z cefbd5169b2c: Verifying Checksum
+2020-11-16T16:02:45.3117175Z cefbd5169b2c: Download complete
+2020-11-16T16:02:46.6150439Z 574ae380241a: Pull complete
+2020-11-16T16:02:46.9763918Z cefbd5169b2c: Pull complete
+2020-11-16T16:02:47.0301769Z 8ffaa1035f19: Pull complete
+2020-11-16T16:02:47.0335606Z Digest: sha256:5532cdcee39bcfeea4aceea7d7549bb87aace17bf53f6ece644b01e4556b46bf
+2020-11-16T16:02:47.0344745Z Status: Downloaded newer image for node:alpine
+2020-11-16T16:02:47.0346928Z  ---> 66f36cfbf155
+2020-11-16T16:02:47.0409243Z Step 2/5 : RUN apk add --no-cache bash>5.0.16-r0 git>2.26.0-r0
+2020-11-16T16:02:49.2717193Z  ---> Running in 055072776d05
+2020-11-16T16:02:51.6299328Z Removing intermediate container 055072776d05
+2020-11-16T16:02:51.6299861Z  ---> 820568c3b3cd
+2020-11-16T16:02:51.6300359Z Step 3/5 : COPY entrypoint.sh /entrypoint.sh
+2020-11-16T16:02:52.0142232Z  ---> afea88f38f47
+2020-11-16T16:02:52.0142776Z Step 4/5 : RUN chmod +x /entrypoint.sh
+2020-11-16T16:02:52.0292416Z  ---> Running in 7fb21811a4e6
+2020-11-16T16:02:53.0146890Z Removing intermediate container 7fb21811a4e6
+2020-11-16T16:02:53.0161089Z  ---> 059a52c417ef
+2020-11-16T16:02:53.0181183Z Step 5/5 : ENTRYPOINT ["/entrypoint.sh"]
+2020-11-16T16:02:53.0411157Z  ---> Running in 07436c1989ba
+2020-11-16T16:02:54.0173179Z Removing intermediate container 07436c1989ba
+2020-11-16T16:02:54.0177361Z  ---> bdc01684e720
+2020-11-16T16:02:54.0187632Z Successfully built bdc01684e720
+2020-11-16T16:02:54.0231863Z Successfully tagged 54bb10:19910d5f3929454daa9bb90b8e8a3268
+2020-11-16T16:02:54.0363270Z ##[endgroup]
+2020-11-16T16:02:54.0647468Z ##[group]Run actions/checkout@master
+2020-11-16T16:02:54.0647992Z with:
+2020-11-16T16:02:54.0648527Z   repository: ActionProjects/Actions
+2020-11-16T16:02:54.0649456Z   token: ***
+2020-11-16T16:02:54.0649766Z   ssh-strict: true
+2020-11-16T16:02:54.0650175Z   persist-credentials: true
+2020-11-16T16:02:54.0650570Z   clean: true
+2020-11-16T16:02:54.0650878Z   fetch-depth: 1
+2020-11-16T16:02:54.0651181Z   lfs: false
+2020-11-16T16:02:54.0651678Z   submodules: false
+2020-11-16T16:02:54.0651996Z ##[endgroup]
+2020-11-16T16:02:54.4973799Z Syncing repository: ActionProjects/Actions
+2020-11-16T16:02:54.4974691Z ##[group]Getting Git version info
+2020-11-16T16:02:54.4975839Z Working directory is '/home/runner/work/Actions/Actions'
+2020-11-16T16:02:54.4976385Z [command]/usr/bin/git version
+2020-11-16T16:02:54.5269837Z git version 2.29.2
+2020-11-16T16:02:54.5272391Z ##[endgroup]
+2020-11-16T16:02:54.5282228Z Deleting the contents of '/home/runner/work/Actions/Actions'
+2020-11-16T16:02:54.5284679Z ##[group]Initializing the repository
+2020-11-16T16:02:54.5288825Z [command]/usr/bin/git init /home/runner/work/Actions/Actions
+2020-11-16T16:02:54.5366711Z Initialized empty Git repository in /home/runner/work/Actions/Actions/.git/
+2020-11-16T16:02:54.5376514Z [command]/usr/bin/git remote add origin https://github.com/ActionProjects/Actions
+2020-11-16T16:02:54.5424788Z ##[endgroup]
+2020-11-16T16:02:54.5425774Z ##[group]Disabling automatic garbage collection
+2020-11-16T16:02:54.5430631Z [command]/usr/bin/git config --local gc.auto 0
+2020-11-16T16:02:54.5475689Z ##[endgroup]
+2020-11-16T16:02:54.5482582Z ##[group]Setting up auth
+2020-11-16T16:02:54.5490865Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2020-11-16T16:02:54.5531193Z [command]/usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :
+2020-11-16T16:02:54.6120381Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2020-11-16T16:02:54.6180700Z [command]/usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :
+2020-11-16T16:02:54.6506712Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2020-11-16T16:02:54.6565468Z ##[endgroup]
+2020-11-16T16:02:54.6566370Z ##[group]Fetching the repository
+2020-11-16T16:02:54.6578520Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --progress --no-recurse-submodules --depth=1 origin +a766f64b4e44e6f0a99b0c6115cf3d591b3775ec:refs/remotes/origin/main
+2020-11-16T16:02:55.0827013Z remote: Enumerating objects: 657, done.        
+2020-11-16T16:02:55.0827545Z remote: Counting objects:   0% (1/657)        
+2020-11-16T16:02:55.0827970Z remote: Counting objects:   1% (7/657)        
+2020-11-16T16:02:55.0829327Z remote: Counting objects:   2% (14/657)        
+2020-11-16T16:02:55.0830709Z remote: Counting objects:   3% (20/657)        
+2020-11-16T16:02:55.0831547Z remote: Counting objects:   4% (27/657)        
+2020-11-16T16:02:55.0832218Z remote: Counting objects:   5% (33/657)        
+2020-11-16T16:02:55.0832644Z remote: Counting objects:   6% (40/657)        
+2020-11-16T16:02:55.0833061Z remote: Counting objects:   7% (46/657)        
+2020-11-16T16:02:55.0833821Z remote: Counting objects:   8% (53/657)        
+2020-11-16T16:02:55.0834535Z remote: Counting objects:   9% (60/657)        
+2020-11-16T16:02:55.0834953Z remote: Counting objects:  10% (66/657)        
+2020-11-16T16:02:55.0835726Z remote: Counting objects:  11% (73/657)        
+2020-11-16T16:02:55.0836629Z remote: Counting objects:  12% (79/657)        
+2020-11-16T16:02:55.0837061Z remote: Counting objects:  13% (86/657)        
+2020-11-16T16:02:55.0837483Z remote: Counting objects:  14% (92/657)        
+2020-11-16T16:02:55.0838329Z remote: Counting objects:  15% (99/657)        
+2020-11-16T16:02:55.0838917Z remote: Counting objects:  16% (106/657)        
+2020-11-16T16:02:55.0839341Z remote: Counting objects:  17% (112/657)        
+2020-11-16T16:02:55.0839758Z remote: Counting objects:  18% (119/657)        
+2020-11-16T16:02:55.0840172Z remote: Counting objects:  19% (125/657)        
+2020-11-16T16:02:55.0840681Z remote: Counting objects:  20% (132/657)        
+2020-11-16T16:02:55.0841082Z remote: Counting objects:  21% (138/657)        
+2020-11-16T16:02:55.0841608Z remote: Counting objects:  22% (145/657)        
+2020-11-16T16:02:55.0842418Z remote: Counting objects:  23% (152/657)        
+2020-11-16T16:02:55.0842990Z remote: Counting objects:  24% (158/657)        
+2020-11-16T16:02:55.0843404Z remote: Counting objects:  25% (165/657)        
+2020-11-16T16:02:55.0843815Z remote: Counting objects:  26% (171/657)        
+2020-11-16T16:02:55.0844319Z remote: Counting objects:  27% (178/657)        
+2020-11-16T16:02:55.0844745Z remote: Counting objects:  28% (184/657)        
+2020-11-16T16:02:55.0845282Z remote: Counting objects:  29% (191/657)        
+2020-11-16T16:02:55.0845705Z remote: Counting objects:  30% (198/657)        
+2020-11-16T16:02:55.0846121Z remote: Counting objects:  31% (204/657)        
+2020-11-16T16:02:55.0846663Z remote: Counting objects:  32% (211/657)        
+2020-11-16T16:02:55.0847210Z remote: Counting objects:  33% (217/657)        
+2020-11-16T16:02:55.0847631Z remote: Counting objects:  34% (224/657)        
+2020-11-16T16:02:55.0848285Z remote: Counting objects:  35% (230/657)        
+2020-11-16T16:02:55.0849034Z remote: Counting objects:  36% (237/657)        
+2020-11-16T16:02:55.0849456Z remote: Counting objects:  37% (244/657)        
+2020-11-16T16:02:55.0849869Z remote: Counting objects:  38% (250/657)        
+2020-11-16T16:02:55.0850274Z remote: Counting objects:  39% (257/657)        
+2020-11-16T16:02:55.0850694Z remote: Counting objects:  40% (263/657)        
+2020-11-16T16:02:55.0851114Z remote: Counting objects:  41% (270/657)        
+2020-11-16T16:02:55.0851534Z remote: Counting objects:  42% (276/657)        
+2020-11-16T16:02:55.0851949Z remote: Counting objects:  43% (283/657)        
+2020-11-16T16:02:55.0852367Z remote: Counting objects:  44% (290/657)        
+2020-11-16T16:02:55.0852780Z remote: Counting objects:  45% (296/657)        
+2020-11-16T16:02:55.0853192Z remote: Counting objects:  46% (303/657)        
+2020-11-16T16:02:55.0853591Z remote: Counting objects:  47% (309/657)        
+2020-11-16T16:02:55.0854015Z remote: Counting objects:  48% (316/657)        
+2020-11-16T16:02:55.0854433Z remote: Counting objects:  49% (322/657)        
+2020-11-16T16:02:55.0855941Z remote: Counting objects:  50% (329/657)        
+2020-11-16T16:02:55.0856465Z remote: Counting objects:  51% (336/657)        
+2020-11-16T16:02:55.0856883Z remote: Counting objects:  52% (342/657)        
+2020-11-16T16:02:55.0857387Z remote: Counting objects:  53% (349/657)        
+2020-11-16T16:02:55.0857939Z remote: Counting objects:  54% (355/657)        
+2020-11-16T16:02:55.0858364Z remote: Counting objects:  55% (362/657)        
+2020-11-16T16:02:55.0858767Z remote: Counting objects:  56% (368/657)        
+2020-11-16T16:02:55.0859189Z remote: Counting objects:  57% (375/657)        
+2020-11-16T16:02:55.0859707Z remote: Counting objects:  58% (382/657)        
+2020-11-16T16:02:55.0860266Z remote: Counting objects:  59% (388/657)        
+2020-11-16T16:02:55.0860680Z remote: Counting objects:  60% (395/657)        
+2020-11-16T16:02:55.0861101Z remote: Counting objects:  61% (401/657)        
+2020-11-16T16:02:55.0861611Z remote: Counting objects:  62% (408/657)        
+2020-11-16T16:02:55.0862167Z remote: Counting objects:  63% (414/657)        
+2020-11-16T16:02:55.0862569Z remote: Counting objects:  64% (421/657)        
+2020-11-16T16:02:55.0863006Z remote: Counting objects:  65% (428/657)        
+2020-11-16T16:02:55.0863703Z remote: Counting objects:  66% (434/657)        
+2020-11-16T16:02:55.0864124Z remote: Counting objects:  67% (441/657)        
+2020-11-16T16:02:55.0864691Z remote: Counting objects:  68% (447/657)        
+2020-11-16T16:02:55.0865118Z remote: Counting objects:  69% (454/657)        
+2020-11-16T16:02:55.0865528Z remote: Counting objects:  70% (460/657)        
+2020-11-16T16:02:55.0865943Z remote: Counting objects:  71% (467/657)        
+2020-11-16T16:02:55.0866788Z remote: Counting objects:  72% (474/657)        
+2020-11-16T16:02:55.0867208Z remote: Counting objects:  73% (480/657)        
+2020-11-16T16:02:55.0867689Z remote: Counting objects:  74% (487/657)        
+2020-11-16T16:02:55.0868558Z remote: Counting objects:  75% (493/657)        
+2020-11-16T16:02:55.0869452Z remote: Counting objects:  76% (500/657)        
+2020-11-16T16:02:55.0869911Z remote: Counting objects:  77% (506/657)        
+2020-11-16T16:02:55.0870332Z remote: Counting objects:  78% (513/657)        
+2020-11-16T16:02:55.0870747Z remote: Counting objects:  79% (520/657)        
+2020-11-16T16:02:55.0872036Z remote: Counting objects:  80% (526/657)        
+2020-11-16T16:02:55.0872486Z remote: Counting objects:  81% (533/657)        
+2020-11-16T16:02:55.0872911Z remote: Counting objects:  82% (539/657)        
+2020-11-16T16:02:55.0873655Z remote: Counting objects:  83% (546/657)        
+2020-11-16T16:02:55.0874084Z remote: Counting objects:  84% (552/657)        
+2020-11-16T16:02:55.0874504Z remote: Counting objects:  85% (559/657)        
+2020-11-16T16:02:55.0874926Z remote: Counting objects:  86% (566/657)        
+2020-11-16T16:02:55.0875363Z remote: Counting objects:  87% (572/657)        
+2020-11-16T16:02:55.0876424Z remote: Counting objects:  88% (579/657)        
+2020-11-16T16:02:55.0876850Z remote: Counting objects:  89% (585/657)        
+2020-11-16T16:02:55.0877550Z remote: Counting objects:  90% (592/657)        
+2020-11-16T16:02:55.0877961Z remote: Counting objects:  91% (598/657)        
+2020-11-16T16:02:55.0878383Z remote: Counting objects:  92% (605/657)        
+2020-11-16T16:02:55.0878804Z remote: Counting objects:  93% (612/657)        
+2020-11-16T16:02:55.0879227Z remote: Counting objects:  94% (618/657)        
+2020-11-16T16:02:55.0880863Z remote: Counting objects:  95% (625/657)        
+2020-11-16T16:02:55.0881412Z remote: Counting objects:  96% (631/657)        
+2020-11-16T16:02:55.0882105Z remote: Counting objects:  97% (638/657)        
+2020-11-16T16:02:55.0882535Z remote: Counting objects:  98% (644/657)        
+2020-11-16T16:02:55.0882963Z remote: Counting objects:  99% (651/657)        
+2020-11-16T16:02:55.0883402Z remote: Counting objects: 100% (657/657)        
+2020-11-16T16:02:55.0883849Z remote: Counting objects: 100% (657/657), done.        
+2020-11-16T16:02:55.0885807Z remote: Compressing objects:   0% (1/599)        
+2020-11-16T16:02:55.0896112Z remote: Compressing objects:   1% (6/599)        
+2020-11-16T16:02:55.0896595Z remote: Compressing objects:   2% (12/599)        
+2020-11-16T16:02:55.0897065Z remote: Compressing objects:   3% (18/599)        
+2020-11-16T16:02:55.0897536Z remote: Compressing objects:   4% (24/599)        
+2020-11-16T16:02:55.0898013Z remote: Compressing objects:   5% (30/599)        
+2020-11-16T16:02:55.0898514Z remote: Compressing objects:   6% (36/599)        
+2020-11-16T16:02:55.0898980Z remote: Compressing objects:   7% (42/599)        
+2020-11-16T16:02:55.0899446Z remote: Compressing objects:   8% (48/599)        
+2020-11-16T16:02:55.0899914Z remote: Compressing objects:   9% (54/599)        
+2020-11-16T16:02:55.0900381Z remote: Compressing objects:  10% (60/599)        
+2020-11-16T16:02:55.0900834Z remote: Compressing objects:  11% (66/599)        
+2020-11-16T16:02:55.0901305Z remote: Compressing objects:  12% (72/599)        
+2020-11-16T16:02:55.0901777Z remote: Compressing objects:  13% (78/599)        
+2020-11-16T16:02:55.0902252Z remote: Compressing objects:  14% (84/599)        
+2020-11-16T16:02:55.0902713Z remote: Compressing objects:  15% (90/599)        
+2020-11-16T16:02:55.0903174Z remote: Compressing objects:  16% (96/599)        
+2020-11-16T16:02:55.0903636Z remote: Compressing objects:  17% (102/599)        
+2020-11-16T16:02:55.0904333Z remote: Compressing objects:  18% (108/599)        
+2020-11-16T16:02:55.0904794Z remote: Compressing objects:  19% (114/599)        
+2020-11-16T16:02:55.0905267Z remote: Compressing objects:  20% (120/599)        
+2020-11-16T16:02:55.0905725Z remote: Compressing objects:  21% (126/599)        
+2020-11-16T16:02:55.0906194Z remote: Compressing objects:  22% (132/599)        
+2020-11-16T16:02:55.0906668Z remote: Compressing objects:  23% (138/599)        
+2020-11-16T16:02:55.0907227Z remote: Compressing objects:  24% (144/599)        
+2020-11-16T16:02:55.0907681Z remote: Compressing objects:  25% (150/599)        
+2020-11-16T16:02:55.0908140Z remote: Compressing objects:  26% (156/599)        
+2020-11-16T16:02:55.0983427Z remote: Compressing objects:  27% (162/599)        
+2020-11-16T16:02:55.0987368Z remote: Compressing objects:  28% (168/599)        
+2020-11-16T16:02:55.0987851Z remote: Compressing objects:  29% (174/599)        
+2020-11-16T16:02:55.0988339Z remote: Compressing objects:  30% (180/599)        
+2020-11-16T16:02:55.0988947Z remote: Compressing objects:  31% (186/599)        
+2020-11-16T16:02:55.0989409Z remote: Compressing objects:  32% (192/599)        
+2020-11-16T16:02:55.0989852Z remote: Compressing objects:  33% (198/599)        
+2020-11-16T16:02:55.0990313Z remote: Compressing objects:  34% (204/599)        
+2020-11-16T16:02:55.0990767Z remote: Compressing objects:  35% (210/599)        
+2020-11-16T16:02:55.0991235Z remote: Compressing objects:  36% (216/599)        
+2020-11-16T16:02:55.0991690Z remote: Compressing objects:  37% (222/599)        
+2020-11-16T16:02:55.0992144Z remote: Compressing objects:  38% (228/599)        
+2020-11-16T16:02:55.0992604Z remote: Compressing objects:  39% (234/599)        
+2020-11-16T16:02:55.0993060Z remote: Compressing objects:  40% (240/599)        
+2020-11-16T16:02:55.0993516Z remote: Compressing objects:  41% (246/599)        
+2020-11-16T16:02:55.0993959Z remote: Compressing objects:  42% (252/599)        
+2020-11-16T16:02:55.0994419Z remote: Compressing objects:  43% (258/599)        
+2020-11-16T16:02:55.0994875Z remote: Compressing objects:  44% (264/599)        
+2020-11-16T16:02:55.0995328Z remote: Compressing objects:  45% (270/599)        
+2020-11-16T16:02:55.0995780Z remote: Compressing objects:  46% (276/599)        
+2020-11-16T16:02:55.0996234Z remote: Compressing objects:  47% (282/599)        
+2020-11-16T16:02:55.0996689Z remote: Compressing objects:  48% (288/599)        
+2020-11-16T16:02:55.0997149Z remote: Compressing objects:  49% (294/599)        
+2020-11-16T16:02:55.0997585Z remote: Compressing objects:  50% (300/599)        
+2020-11-16T16:02:55.0998042Z remote: Compressing objects:  51% (306/599)        
+2020-11-16T16:02:55.0998496Z remote: Compressing objects:  52% (312/599)        
+2020-11-16T16:02:55.0998955Z remote: Compressing objects:  53% (318/599)        
+2020-11-16T16:02:55.0999408Z remote: Compressing objects:  54% (324/599)        
+2020-11-16T16:02:55.0999860Z remote: Compressing objects:  55% (330/599)        
+2020-11-16T16:02:55.1000322Z remote: Compressing objects:  56% (336/599)        
+2020-11-16T16:02:55.1000775Z remote: Compressing objects:  57% (342/599)        
+2020-11-16T16:02:55.1001226Z remote: Compressing objects:  58% (348/599)        
+2020-11-16T16:02:55.1001669Z remote: Compressing objects:  59% (354/599)        
+2020-11-16T16:02:55.1002121Z remote: Compressing objects:  60% (360/599)        
+2020-11-16T16:02:55.1002579Z remote: Compressing objects:  61% (366/599)        
+2020-11-16T16:02:55.1003038Z remote: Compressing objects:  62% (372/599)        
+2020-11-16T16:02:55.1003489Z remote: Compressing objects:  63% (378/599)        
+2020-11-16T16:02:55.1003941Z remote: Compressing objects:  64% (384/599)        
+2020-11-16T16:02:55.1004396Z remote: Compressing objects:  65% (390/599)        
+2020-11-16T16:02:55.1004853Z remote: Compressing objects:  66% (396/599)        
+2020-11-16T16:02:55.1005296Z remote: Compressing objects:  67% (402/599)        
+2020-11-16T16:02:55.1006025Z remote: Compressing objects:  68% (408/599)        
+2020-11-16T16:02:55.1006490Z remote: Compressing objects:  69% (414/599)        
+2020-11-16T16:02:55.1006945Z remote: Compressing objects:  70% (420/599)        
+2020-11-16T16:02:55.1007399Z remote: Compressing objects:  71% (426/599)        
+2020-11-16T16:02:55.1007854Z remote: Compressing objects:  72% (432/599)        
+2020-11-16T16:02:55.1008309Z remote: Compressing objects:  73% (438/599)        
+2020-11-16T16:02:55.1008849Z remote: Compressing objects:  74% (444/599)        
+2020-11-16T16:02:55.1009288Z remote: Compressing objects:  75% (450/599)        
+2020-11-16T16:02:55.1009742Z remote: Compressing objects:  76% (456/599)        
+2020-11-16T16:02:55.1010193Z remote: Compressing objects:  77% (462/599)        
+2020-11-16T16:02:55.1010647Z remote: Compressing objects:  78% (468/599)        
+2020-11-16T16:02:55.1011098Z remote: Compressing objects:  79% (474/599)        
+2020-11-16T16:02:55.1011547Z remote: Compressing objects:  80% (480/599)        
+2020-11-16T16:02:55.1012003Z remote: Compressing objects:  81% (486/599)        
+2020-11-16T16:02:55.1012456Z remote: Compressing objects:  82% (492/599)        
+2020-11-16T16:02:55.1012912Z remote: Compressing objects:  83% (498/599)        
+2020-11-16T16:02:55.1013347Z remote: Compressing objects:  84% (504/599)        
+2020-11-16T16:02:55.1013801Z remote: Compressing objects:  85% (510/599)        
+2020-11-16T16:02:55.1014255Z remote: Compressing objects:  86% (516/599)        
+2020-11-16T16:02:55.1014713Z remote: Compressing objects:  87% (522/599)        
+2020-11-16T16:02:55.1015166Z remote: Compressing objects:  88% (528/599)        
+2020-11-16T16:02:55.1015616Z remote: Compressing objects:  89% (534/599)        
+2020-11-16T16:02:55.1016069Z remote: Compressing objects:  90% (540/599)        
+2020-11-16T16:02:55.1016520Z remote: Compressing objects:  91% (546/599)        
+2020-11-16T16:02:55.1016958Z remote: Compressing objects:  92% (552/599)        
+2020-11-16T16:02:55.1017411Z remote: Compressing objects:  93% (558/599)        
+2020-11-16T16:02:55.1017869Z remote: Compressing objects:  94% (564/599)        
+2020-11-16T16:02:55.1018322Z remote: Compressing objects:  95% (570/599)        
+2020-11-16T16:02:55.1018773Z remote: Compressing objects:  96% (576/599)        
+2020-11-16T16:02:55.1019226Z remote: Compressing objects:  97% (582/599)        
+2020-11-16T16:02:55.1019676Z remote: Compressing objects:  98% (588/599)        
+2020-11-16T16:02:55.1020131Z remote: Compressing objects:  99% (594/599)        
+2020-11-16T16:02:55.1020586Z remote: Compressing objects: 100% (599/599)        
+2020-11-16T16:02:55.1021048Z remote: Compressing objects: 100% (599/599), done.        
+2020-11-16T16:02:55.1198599Z Receiving objects:   0% (1/657)
+2020-11-16T16:02:55.1356347Z Receiving objects:   1% (7/657)
+2020-11-16T16:02:55.4622761Z Receiving objects:   2% (14/657)
+2020-11-16T16:02:56.0425291Z Receiving objects:   3% (20/657)
+2020-11-16T16:02:56.1197799Z Receiving objects:   4% (27/657), 15.95 MiB | 31.89 MiB/s
+2020-11-16T16:02:56.6285352Z Receiving objects:   4% (27/657), 41.45 MiB | 41.45 MiB/s
+2020-11-16T16:02:57.1198033Z Receiving objects:   5% (33/657), 63.59 MiB | 42.39 MiB/s
+2020-11-16T16:02:57.2852318Z Receiving objects:   5% (38/657), 87.62 MiB | 43.81 MiB/s
+2020-11-16T16:02:57.6621378Z Receiving objects:   6% (40/657), 87.62 MiB | 43.81 MiB/s
+2020-11-16T16:02:58.0162581Z Receiving objects:   7% (46/657), 109.32 MiB | 43.72 MiB/s
+2020-11-16T16:02:58.1199494Z Receiving objects:   8% (53/657), 109.32 MiB | 43.72 MiB/s
+2020-11-16T16:02:58.4142180Z Receiving objects:   8% (54/657), 131.62 MiB | 43.87 MiB/s
+2020-11-16T16:02:58.7765741Z Receiving objects:   9% (60/657), 131.62 MiB | 43.87 MiB/s
+2020-11-16T16:02:59.1200460Z Receiving objects:  10% (66/657), 156.50 MiB | 44.71 MiB/s
+2020-11-16T16:02:59.1580061Z Receiving objects:  10% (72/657), 180.27 MiB | 45.07 MiB/s
+2020-11-16T16:02:59.3411716Z Receiving objects:  11% (73/657), 180.27 MiB | 45.07 MiB/s
+2020-11-16T16:02:59.3412274Z Receiving objects:  12% (79/657), 180.27 MiB | 45.07 MiB/s
+2020-11-16T16:02:59.3412914Z Receiving objects:  13% (86/657), 180.27 MiB | 45.07 MiB/s
+2020-11-16T16:02:59.3442261Z Receiving objects:  14% (92/657), 180.27 MiB | 45.07 MiB/s
+2020-11-16T16:02:59.4790122Z Receiving objects:  15% (99/657), 180.27 MiB | 45.07 MiB/s
+2020-11-16T16:02:59.6409630Z Receiving objects:  16% (106/657), 180.27 MiB | 45.07 MiB/s
+2020-11-16T16:03:00.0169189Z Receiving objects:  17% (112/657), 205.96 MiB | 45.78 MiB/s
+2020-11-16T16:03:00.1201246Z Receiving objects:  18% (119/657), 205.96 MiB | 45.78 MiB/s
+2020-11-16T16:03:00.2180589Z Receiving objects:  18% (120/657), 228.39 MiB | 47.22 MiB/s
+2020-11-16T16:03:00.5315900Z Receiving objects:  19% (125/657), 228.39 MiB | 47.22 MiB/s
+2020-11-16T16:03:00.7791792Z Receiving objects:  20% (132/657), 228.39 MiB | 47.22 MiB/s
+2020-11-16T16:03:01.1238365Z Receiving objects:  21% (138/657), 253.60 MiB | 47.15 MiB/s
+2020-11-16T16:03:01.1329399Z Receiving objects:  21% (144/657), 274.57 MiB | 46.86 MiB/s
+2020-11-16T16:03:01.6358031Z Receiving objects:  22% (145/657), 274.57 MiB | 46.86 MiB/s
+2020-11-16T16:03:02.0680498Z Receiving objects:  23% (152/657), 298.24 MiB | 46.78 MiB/s
+2020-11-16T16:03:02.1238705Z Receiving objects:  24% (158/657), 298.24 MiB | 46.78 MiB/s
+2020-11-16T16:03:02.3176326Z Receiving objects:  24% (161/657), 326.62 MiB | 48.28 MiB/s
+2020-11-16T16:03:03.1239988Z Receiving objects:  25% (165/657), 326.62 MiB | 48.28 MiB/s
+2020-11-16T16:03:03.8299144Z Receiving objects:  25% (165/657), 373.61 MiB | 48.23 MiB/s
+2020-11-16T16:03:04.1240538Z Receiving objects:  26% (171/657), 400.24 MiB | 48.88 MiB/s
+2020-11-16T16:03:04.1805483Z Receiving objects:  26% (177/657), 422.55 MiB | 48.12 MiB/s
+2020-11-16T16:03:04.6846451Z Receiving objects:  27% (178/657), 422.55 MiB | 48.12 MiB/s
+2020-11-16T16:03:05.1245072Z Receiving objects:  28% (184/657), 445.62 MiB | 48.26 MiB/s
+2020-11-16T16:03:05.2453880Z Receiving objects:  28% (189/657), 466.50 MiB | 47.30 MiB/s
+2020-11-16T16:03:05.3298483Z Receiving objects:  29% (191/657), 466.50 MiB | 47.30 MiB/s
+2020-11-16T16:03:05.3299739Z Receiving objects:  30% (198/657), 466.50 MiB | 47.30 MiB/s
+2020-11-16T16:03:05.4782719Z Receiving objects:  31% (204/657), 466.50 MiB | 47.30 MiB/s
+2020-11-16T16:03:05.9004611Z Receiving objects:  32% (211/657), 466.50 MiB | 47.30 MiB/s
+2020-11-16T16:03:05.9005629Z Receiving objects:  33% (217/657), 492.72 MiB | 48.50 MiB/s
+2020-11-16T16:03:05.9006284Z Receiving objects:  34% (224/657), 492.72 MiB | 48.50 MiB/s
+2020-11-16T16:03:05.9007162Z Receiving objects:  35% (230/657), 492.72 MiB | 48.50 MiB/s
+2020-11-16T16:03:06.0902827Z Receiving objects:  36% (237/657), 492.72 MiB | 48.50 MiB/s
+2020-11-16T16:03:06.1240281Z Receiving objects:  37% (244/657), 492.72 MiB | 48.50 MiB/s
+2020-11-16T16:03:06.2736729Z Receiving objects:  37% (248/657), 518.94 MiB | 49.06 MiB/s
+2020-11-16T16:03:06.7666066Z Receiving objects:  38% (250/657), 518.94 MiB | 49.06 MiB/s
+2020-11-16T16:03:06.8583380Z Receiving objects:  39% (257/657), 544.24 MiB | 48.37 MiB/s
+2020-11-16T16:03:06.9120047Z Receiving objects:  40% (263/657), 544.24 MiB | 48.37 MiB/s
+2020-11-16T16:03:07.1244574Z Receiving objects:  41% (270/657), 544.24 MiB | 48.37 MiB/s
+2020-11-16T16:03:07.1761727Z Receiving objects:  41% (275/657), 568.21 MiB | 48.55 MiB/s
+2020-11-16T16:03:07.6460044Z Receiving objects:  42% (276/657), 568.21 MiB | 48.55 MiB/s
+2020-11-16T16:03:08.1106124Z Receiving objects:  43% (283/657), 591.64 MiB | 48.46 MiB/s
+2020-11-16T16:03:08.1249540Z Receiving objects:  44% (290/657), 591.64 MiB | 48.46 MiB/s
+2020-11-16T16:03:08.6487301Z Receiving objects:  44% (291/657), 621.95 MiB | 49.27 MiB/s
+2020-11-16T16:03:09.1282117Z Receiving objects:  45% (296/657), 648.81 MiB | 50.28 MiB/s
+2020-11-16T16:03:09.3028124Z Receiving objects:  45% (301/657), 676.85 MiB | 51.35 MiB/s
+2020-11-16T16:03:09.8015107Z Receiving objects:  46% (303/657), 676.85 MiB | 51.35 MiB/s
+2020-11-16T16:03:10.1283934Z Receiving objects:  47% (309/657), 703.55 MiB | 52.64 MiB/s
+2020-11-16T16:03:10.2073663Z Receiving objects:  47% (314/657), 726.36 MiB | 51.89 MiB/s
+2020-11-16T16:03:10.5091799Z Receiving objects:  48% (316/657), 726.36 MiB | 51.89 MiB/s
+2020-11-16T16:03:10.9609908Z Receiving objects:  49% (322/657), 726.36 MiB | 51.89 MiB/s
+2020-11-16T16:03:11.1308217Z Receiving objects:  50% (329/657), 751.34 MiB | 51.59 MiB/s
+2020-11-16T16:03:11.5599181Z Receiving objects:  50% (330/657), 777.12 MiB | 51.69 MiB/s
+2020-11-16T16:03:12.0381623Z Receiving objects:  51% (336/657), 777.12 MiB | 51.69 MiB/s
+2020-11-16T16:03:12.1308273Z Receiving objects:  52% (342/657), 804.56 MiB | 52.46 MiB/s
+2020-11-16T16:03:12.5470172Z Receiving objects:  52% (343/657), 835.65 MiB | 54.17 MiB/s
+2020-11-16T16:03:13.0787023Z Receiving objects:  53% (349/657), 835.65 MiB | 54.17 MiB/s
+2020-11-16T16:03:13.1307776Z Receiving objects:  54% (355/657), 863.23 MiB | 53.57 MiB/s
+2020-11-16T16:03:13.6030124Z Receiving objects:  54% (355/657), 889.44 MiB | 53.43 MiB/s
+2020-11-16T16:03:14.0483010Z Receiving objects:  55% (362/657), 889.44 MiB | 53.43 MiB/s
+2020-11-16T16:03:14.1368989Z Receiving objects:  56% (368/657), 914.55 MiB | 52.74 MiB/s
+2020-11-16T16:03:14.3627399Z Receiving objects:  56% (369/657), 944.02 MiB | 53.36 MiB/s
+2020-11-16T16:03:14.5996515Z Receiving objects:  57% (375/657), 944.02 MiB | 53.36 MiB/s
+2020-11-16T16:03:14.9349466Z Receiving objects:  58% (382/657), 944.02 MiB | 53.36 MiB/s
+2020-11-16T16:03:15.1303960Z Receiving objects:  59% (388/657), 970.62 MiB | 54.20 MiB/s
+2020-11-16T16:03:15.3255475Z Receiving objects:  59% (392/657), 970.62 MiB | 54.20 MiB/s
+2020-11-16T16:03:15.6524670Z Receiving objects:  60% (395/657), 995.76 MiB | 54.26 MiB/s
+2020-11-16T16:03:15.7416463Z Receiving objects:  61% (401/657), 1022.20 MiB | 54.40 MiB/s
+2020-11-16T16:03:16.1373191Z Receiving objects:  62% (408/657), 1022.20 MiB | 54.40 MiB/s
+2020-11-16T16:03:16.3133747Z Receiving objects:  62% (411/657), 1.02 GiB | 53.32 MiB/s   
+2020-11-16T16:03:16.3134762Z Receiving objects:  63% (414/657), 1.02 GiB | 53.32 MiB/s
+2020-11-16T16:03:16.3434183Z Receiving objects:  64% (421/657), 1.02 GiB | 53.32 MiB/s
+2020-11-16T16:03:16.3965507Z Receiving objects:  65% (428/657), 1.02 GiB | 53.32 MiB/s
+2020-11-16T16:03:16.4642750Z Receiving objects:  66% (434/657), 1.02 GiB | 53.32 MiB/s
+2020-11-16T16:03:16.5015016Z Receiving objects:  67% (441/657), 1.02 GiB | 53.32 MiB/s
+2020-11-16T16:03:16.6309056Z Receiving objects:  68% (447/657), 1.02 GiB | 53.32 MiB/s
+2020-11-16T16:03:16.6650621Z Receiving objects:  69% (454/657), 1.02 GiB | 53.32 MiB/s
+2020-11-16T16:03:16.6932283Z Receiving objects:  70% (460/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.6954066Z Receiving objects:  71% (467/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.6980200Z Receiving objects:  72% (474/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.7011768Z Receiving objects:  73% (480/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.7216102Z Receiving objects:  74% (487/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.7217377Z Receiving objects:  75% (493/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.7218029Z Receiving objects:  76% (500/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.7237222Z Receiving objects:  77% (506/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.7470169Z Receiving objects:  78% (513/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.7606241Z Receiving objects:  79% (520/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.7814059Z Receiving objects:  80% (526/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.8051543Z Receiving objects:  81% (533/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:16.8534622Z Receiving objects:  82% (539/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:17.1374401Z Receiving objects:  83% (546/657), 1.04 GiB | 51.17 MiB/s
+2020-11-16T16:03:17.1851623Z Receiving objects:  83% (551/657), 1.06 GiB | 50.11 MiB/s
+2020-11-16T16:03:17.4097875Z Receiving objects:  84% (552/657), 1.06 GiB | 50.11 MiB/s
+2020-11-16T16:03:17.4103661Z Receiving objects:  85% (559/657), 1.06 GiB | 50.11 MiB/s
+2020-11-16T16:03:17.4314623Z Receiving objects:  86% (566/657), 1.06 GiB | 50.11 MiB/s
+2020-11-16T16:03:17.4698044Z Receiving objects:  87% (572/657), 1.06 GiB | 50.11 MiB/s
+2020-11-16T16:03:17.4839834Z Receiving objects:  88% (579/657), 1.06 GiB | 50.11 MiB/s
+2020-11-16T16:03:17.5207190Z Receiving objects:  89% (585/657), 1.06 GiB | 50.11 MiB/s
+2020-11-16T16:03:17.7094544Z Receiving objects:  90% (592/657), 1.06 GiB | 50.11 MiB/s
+2020-11-16T16:03:17.7544464Z Receiving objects:  91% (598/657), 1.08 GiB | 49.13 MiB/s
+2020-11-16T16:03:17.9504960Z Receiving objects:  92% (605/657), 1.08 GiB | 49.13 MiB/s
+2020-11-16T16:03:18.1103287Z Receiving objects:  93% (612/657), 1.08 GiB | 49.13 MiB/s
+2020-11-16T16:03:18.1220106Z Receiving objects:  94% (618/657), 1.08 GiB | 49.13 MiB/s
+2020-11-16T16:03:18.1392416Z Receiving objects:  94% (619/657), 1.08 GiB | 49.13 MiB/s
+2020-11-16T16:03:18.1393429Z Receiving objects:  95% (625/657), 1.10 GiB | 49.24 MiB/s
+2020-11-16T16:03:18.2144496Z Receiving objects:  96% (631/657), 1.10 GiB | 49.24 MiB/s
+2020-11-16T16:03:18.2167996Z Receiving objects:  97% (638/657), 1.10 GiB | 49.24 MiB/s
+2020-11-16T16:03:18.2188642Z Receiving objects:  98% (644/657), 1.10 GiB | 49.24 MiB/s
+2020-11-16T16:03:18.2190711Z Receiving objects:  99% (651/657), 1.10 GiB | 49.24 MiB/s
+2020-11-16T16:03:18.2192662Z remote: Total 657 (delta 24), reused 611 (delta 23), pack-reused 0        
+2020-11-16T16:03:18.2223419Z Receiving objects: 100% (657/657), 1.10 GiB | 49.24 MiB/s
+2020-11-16T16:03:18.2224301Z Receiving objects: 100% (657/657), 1.11 GiB | 49.33 MiB/s, done.
+2020-11-16T16:03:18.2225815Z Resolving deltas:   0% (0/24)
+2020-11-16T16:03:18.2226478Z Resolving deltas:   4% (1/24)
+2020-11-16T16:03:18.2227016Z Resolving deltas:   8% (2/24)
+2020-11-16T16:03:18.2279608Z Resolving deltas:  12% (3/24)
+2020-11-16T16:03:18.2323971Z Resolving deltas:  16% (4/24)
+2020-11-16T16:03:18.2340846Z Resolving deltas:  20% (5/24)
+2020-11-16T16:03:18.2352438Z Resolving deltas:  25% (6/24)
+2020-11-16T16:03:18.2358965Z Resolving deltas:  29% (7/24)
+2020-11-16T16:03:18.2374699Z Resolving deltas:  33% (8/24)
+2020-11-16T16:03:18.2387250Z Resolving deltas:  37% (9/24)
+2020-11-16T16:03:18.2393854Z Resolving deltas:  41% (10/24)
+2020-11-16T16:03:18.2445839Z Resolving deltas:  45% (11/24)
+2020-11-16T16:03:18.2453254Z Resolving deltas:  50% (12/24)
+2020-11-16T16:03:18.2498114Z Resolving deltas:  54% (13/24)
+2020-11-16T16:03:18.2512676Z Resolving deltas:  58% (14/24)
+2020-11-16T16:03:18.2542242Z Resolving deltas:  62% (15/24)
+2020-11-16T16:03:18.2559509Z Resolving deltas:  66% (16/24)
+2020-11-16T16:03:18.2573770Z Resolving deltas:  70% (17/24)
+2020-11-16T16:03:18.2600696Z Resolving deltas:  75% (18/24)
+2020-11-16T16:03:18.2625431Z Resolving deltas:  79% (19/24)
+2020-11-16T16:03:18.2654429Z Resolving deltas:  83% (20/24)
+2020-11-16T16:03:18.2738138Z Resolving deltas:  87% (21/24)
+2020-11-16T16:03:18.2742529Z Resolving deltas:  91% (22/24)
+2020-11-16T16:03:18.2767030Z Resolving deltas:  95% (23/24)
+2020-11-16T16:03:18.2767870Z Resolving deltas: 100% (24/24)
+2020-11-16T16:03:18.2768900Z Resolving deltas: 100% (24/24), done.
+2020-11-16T16:03:24.6610890Z From https://github.com/ActionProjects/Actions
+2020-11-16T16:03:24.6614097Z  * [new ref]         a766f64b4e44e6f0a99b0c6115cf3d591b3775ec -> origin/main
+2020-11-16T16:03:24.6636962Z ##[endgroup]
+2020-11-16T16:03:24.6638001Z ##[group]Determining the checkout info
+2020-11-16T16:03:24.6641297Z ##[endgroup]
+2020-11-16T16:03:24.6641958Z ##[group]Checking out the ref
+2020-11-16T16:03:24.6644878Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+2020-11-16T16:03:25.6793194Z Updating files:  11% (69/621)
+2020-11-16T16:03:25.6804324Z Updating files:  12% (75/621)
+2020-11-16T16:03:25.6804793Z Updating files:  13% (81/621)
+2020-11-16T16:03:25.7072207Z Updating files:  14% (87/621)
+2020-11-16T16:03:25.7622314Z Updating files:  15% (94/621)
+2020-11-16T16:03:25.8292825Z Updating files:  16% (100/621)
+2020-11-16T16:03:25.8690813Z Updating files:  17% (106/621)
+2020-11-16T16:03:25.9336602Z Updating files:  18% (112/621)
+2020-11-16T16:03:26.0241331Z Updating files:  19% (118/621)
+2020-11-16T16:03:26.0996319Z Updating files:  20% (125/621)
+2020-11-16T16:03:26.2152908Z Updating files:  21% (131/621)
+2020-11-16T16:03:26.2814218Z Updating files:  22% (137/621)
+2020-11-16T16:03:26.3266212Z Updating files:  23% (143/621)
+2020-11-16T16:03:26.6848943Z Updating files:  24% (150/621)
+2020-11-16T16:03:26.6849748Z Updating files:  24% (154/621)
+2020-11-16T16:03:26.8328093Z Updating files:  25% (156/621)
+2020-11-16T16:03:26.9817838Z Updating files:  26% (162/621)
+2020-11-16T16:03:27.1041737Z Updating files:  27% (168/621)
+2020-11-16T16:03:27.1042419Z Updating files:  28% (174/621)
+2020-11-16T16:03:27.1730804Z Updating files:  29% (181/621)
+2020-11-16T16:03:27.2275549Z Updating files:  30% (187/621)
+2020-11-16T16:03:27.2276091Z Updating files:  31% (193/621)
+2020-11-16T16:03:27.2596976Z Updating files:  32% (199/621)
+2020-11-16T16:03:27.3593948Z Updating files:  33% (205/621)
+2020-11-16T16:03:27.4386771Z Updating files:  34% (212/621)
+2020-11-16T16:03:27.4387219Z Updating files:  35% (218/621)
+2020-11-16T16:03:27.4858163Z Updating files:  36% (224/621)
+2020-11-16T16:03:27.6246838Z Updating files:  37% (230/621)
+2020-11-16T16:03:27.7156196Z Updating files:  38% (236/621)
+2020-11-16T16:03:27.7170496Z Updating files:  38% (240/621)
+2020-11-16T16:03:27.7947629Z Updating files:  39% (243/621)
+2020-11-16T16:03:27.9014497Z Updating files:  40% (249/621)
+2020-11-16T16:03:28.0206657Z Updating files:  41% (255/621)
+2020-11-16T16:03:28.1438426Z Updating files:  42% (261/621)
+2020-11-16T16:03:28.1970700Z Updating files:  43% (268/621)
+2020-11-16T16:03:28.3180760Z Updating files:  44% (274/621)
+2020-11-16T16:03:28.4006322Z Updating files:  45% (280/621)
+2020-11-16T16:03:28.5123528Z Updating files:  46% (286/621)
+2020-11-16T16:03:28.5906463Z Updating files:  47% (292/621)
+2020-11-16T16:03:28.6785221Z Updating files:  48% (299/621)
+2020-11-16T16:03:28.7481264Z Updating files:  49% (305/621)
+2020-11-16T16:03:28.8445979Z Updating files:  50% (311/621)
+2020-11-16T16:03:28.9562217Z Updating files:  51% (317/621)
+2020-11-16T16:03:29.0701601Z Updating files:  52% (323/621)
+2020-11-16T16:03:29.1491482Z Updating files:  53% (330/621)
+2020-11-16T16:03:29.2216108Z Updating files:  54% (336/621)
+2020-11-16T16:03:29.3120146Z Updating files:  55% (342/621)
+2020-11-16T16:03:29.4050655Z Updating files:  56% (348/621)
+2020-11-16T16:03:29.5000716Z Updating files:  57% (354/621)
+2020-11-16T16:03:29.5932561Z Updating files:  58% (361/621)
+2020-11-16T16:03:29.6872591Z Updating files:  59% (367/621)
+2020-11-16T16:03:29.7070010Z Updating files:  59% (372/621)
+2020-11-16T16:03:29.7368097Z Updating files:  60% (373/621)
+2020-11-16T16:03:29.9026813Z Updating files:  61% (379/621)
+2020-11-16T16:03:29.9086170Z Updating files:  62% (386/621)
+2020-11-16T16:03:29.9282524Z Updating files:  63% (392/621)
+2020-11-16T16:03:29.9536942Z Updating files:  64% (398/621)
+2020-11-16T16:03:30.0084144Z Updating files:  65% (404/621)
+2020-11-16T16:03:30.2089271Z Updating files:  66% (410/621)
+2020-11-16T16:03:30.3559602Z Updating files:  67% (417/621)
+2020-11-16T16:03:30.4428297Z Updating files:  68% (423/621)
+2020-11-16T16:03:30.4526679Z Updating files:  69% (429/621)
+2020-11-16T16:03:30.4665841Z Updating files:  70% (435/621)
+2020-11-16T16:03:30.4676169Z Updating files:  71% (441/621)
+2020-11-16T16:03:30.4688614Z Updating files:  72% (448/621)
+2020-11-16T16:03:30.4716502Z Updating files:  73% (454/621)
+2020-11-16T16:03:30.4761732Z Updating files:  74% (460/621)
+2020-11-16T16:03:30.4762225Z Updating files:  75% (466/621)
+2020-11-16T16:03:30.4824973Z Updating files:  76% (472/621)
+2020-11-16T16:03:30.5079099Z Updating files:  77% (479/621)
+2020-11-16T16:03:30.5329808Z Updating files:  78% (485/621)
+2020-11-16T16:03:30.5819203Z Updating files:  79% (491/621)
+2020-11-16T16:03:30.6220688Z Updating files:  80% (497/621)
+2020-11-16T16:03:30.6842065Z Updating files:  81% (504/621)
+2020-11-16T16:03:30.9361986Z Updating files:  82% (510/621)
+2020-11-16T16:03:31.2164855Z Updating files:  83% (516/621)
+2020-11-16T16:03:31.5122412Z Updating files:  84% (522/621)
+2020-11-16T16:03:31.7046652Z Updating files:  85% (528/621)
+2020-11-16T16:03:31.7914943Z Updating files:  85% (533/621)
+2020-11-16T16:03:31.9681853Z Updating files:  86% (535/621)
+2020-11-16T16:03:31.9837258Z Updating files:  87% (541/621)
+2020-11-16T16:03:32.0400698Z Updating files:  88% (547/621)
+2020-11-16T16:03:32.0582737Z Updating files:  89% (553/621)
+2020-11-16T16:03:32.1522098Z Updating files:  90% (559/621)
+2020-11-16T16:03:32.2058559Z Updating files:  91% (566/621)
+2020-11-16T16:03:32.2716684Z Updating files:  92% (572/621)
+2020-11-16T16:03:32.4279045Z Updating files:  93% (578/621)
+2020-11-16T16:03:32.5597946Z Updating files:  94% (584/621)
+2020-11-16T16:03:32.5784998Z Updating files:  95% (590/621)
+2020-11-16T16:03:32.6314621Z Updating files:  96% (597/621)
+2020-11-16T16:03:32.6324158Z Updating files:  97% (603/621)
+2020-11-16T16:03:32.6335977Z Updating files:  98% (609/621)
+2020-11-16T16:03:32.6351414Z Updating files:  99% (615/621)
+2020-11-16T16:03:32.6354134Z Updating files: 100% (621/621)
+2020-11-16T16:03:32.6354760Z Updating files: 100% (621/621), done.
+2020-11-16T16:03:33.8843753Z Switched to a new branch 'main'
+2020-11-16T16:03:34.5177184Z Branch 'main' set up to track remote branch 'main' from 'origin'.
+2020-11-16T16:03:34.5417238Z ##[endgroup]
+2020-11-16T16:03:34.5681695Z [command]/usr/bin/git log -1 --format='%H'
+2020-11-16T16:03:34.5718326Z 'a766f64b4e44e6f0a99b0c6115cf3d591b3775ec'
+2020-11-16T16:03:34.7714310Z ##[group]Run gaurav-nelson/github-action-markdown-link-check@v1
+2020-11-16T16:03:34.7715444Z with:
+2020-11-16T16:03:34.7715979Z   use-quiet-mode: no
+2020-11-16T16:03:34.7716613Z   use-verbose-mode: no
+2020-11-16T16:03:34.7717313Z   config-file: mlc_config.json
+2020-11-16T16:03:34.7717934Z   folder-path: .
+2020-11-16T16:03:34.7718446Z   max-depth: -1
+2020-11-16T16:03:34.7719197Z   check-modified-files-only: no
+2020-11-16T16:03:34.7720007Z   base-branch: master
+2020-11-16T16:03:34.7720615Z   file-extension: .md
+2020-11-16T16:03:34.7721170Z ##[endgroup]
+2020-11-16T16:03:34.7788764Z ##[command]/usr/bin/docker run --name bb1019910d5f3929454daa9bb90b8e8a3268_61a2f7 --label 54bb10 --workdir /github/workspace --rm -e INPUT_USE-QUIET-MODE -e INPUT_USE-VERBOSE-MODE -e INPUT_CONFIG-FILE -e INPUT_FOLDER-PATH -e INPUT_MAX-DEPTH -e INPUT_CHECK-MODIFIED-FILES-ONLY -e INPUT_BASE-BRANCH -e INPUT_FILE-EXTENSION -e INPUT_FILE-PATH -e HOME -e GITHUB_JOB -e GITHUB_REF -e GITHUB_SHA -e GITHUB_REPOSITORY -e GITHUB_REPOSITORY_OWNER -e GITHUB_RUN_ID -e GITHUB_RUN_NUMBER -e GITHUB_RETENTION_DAYS -e GITHUB_ACTOR -e GITHUB_WORKFLOW -e GITHUB_HEAD_REF -e GITHUB_BASE_REF -e GITHUB_EVENT_NAME -e GITHUB_SERVER_URL -e GITHUB_API_URL -e GITHUB_GRAPHQL_URL -e GITHUB_WORKSPACE -e GITHUB_ACTION -e GITHUB_EVENT_PATH -e GITHUB_ACTION_REPOSITORY -e GITHUB_ACTION_REF -e GITHUB_PATH -e GITHUB_ENV -e RUNNER_OS -e RUNNER_TOOL_CACHE -e RUNNER_TEMP -e RUNNER_WORKSPACE -e ACTIONS_RUNTIME_URL -e ACTIONS_RUNTIME_TOKEN -e ACTIONS_CACHE_URL -e GITHUB_ACTIONS=true -e CI=true -v "/var/run/docker.sock":"/var/run/docker.sock" -v "/home/runner/work/_temp/_github_home":"/github/home" -v "/home/runner/work/_temp/_github_workflow":"/github/workflow" -v "/home/runner/work/_temp/_runner_file_commands":"/github/file_commands" -v "/home/runner/work/Actions/Actions":"/github/workspace" 54bb10:19910d5f3929454daa9bb90b8e8a3268  "no" "no" "mlc_config.json" "." "-1" "no" "master" ".md" ""
+2020-11-16T16:03:53.1902182Z npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+2020-11-16T16:03:53.3816049Z npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+2020-11-16T16:03:53.7480381Z 
+2020-11-16T16:03:53.7481022Z added 65 packages, and audited 65 packages in 4s
+2020-11-16T16:03:53.7486055Z 
+2020-11-16T16:03:53.7486449Z 4 packages are looking for funding
+2020-11-16T16:03:53.7486850Z   run `npm fund` for details
+2020-11-16T16:03:53.7493739Z 
+2020-11-16T16:03:53.7494141Z found 0 vulnerabilities
+2020-11-16T16:03:53.7575192Z [0;34mCannot find [0;33mmlc_config.json[0m
+2020-11-16T16:03:53.7576291Z [0;33mNOTE: See https://github.com/tcort/markdown-link-check#config-file-format to know more about
+2020-11-16T16:03:53.7577879Z customizing markdown-link-check by using a configuration file.[0m
+2020-11-16T16:03:53.7582844Z [0;34mUSE_QUIET_MODE: no[0m
+2020-11-16T16:03:53.7583357Z [0;34mUSE_VERBOSE_MODE: no[0m
+2020-11-16T16:03:53.7583834Z [0;34mFOLDER_PATH: .[0m
+2020-11-16T16:03:53.7584317Z [0;34mMAX_DEPTH: -1[0m
+2020-11-16T16:03:53.7584816Z [0;34mCHECK_MODIFIED_FILES: no[0m
+2020-11-16T16:03:53.7585587Z [0;34mFILE_EXTENSION: .md[0m
+2020-11-16T16:03:53.7586034Z [0;34mFILE_PATH: [0m
+2020-11-16T16:03:53.7597746Z + find . -name '*.md' -not -path './node_modules/*' -exec markdown-link-check '{}' ';'
+2020-11-16T16:05:07.3302171Z + set +x
+2020-11-16T16:05:07.3316268Z [0;33m=========================> MARKDOWN LINK CHECK <=========================[0m
+2020-11-16T16:05:07.3353350Z 
+2020-11-16T16:05:07.3353786Z FILE: ./README.md
+2020-11-16T16:05:07.3354852Z [✓] https://OpenCollective.com/Dartanium
+2020-11-16T16:05:07.3355548Z [✓] actions/README.md
+2020-11-16T16:05:07.3356202Z [✓] actions/README.md#what-have-i-been-up-to
+2020-11-16T16:05:07.3358099Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/README.md#--volunteer-navajo-nation-decontamination-captured-this-moment
+2020-11-16T16:05:07.3359748Z [✓] actions/_assets/electors
+2020-11-16T16:05:07.3361041Z [✓] https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs
+2020-11-16T16:05:07.3361942Z [✖] /linksLogs
+2020-11-16T16:05:07.3362375Z [✓] LinkMap.PNG
+2020-11-16T16:05:07.3362897Z [✓] actions/pages/theSuits/README.md
+2020-11-16T16:05:07.3364395Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision
+2020-11-16T16:05:07.3365836Z [✓] https://bittube.tv/profile/deconDarts
+2020-11-16T16:05:07.3366498Z [✓] actions/README.md#experience
+2020-11-16T16:05:07.3367526Z [✓] https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California
+2020-11-16T16:05:07.3370056Z [✓] https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting
+2020-11-16T16:05:07.3372407Z [✖] https://www.sacbee.com/news/california/article246652603.html
+2020-11-16T16:05:07.3373349Z [✓] https://www.ijpr.org/state-of-jefferson
+2020-11-16T16:05:07.3374107Z [✓] actions/pages/postBlogPicsMyb.md
+2020-11-16T16:05:07.3374685Z [✓] actions/pages/NEEDS.md
+2020-11-16T16:05:07.3375293Z [✓] https://github.com/topics/osint
+2020-11-16T16:05:07.3376011Z [✓] https://github.com/jivoi/awesome-osint
+2020-11-16T16:05:07.3376776Z [✓] https://github.com/smicallef/spiderfoot
+2020-11-16T16:05:07.3377484Z [✓] https://github.com/topics/foia
+2020-11-16T16:05:07.3378254Z [✓] https://github.com/sunlightpolicy/Sunlight_FOIA
+2020-11-16T16:05:07.3379058Z [✓] https://github.com/freelawproject/
+2020-11-16T16:05:07.3381067Z [✓] https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/
+2020-11-16T16:05:07.3383197Z [✓] https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn
+2020-11-16T16:05:07.3383711Z 
+2020-11-16T16:05:07.3383983Z 26 links checked.
+2020-11-16T16:05:07.3384188Z 
+2020-11-16T16:05:07.3384478Z ERROR: 2 dead links found!
+2020-11-16T16:05:07.3384981Z [✖] /linksLogs → Status: 400
+2020-11-16T16:05:07.3385833Z [✖] https://www.sacbee.com/news/california/article246652603.html → Status: 0
+2020-11-16T16:05:07.3386665Z 
+2020-11-16T16:05:07.3387196Z FILE: ./actions/pages/2020/deconD'Arts/README.md
+2020-11-16T16:05:07.3387620Z No hyperlinks found!
+2020-11-16T16:05:07.3387864Z 
+2020-11-16T16:05:07.3388115Z 0 links checked.
+2020-11-16T16:05:07.3388333Z 
+2020-11-16T16:05:07.3388910Z FILE: ./actions/pages/2020/cav.md
+2020-11-16T16:05:07.3389285Z No hyperlinks found!
+2020-11-16T16:05:07.3389511Z 
+2020-11-16T16:05:07.3389775Z 0 links checked.
+2020-11-16T16:05:07.3389974Z 
+2020-11-16T16:05:07.3390269Z FILE: ./actions/pages/2020/mu.md
+2020-11-16T16:05:07.3390642Z No hyperlinks found!
+2020-11-16T16:05:07.3390879Z 
+2020-11-16T16:05:07.3391129Z 0 links checked.
+2020-11-16T16:05:07.3391342Z 
+2020-11-16T16:05:07.3391748Z FILE: ./actions/pages/2020/royalShotsSeeded.md
+2020-11-16T16:05:07.3392704Z [⚠] blob:https://instant.io/abd587c5-aeab-46c3-aa43-747241cb8199
+2020-11-16T16:05:07.3393756Z [⚠] blob:https://instant.io/bc1e38fe-81d0-4b28-96ee-93da52999781
+2020-11-16T16:05:07.3394733Z [⚠] blob:https://instant.io/3681013a-2b31-48bd-bffb-d7334fc0fd87
+2020-11-16T16:05:07.3395916Z [⚠] blob:https://instant.io/d4c8b14c-9f42-4ecc-bee3-7a2ccad6418c
+2020-11-16T16:05:07.3396974Z [✓] https://instant.io/#784b44208a7b99d2a8cc48a21b6cabc7b4dee3bd
+2020-11-16T16:05:07.3399767Z [⚠] magnet:?xt=urn:btih:784b44208a7b99d2a8cc48a21b6cabc7b4dee3bd&dn=VID_20201030_163659250.mp4&tr=wss%3A%2F%2Ftracker.btorrent.xyz&tr=wss%3A%2F%2Ftracker.openwebtorrent.com&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fexplodie.org%3A6969&tr=udp%3A%2F%2Ftracker.empire-js.us%3A1337
+2020-11-16T16:05:07.3402181Z [⚠] blob:https://instant.io/d3525b1b-a55c-485a-adcc-0ad5b575728c
+2020-11-16T16:05:07.3402665Z 
+2020-11-16T16:05:07.3402941Z 7 links checked.
+2020-11-16T16:05:07.3403142Z 
+2020-11-16T16:05:07.3403450Z FILE: ./actions/pages/2020/posp.md
+2020-11-16T16:05:07.3404061Z [✓] https://FEC.gov
+2020-11-16T16:05:07.3404996Z [✓] https://www.reddit.com/r/ScottSantens/comments/f3ehx6/join_the_scott_santens_discord_server/
+2020-11-16T16:05:07.3406015Z [✖] actions\pages\2020\_assets-2020\Screenshot_20201112-130233_Gmail.jpg
+2020-11-16T16:05:07.3406360Z 
+2020-11-16T16:05:07.3406630Z 3 links checked.
+2020-11-16T16:05:07.3406829Z 
+2020-11-16T16:05:07.3407116Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3407824Z [✖] actions\pages\2020\_assets-2020\Screenshot_20201112-130233_Gmail.jpg → Status: 400
+2020-11-16T16:05:07.3408219Z 
+2020-11-16T16:05:07.3408521Z FILE: ./actions/pages/2020/ffpct.md
+2020-11-16T16:05:07.3409025Z [✖] linksomething
+2020-11-16T16:05:07.3409260Z 
+2020-11-16T16:05:07.3409527Z 1 links checked.
+2020-11-16T16:05:07.3409730Z 
+2020-11-16T16:05:07.3410019Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3410546Z [✖] linksomething → Status: 400
+2020-11-16T16:05:07.3410803Z 
+2020-11-16T16:05:07.3411110Z FILE: ./actions/pages/2020/vnnd.md
+2020-11-16T16:05:07.3411772Z [✓] http://burkefornevada.com/
+2020-11-16T16:05:07.3412470Z [✓] ../../_assets/navajoxcerpts/20200701_124740.jpg
+2020-11-16T16:05:07.3413021Z [✓] ../../_assets/GIF/20200701102113.gif
+2020-11-16T16:05:07.3413493Z [✓] ../../_assets/GIF/20200820_210213.gif
+2020-11-16T16:05:07.3413953Z [✓] ../../_assets/GIF/20200916_104036.gif
+2020-11-16T16:05:07.3414496Z [✓] ../../_assets/navajoxcerpts/20200709_182447.jpg
+2020-11-16T16:05:07.3414779Z 
+2020-11-16T16:05:07.3415046Z 6 links checked.
+2020-11-16T16:05:07.3415247Z 
+2020-11-16T16:05:07.3415544Z FILE: ./actions/pages/2020/dfd.md
+2020-11-16T16:05:07.3416268Z [✓] https://southernsolidarity.org/
+2020-11-16T16:05:07.3416705Z 
+2020-11-16T16:05:07.3416968Z 1 links checked.
+2020-11-16T16:05:07.3417184Z 
+2020-11-16T16:05:07.3417473Z FILE: ./actions/pages/2020/fbit.md
+2020-11-16T16:05:07.3418251Z [✓] https://en.wikipedia.org/wiki/Capitol_Hill_Autonomous_Zone
+2020-11-16T16:05:07.3418724Z 
+2020-11-16T16:05:07.3418986Z 1 links checked.
+2020-11-16T16:05:07.3419187Z 
+2020-11-16T16:05:07.3419492Z FILE: ./actions/pages/2018/wd.md
+2020-11-16T16:05:07.3419868Z No hyperlinks found!
+2020-11-16T16:05:07.3420105Z 
+2020-11-16T16:05:07.3420369Z 0 links checked.
+2020-11-16T16:05:07.3420584Z 
+2020-11-16T16:05:07.3420867Z FILE: ./actions/pages/2018/bhl.md
+2020-11-16T16:05:07.3421236Z No hyperlinks found!
+2020-11-16T16:05:07.3421473Z 
+2020-11-16T16:05:07.3421736Z 0 links checked.
+2020-11-16T16:05:07.3421938Z 
+2020-11-16T16:05:07.3422240Z FILE: ./actions/pages/2018/cfen.md
+2020-11-16T16:05:07.3422944Z [✓] https://en.wikipedia.org/wiki/Dyson_sphere
+2020-11-16T16:05:07.3423745Z [✓] https://duckduckgo.com/i/742a122a.png
+2020-11-16T16:05:07.3424092Z 
+2020-11-16T16:05:07.3424359Z 2 links checked.
+2020-11-16T16:05:07.3424560Z 
+2020-11-16T16:05:07.3424861Z FILE: ./actions/pages/2018/cyv.md
+2020-11-16T16:05:07.3425230Z No hyperlinks found!
+2020-11-16T16:05:07.3425468Z 
+2020-11-16T16:05:07.3425717Z 0 links checked.
+2020-11-16T16:05:07.3425930Z 
+2020-11-16T16:05:07.3426234Z FILE: ./actions/pages/2018/tto.md
+2020-11-16T16:05:07.3426604Z No hyperlinks found!
+2020-11-16T16:05:07.3426830Z 
+2020-11-16T16:05:07.3427093Z 0 links checked.
+2020-11-16T16:05:07.3427400Z 
+2020-11-16T16:05:07.3427693Z FILE: ./actions/pages/2018/tc.md
+2020-11-16T16:05:07.3428061Z No hyperlinks found!
+2020-11-16T16:05:07.3428336Z 
+2020-11-16T16:05:07.3428912Z 0 links checked.
+2020-11-16T16:05:07.3429112Z 
+2020-11-16T16:05:07.3429418Z FILE: ./actions/pages/2018/mlgb.md
+2020-11-16T16:05:07.3430161Z [✓] https://www.liveleak.com/view?t=aWjSO_1604496076
+2020-11-16T16:05:07.3430570Z 
+2020-11-16T16:05:07.3430820Z 1 links checked.
+2020-11-16T16:05:07.3431036Z 
+2020-11-16T16:05:07.3431337Z FILE: ./actions/pages/2019/sbp.md
+2020-11-16T16:05:07.3432116Z [✓] https://en.m.wikipedia.org/wiki/Placer_mining#Sluice_box
+2020-11-16T16:05:07.3433070Z [✓] https://en.wikipedia.org/wiki/Sluice#Types_of_sluice_gates
+2020-11-16T16:05:07.3433528Z 
+2020-11-16T16:05:07.3433792Z 2 links checked.
+2020-11-16T16:05:07.3433993Z 
+2020-11-16T16:05:07.3434390Z FILE: ./actions/pages/2019/ers.md
+2020-11-16T16:05:07.3434764Z No hyperlinks found!
+2020-11-16T16:05:07.3434992Z 
+2020-11-16T16:05:07.3435272Z 0 links checked.
+2020-11-16T16:05:07.3435490Z 
+2020-11-16T16:05:07.3435787Z FILE: ./actions/pages/2019/ftt.md
+2020-11-16T16:05:07.3436143Z No hyperlinks found!
+2020-11-16T16:05:07.3436384Z 
+2020-11-16T16:05:07.3436645Z 0 links checked.
+2020-11-16T16:05:07.3436848Z 
+2020-11-16T16:05:07.3437525Z FILE: ./actions/pages/arts-n-campn/copiesMirrorsForks/asset2.md
+2020-11-16T16:05:07.3438330Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152154266.jpg
+2020-11-16T16:05:07.3438983Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152214339.jpg
+2020-11-16T16:05:07.3439630Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152244803.jpg
+2020-11-16T16:05:07.3440271Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152307664.jpg
+2020-11-16T16:05:07.3440552Z 
+2020-11-16T16:05:07.3440820Z 4 links checked.
+2020-11-16T16:05:07.3441022Z 
+2020-11-16T16:05:07.3441308Z ERROR: 4 dead links found!
+2020-11-16T16:05:07.3441951Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152154266.jpg → Status: 400
+2020-11-16T16:05:07.3442688Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152214339.jpg → Status: 400
+2020-11-16T16:05:07.3443408Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152244803.jpg → Status: 400
+2020-11-16T16:05:07.3444132Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201027_152307664.jpg → Status: 400
+2020-11-16T16:05:07.3444451Z 
+2020-11-16T16:05:07.3445117Z FILE: ./actions/pages/arts-n-campn/copiesMirrorsForks/asset1.md
+2020-11-16T16:05:07.3445814Z [✓] assets/IMG_20201027_152154266.jpg
+2020-11-16T16:05:07.3446283Z [✓] assets/IMG_20201027_152214339.jpg
+2020-11-16T16:05:07.3446749Z [✓] assets/IMG_20201027_152244803.jpg
+2020-11-16T16:05:07.3447212Z [✓] assets/IMG_20201027_152307664.jpg
+2020-11-16T16:05:07.3448501Z [✓] https://docs.google.com/spreadsheets/d/1fV5d5xh4jVgf64LqQeruthXGeCErheku01y3v7Fnac4/edit?usp=drivesdk
+2020-11-16T16:05:07.3449451Z 
+2020-11-16T16:05:07.3449718Z 5 links checked.
+2020-11-16T16:05:07.3449931Z 
+2020-11-16T16:05:07.3450490Z FILE: ./actions/pages/arts-n-campn/portuda/FrMkt.md
+2020-11-16T16:05:07.3450966Z No hyperlinks found!
+2020-11-16T16:05:07.3451209Z 
+2020-11-16T16:05:07.3451459Z 0 links checked.
+2020-11-16T16:05:07.3451672Z 
+2020-11-16T16:05:07.3452218Z FILE: ./actions/pages/arts-n-campn/legendAr'Act.md
+2020-11-16T16:05:07.3452922Z [✖] copiesMirrorsForks/Concept.md
+2020-11-16T16:05:07.3453544Z [✖] portuda/Concept.md
+2020-11-16T16:05:07.3454158Z [✖] royalPhilCampSafety/Concept.md
+2020-11-16T16:05:07.3454516Z 
+2020-11-16T16:05:07.3454782Z 3 links checked.
+2020-11-16T16:05:07.3454986Z 
+2020-11-16T16:05:07.3455274Z ERROR: 3 dead links found!
+2020-11-16T16:05:07.3455925Z [✖] copiesMirrorsForks/Concept.md → Status: 400
+2020-11-16T16:05:07.3456590Z [✖] portuda/Concept.md → Status: 400
+2020-11-16T16:05:07.3457266Z [✖] royalPhilCampSafety/Concept.md → Status: 400
+2020-11-16T16:05:07.3457655Z 
+2020-11-16T16:05:07.3458008Z FILE: ./actions/pages/theSuits/Legend.md
+2020-11-16T16:05:07.3458533Z [✓] #custom-id
+2020-11-16T16:05:07.3459119Z [✓] Complaints/LA/NewOrleans/Legend-NOLA.md
+2020-11-16T16:05:07.3459761Z [✓] 
+2020-11-16T16:05:07.3460648Z [✖] [New_Orleans,_Louisiana](/storage/emulated/0/Documents/markor/theSuits/Complaints/LA/NewOrleans/Legend-NOLA.md)
+2020-11-16T16:05:07.3461256Z 
+2020-11-16T16:05:07.3461525Z 4 links checked.
+2020-11-16T16:05:07.3461729Z 
+2020-11-16T16:05:07.3462015Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3463150Z [✖] [New_Orleans,_Louisiana](/storage/emulated/0/Documents/markor/theSuits/Complaints/LA/NewOrleans/Legend-NOLA.md) → Status: 400
+2020-11-16T16:05:07.3463777Z 
+2020-11-16T16:05:07.3464273Z FILE: ./actions/pages/theSuits/Complaints/_FedSup/_assets/inclMGsIPFS.md
+2020-11-16T16:05:07.3464833Z No hyperlinks found!
+2020-11-16T16:05:07.3465076Z 
+2020-11-16T16:05:07.3465327Z 0 links checked.
+2020-11-16T16:05:07.3465545Z 
+2020-11-16T16:05:07.3466055Z FILE: ./actions/pages/theSuits/Complaints/_FedSup/_resources/inclPDFsIPFS.md
+2020-11-16T16:05:07.3466741Z No hyperlinks found!
+2020-11-16T16:05:07.3466973Z 
+2020-11-16T16:05:07.3467237Z 0 links checked.
+2020-11-16T16:05:07.3467448Z 
+2020-11-16T16:05:07.3468092Z FILE: ./actions/pages/theSuits/Complaints/States-RON/README.md
+2020-11-16T16:05:07.3469359Z No hyperlinks found!
+2020-11-16T16:05:07.3469605Z 
+2020-11-16T16:05:07.3469855Z 0 links checked.
+2020-11-16T16:05:07.3470073Z 
+2020-11-16T16:05:07.3471331Z FILE: ./actions/pages/theSuits/Complaints/Presidential_Campaign/Challenge-2-SCOTUS-electoralCollege-Decision.md
+2020-11-16T16:05:07.3473501Z [✓] https://via.hypothes.is/https://www.supremecourt.gov/DocketPDF/19/19-518/142792/20200501134637387_19-518ReplyBriefForPresidentialElectors.pdf
+2020-11-16T16:05:07.3474544Z 
+2020-11-16T16:05:07.3474813Z 1 links checked.
+2020-11-16T16:05:07.3475029Z 
+2020-11-16T16:05:07.3475517Z FILE: ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md
+2020-11-16T16:05:07.3477875Z [✖] [https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state](https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state)
+2020-11-16T16:05:07.3480833Z [✓] https://web.archive.org/web/20201106021846/https://www.usnews.com/news/elections/articles/2020-11-05/trump-campaign-files-lawsuits-in-swing-states
+2020-11-16T16:05:07.3482661Z [✓] https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/DOCKET-ALERT.pdf
+2020-11-16T16:05:07.3484082Z [✓] https://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx
+2020-11-16T16:05:07.3486214Z [✓] https://www.ncsl.org/research/elections-and-campaigns/after-the-voting-ends-the-steps-to-complete-an-election.aspx
+2020-11-16T16:05:07.3488230Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG
+2020-11-16T16:05:07.3489376Z [✓] https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-16T16:05:07.3490625Z [✓] https://web.archive.org/web/20201105211435/https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-16T16:05:07.3492055Z [✓] https://www.supremecourt.gov/DocketPDF/20/20A71/158465/20201022093436364_WISE%20SCOTUS%20Emergency%20Injunction.pdf
+2020-11-16T16:05:07.3493593Z [✓] https://www.supremecourt.gov/DocketPDF/20/20A72/158478/20201022114507746_SCOTUS%20Emergency%20Motion%20for%20Injunction%20Pending%20Appeal%20vf%20wDHT%20sig.pdf
+2020-11-16T16:05:07.3495355Z [✖] actions\pages\theSuits\Complaints\Presidential_Campaign_resources\trump\1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf
+2020-11-16T16:05:07.3497348Z [✓] https://cdn.donaldjtrump.com/public-files/press_assets/1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf
+2020-11-16T16:05:07.3498974Z [✓] https://www.google.com/search?&q=site%3Ahttps%3A%2F%2Fcdn.donaldjtrump.com%2F+*.pdf
+2020-11-16T16:05:07.3499527Z 
+2020-11-16T16:05:07.3499801Z 13 links checked.
+2020-11-16T16:05:07.3500020Z 
+2020-11-16T16:05:07.3500292Z ERROR: 3 dead links found!
+2020-11-16T16:05:07.3502486Z [✖] [https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state](https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state) → Status: 400
+2020-11-16T16:05:07.3505120Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG → Status: 400
+2020-11-16T16:05:07.3506881Z [✖] actions\pages\theSuits\Complaints\Presidential_Campaign_resources\trump\1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf → Status: 400
+2020-11-16T16:05:07.3507845Z 
+2020-11-16T16:05:07.3508345Z FILE: ./actions/pages/theSuits/Complaints/Presidential_Campaign/README.md
+2020-11-16T16:05:07.3509506Z [✖] actions/pages/theSuits/Complaints/Presidential_Campaign/_assets/Screenshot_20201105-110412_Brave.jpg
+2020-11-16T16:05:07.3510612Z [✖] actions/pages/theSuits/Complaints/Presidential_Campaign/_assets/Screenshot_20201105-110451_Gmail.jpg
+2020-11-16T16:05:07.3518297Z [✖] ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md
+2020-11-16T16:05:07.3520404Z [✖] ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania
+2020-11-16T16:05:07.3521064Z 
+2020-11-16T16:05:07.3521366Z 4 links checked.
+2020-11-16T16:05:07.3521589Z 
+2020-11-16T16:05:07.3522014Z ERROR: 4 dead links found!
+2020-11-16T16:05:07.3523120Z [✖] actions/pages/theSuits/Complaints/Presidential_Campaign/_assets/Screenshot_20201105-110412_Brave.jpg → Status: 400
+2020-11-16T16:05:07.3524779Z [✖] actions/pages/theSuits/Complaints/Presidential_Campaign/_assets/Screenshot_20201105-110451_Gmail.jpg → Status: 400
+2020-11-16T16:05:07.3526146Z [✖] ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md → Status: 400
+2020-11-16T16:05:07.3527511Z [✖] ./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania → Status: 400
+2020-11-16T16:05:07.3528028Z 
+2020-11-16T16:05:07.3528649Z FILE: ./actions/pages/theSuits/Complaints/masterComplaint.md
+2020-11-16T16:05:07.3529834Z [✓] https://github.com/ActionProjects/Actions
+2020-11-16T16:05:07.3530850Z [✓] #issues-under
+2020-11-16T16:05:07.3531725Z [✓] #intended-to-be-amended--addended
+2020-11-16T16:05:07.3532522Z [✓] #rico-act
+2020-11-16T16:05:07.3533150Z [✓] #false-claims-act
+2020-11-16T16:05:07.3533875Z [✓] #1st-amendment
+2020-11-16T16:05:07.3534475Z [✓] #4th-amendment
+2020-11-16T16:05:07.3535009Z [✓] #5th--15th-amendments
+2020-11-16T16:05:07.3535492Z [✓] #6th-amendment
+2020-11-16T16:05:07.3535951Z [✓] #8th-amendment
+2020-11-16T16:05:07.3536383Z [✓] #9th-amendment
+2020-11-16T16:05:07.3536905Z [✓] #12th-amendment-vs-17th
+2020-11-16T16:05:07.3537460Z [✓] #13th--16th-amendments
+2020-11-16T16:05:07.3537981Z [✓] #15th--26th-amendments
+2020-11-16T16:05:07.3538490Z [✓] #access-to-courts
+2020-11-16T16:05:07.3539494Z [✓] #access-to-law-legel-opinions-ruling-filings-etc
+2020-11-16T16:05:07.3540414Z [✓] #injunction
+2020-11-16T16:05:07.3541498Z [✓] #residence---animus-manendi-the-intention-of-remaining
+2020-11-16T16:05:07.3542726Z [✓] #--federal-elections-commission
+2020-11-16T16:05:07.3544220Z [✓] #--fincen-banner-bank-mechanics-bank-wells-fargo-bank-of-america
+2020-11-16T16:05:07.3545569Z [✓] #--usps-postnet-ups
+2020-11-16T16:05:07.3546003Z [✓] #--dmv
+2020-11-16T16:05:07.3546360Z [✓] #2018
+2020-11-16T16:05:07.3546723Z [✓] #2019
+2020-11-16T16:05:07.3547054Z [✓] #2020
+2020-11-16T16:05:07.3547446Z [✓] #presidency
+2020-11-16T16:05:07.3547834Z [✓] #ron
+2020-11-16T16:05:07.3548211Z [✓] #entities
+2020-11-16T16:05:07.3548872Z [✓] #laed
+2020-11-16T16:05:07.3549249Z [✓] #clerks
+2020-11-16T16:05:07.3549632Z [✓] #judge
+2020-11-16T16:05:07.3549995Z [✓] #scotus
+2020-11-16T16:05:07.3550450Z [✓] #address-required
+2020-11-16T16:05:07.3551270Z [✖] actions/pages/theSuits/Complaints/Presidential_Campaign/_assets/savedCampMats
+2020-11-16T16:05:07.3552560Z [✓] https://www.law.cornell.edu/constitution-conan/article-4/section-2/clause-1/access-to-courts
+2020-11-16T16:05:07.3553743Z [✓] https://en.wikipedia.org/wiki/Freedom_of_movement
+2020-11-16T16:05:07.3555008Z [✓] http://www.laed.uscourts.gov/case-information/orders-citing-internet-resources
+2020-11-16T16:05:07.3557012Z [✓] https://legal-dictionary.thefreedictionary.com/Residence
+2020-11-16T16:05:07.3560081Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision
+2020-11-16T16:05:07.3562003Z [✓] https://www.fec.gov/data/candidate/P00017343/?cycle=2020&election_full=true
+2020-11-16T16:05:07.3563280Z [✓] https://www.counties.org/post/el-dorado-countys-homeless-outreach-team
+2020-11-16T16:05:07.3564739Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG
+2020-11-16T16:05:07.3566134Z [✓] https://web.archive.org/web/20201108040308/https://www.huffpost.com/entry/voting-and-homeless_b_5533134
+2020-11-16T16:05:07.3568481Z [✓] https://docs.google.com/spreadsheets/d/11BQV6dw4WY2neblNqhRKdZolpbf4zc49yi7NcvXTuB0/edit?usp=drivesdk
+2020-11-16T16:05:07.3569462Z 
+2020-11-16T16:05:07.3569746Z 44 links checked.
+2020-11-16T16:05:07.3569953Z 
+2020-11-16T16:05:07.3570245Z ERROR: 2 dead links found!
+2020-11-16T16:05:07.3571335Z [✖] actions/pages/theSuits/Complaints/Presidential_Campaign/_assets/savedCampMats → Status: 400
+2020-11-16T16:05:07.3572611Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG → Status: 400
+2020-11-16T16:05:07.3573229Z 
+2020-11-16T16:05:07.3573881Z FILE: ./actions/pages/theSuits/Complaints/S_1983/El_Dorado/SoC-DBProud.md
+2020-11-16T16:05:07.3574427Z No hyperlinks found!
+2020-11-16T16:05:07.3574659Z 
+2020-11-16T16:05:07.3574929Z 0 links checked.
+2020-11-16T16:05:07.3575149Z 
+2020-11-16T16:05:07.3575778Z FILE: ./actions/pages/theSuits/Complaints/S_1983/El_Dorado/SoC-Clerks.md
+2020-11-16T16:05:07.3576306Z No hyperlinks found!
+2020-11-16T16:05:07.3576554Z 
+2020-11-16T16:05:07.3576816Z 0 links checked.
+2020-11-16T16:05:07.3577019Z 
+2020-11-16T16:05:07.3577704Z FILE: ./actions/pages/theSuits/Complaints/S_1983/forgot-Amador/SoC-Clerks.md
+2020-11-16T16:05:07.3578273Z No hyperlinks found!
+2020-11-16T16:05:07.3578506Z 
+2020-11-16T16:05:07.3578769Z 0 links checked.
+2020-11-16T16:05:07.3578993Z 
+2020-11-16T16:05:07.3579392Z FILE: ./actions/pages/theSuits/Complaints/S_1983/README.md
+2020-11-16T16:05:07.3580239Z [✖] actions\pages\theSuits\Complaints\S_1983\El_Dorado\SoC-DBProud.md
+2020-11-16T16:05:07.3581103Z [✖] actions\pages\theSuits\Complaints\S_1983\El_Dorado\SoC-Clerks.md
+2020-11-16T16:05:07.3582008Z [✖] actions\pages\theSuits\Complaints\S_1983\forgot-Amador\SoC-Clerks.md
+2020-11-16T16:05:07.3582442Z 
+2020-11-16T16:05:07.3582695Z 3 links checked.
+2020-11-16T16:05:07.3582918Z 
+2020-11-16T16:05:07.3583209Z ERROR: 3 dead links found!
+2020-11-16T16:05:07.3583978Z [✖] actions\pages\theSuits\Complaints\S_1983\El_Dorado\SoC-DBProud.md → Status: 400
+2020-11-16T16:05:07.3584937Z [✖] actions\pages\theSuits\Complaints\S_1983\El_Dorado\SoC-Clerks.md → Status: 400
+2020-11-16T16:05:07.3585915Z [✖] actions\pages\theSuits\Complaints\S_1983\forgot-Amador\SoC-Clerks.md → Status: 400
+2020-11-16T16:05:07.3586399Z 
+2020-11-16T16:05:07.3587017Z FILE: ./actions/pages/theSuits/Complaints/TX/Dallas/SoC-DPD.md
+2020-11-16T16:05:07.3587533Z No hyperlinks found!
+2020-11-16T16:05:07.3587765Z 
+2020-11-16T16:05:07.3588031Z 0 links checked.
+2020-11-16T16:05:07.3588243Z 
+2020-11-16T16:05:07.3589078Z FILE: ./actions/pages/theSuits/Complaints/TX/Dallas/SoC-MedCity.md
+2020-11-16T16:05:07.3589615Z No hyperlinks found!
+2020-11-16T16:05:07.3589865Z 
+2020-11-16T16:05:07.3590119Z 0 links checked.
+2020-11-16T16:05:07.3590337Z 
+2020-11-16T16:05:07.3590745Z FILE: ./actions/pages/theSuits/Complaints/TX/README.md
+2020-11-16T16:05:07.3591528Z [✖] actions\pages\theSuits\Complaints\TX\Dallas\SoC-DPD.md
+2020-11-16T16:05:07.3591880Z 
+2020-11-16T16:05:07.3592147Z 1 links checked.
+2020-11-16T16:05:07.3592348Z 
+2020-11-16T16:05:07.3592640Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3593352Z [✖] actions\pages\theSuits\Complaints\TX\Dallas\SoC-DPD.md → Status: 400
+2020-11-16T16:05:07.3593762Z 
+2020-11-16T16:05:07.3594611Z FILE: ./actions/pages/theSuits/Complaints/CA/SanJuaqAmador-NativeLands/San_Juaqi-dor.md
+2020-11-16T16:05:07.3595322Z No hyperlinks found!
+2020-11-16T16:05:07.3595568Z 
+2020-11-16T16:05:07.3595829Z 0 links checked.
+2020-11-16T16:05:07.3596030Z 
+2020-11-16T16:05:07.3596562Z FILE: ./actions/pages/theSuits/Complaints/CA/El_Dorado/BMW.md
+2020-11-16T16:05:07.3597050Z No hyperlinks found!
+2020-11-16T16:05:07.3597283Z 
+2020-11-16T16:05:07.3597546Z 0 links checked.
+2020-11-16T16:05:07.3597763Z 
+2020-11-16T16:05:07.3598200Z FILE: ./actions/pages/theSuits/Complaints/CA/El_Dorado/README.md
+2020-11-16T16:05:07.3598693Z No hyperlinks found!
+2020-11-16T16:05:07.3598938Z 
+2020-11-16T16:05:07.3599196Z 0 links checked.
+2020-11-16T16:05:07.3599416Z 
+2020-11-16T16:05:07.3599859Z FILE: ./actions/pages/theSuits/Complaints/CA/Shasta__Redding/README.md
+2020-11-16T16:05:07.3600391Z No hyperlinks found!
+2020-11-16T16:05:07.3600637Z 
+2020-11-16T16:05:07.3600898Z 0 links checked.
+2020-11-16T16:05:07.3601099Z 
+2020-11-16T16:05:07.3601542Z FILE: ./actions/pages/theSuits/Complaints/CA/Contra_Costa/README.md
+2020-11-16T16:05:07.3602058Z No hyperlinks found!
+2020-11-16T16:05:07.3602352Z 
+2020-11-16T16:05:07.3602623Z 0 links checked.
+2020-11-16T16:05:07.3602836Z 
+2020-11-16T16:05:07.3603230Z FILE: ./actions/pages/theSuits/Complaints/CA/README.md
+2020-11-16T16:05:07.3604101Z [✖] actions/pages/theSuits/Complaints/S_1983/DBProud-ElDo/README.md
+2020-11-16T16:05:07.3604510Z 
+2020-11-16T16:05:07.3604837Z 1 links checked.
+2020-11-16T16:05:07.3605038Z 
+2020-11-16T16:05:07.3605324Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3606077Z [✖] actions/pages/theSuits/Complaints/S_1983/DBProud-ElDo/README.md → Status: 400
+2020-11-16T16:05:07.3606497Z 
+2020-11-16T16:05:07.3606942Z FILE: ./actions/pages/theSuits/Complaints/WA/Seattle/Seattle.md
+2020-11-16T16:05:07.3607448Z No hyperlinks found!
+2020-11-16T16:05:07.3607687Z 
+2020-11-16T16:05:07.3607940Z 0 links checked.
+2020-11-16T16:05:07.3608156Z 
+2020-11-16T16:05:07.3608561Z FILE: ./actions/pages/theSuits/Complaints/WA/README.md
+2020-11-16T16:05:07.3609037Z No hyperlinks found!
+2020-11-16T16:05:07.3609266Z 
+2020-11-16T16:05:07.3609541Z 0 links checked.
+2020-11-16T16:05:07.3609741Z 
+2020-11-16T16:05:07.3610238Z FILE: ./actions/pages/theSuits/Complaints/OR/SecretaryOfState.md
+2020-11-16T16:05:07.3610810Z No hyperlinks found!
+2020-11-16T16:05:07.3611055Z 
+2020-11-16T16:05:07.3611309Z 0 links checked.
+2020-11-16T16:05:07.3611524Z 
+2020-11-16T16:05:07.3612012Z FILE: ./actions/pages/theSuits/Complaints/Individuals/CAAmador/README.md
+2020-11-16T16:05:07.3612939Z [✓] https://www.youtube.com/watch?v=xZkb4TPI-L
+2020-11-16T16:05:07.3613337Z 
+2020-11-16T16:05:07.3613603Z 1 links checked.
+2020-11-16T16:05:07.3613807Z 
+2020-11-16T16:05:07.3614277Z FILE: ./actions/pages/theSuits/Complaints/Individuals/CASac/README.md
+2020-11-16T16:05:07.3614821Z No hyperlinks found!
+2020-11-16T16:05:07.3615068Z 
+2020-11-16T16:05:07.3615316Z 0 links checked.
+2020-11-16T16:05:07.3618804Z 
+2020-11-16T16:05:07.3619750Z FILE: ./actions/pages/theSuits/Complaints/Individuals/CAElDo/dBProud-courtsQmrk/dbProud.md
+2020-11-16T16:05:07.3620432Z No hyperlinks found!
+2020-11-16T16:05:07.3620675Z 
+2020-11-16T16:05:07.3620943Z 0 links checked.
+2020-11-16T16:05:07.3621142Z 
+2020-11-16T16:05:07.3621631Z FILE: ./actions/pages/theSuits/Complaints/Individuals/CAElDo/README.md
+2020-11-16T16:05:07.3622698Z [✖] actions\pages\theSuits\Complaints\Individuals\CAElDo\dBProud-courtsQmrk\dbProud.md
+2020-11-16T16:05:07.3623245Z 
+2020-11-16T16:05:07.3623497Z 1 links checked.
+2020-11-16T16:05:07.3623718Z 
+2020-11-16T16:05:07.3624008Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3624930Z [✖] actions\pages\theSuits\Complaints\Individuals\CAElDo\dBProud-courtsQmrk\dbProud.md → Status: 400
+2020-11-16T16:05:07.3625508Z 
+2020-11-16T16:05:07.3626022Z FILE: ./actions/pages/theSuits/Complaints/Individuals/NOLA/FrMkt/Valentino.md
+2020-11-16T16:05:07.3626607Z No hyperlinks found!
+2020-11-16T16:05:07.3626837Z 
+2020-11-16T16:05:07.3627104Z 0 links checked.
+2020-11-16T16:05:07.3627320Z 
+2020-11-16T16:05:07.3627795Z FILE: ./actions/pages/theSuits/Complaints/Individuals/NOLA/FrMkt/Joia.md
+2020-11-16T16:05:07.3628342Z No hyperlinks found!
+2020-11-16T16:05:07.3628822Z 
+2020-11-16T16:05:07.3629091Z 0 links checked.
+2020-11-16T16:05:07.3629467Z 
+2020-11-16T16:05:07.3629924Z FILE: ./actions/pages/theSuits/Complaints/Individuals/README.md
+2020-11-16T16:05:07.3630612Z [✓] CAElDo/README.md
+2020-11-16T16:05:07.3631091Z [✓] CAAmador/README.md
+2020-11-16T16:05:07.3631565Z [✓] CASac/README.md
+2020-11-16T16:05:07.3632274Z [✓] ../CA/SanJuaqAmador-NativeLands/San_Juaqi-dor.md
+2020-11-16T16:05:07.3632729Z 
+2020-11-16T16:05:07.3633003Z 4 links checked.
+2020-11-16T16:05:07.3633207Z 
+2020-11-16T16:05:07.3633941Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_assets/images/tickets.md
+2020-11-16T16:05:07.3634857Z [✖] /storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg
+2020-11-16T16:05:07.3635672Z [✖] /storage/emulated/0/Pictures/Screenshots/Screenshot_20201025-004245.png
+2020-11-16T16:05:07.3636048Z 
+2020-11-16T16:05:07.3636318Z 2 links checked.
+2020-11-16T16:05:07.3636991Z 
+2020-11-16T16:05:07.3638032Z ERROR: 2 dead links found!
+2020-11-16T16:05:07.3638875Z [✖] /storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg → Status: 400
+2020-11-16T16:05:07.3639782Z [✖] /storage/emulated/0/Pictures/Screenshots/Screenshot_20201025-004245.png → Status: 400
+2020-11-16T16:05:07.3640208Z 
+2020-11-16T16:05:07.3641573Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_assets/images/advocacyMaterials.md
+2020-11-16T16:05:07.3642294Z No hyperlinks found!
+2020-11-16T16:05:07.3642527Z 
+2020-11-16T16:05:07.3642792Z 0 links checked.
+2020-11-16T16:05:07.3642995Z 
+2020-11-16T16:05:07.3643778Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_assets/images/leslie.md
+2020-11-16T16:05:07.3644619Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115243991~2.jpg
+2020-11-16T16:05:07.3645276Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115245925~2.jpg
+2020-11-16T16:05:07.3646554Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115321371_HDR.jpg
+2020-11-16T16:05:07.3647297Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115321371_HDR~2.jpg
+2020-11-16T16:05:07.3647975Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~2.jpg
+2020-11-16T16:05:07.3648649Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~3.jpg
+2020-11-16T16:05:07.3649289Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~4.jpg
+2020-11-16T16:05:07.3649959Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115456645_HDR~2.jpg
+2020-11-16T16:05:07.3650274Z 
+2020-11-16T16:05:07.3650548Z 8 links checked.
+2020-11-16T16:05:07.3650752Z 
+2020-11-16T16:05:07.3651037Z ERROR: 8 dead links found!
+2020-11-16T16:05:07.3651685Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115243991~2.jpg → Status: 400
+2020-11-16T16:05:07.3652424Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115245925~2.jpg → Status: 400
+2020-11-16T16:05:07.3653166Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115321371_HDR.jpg → Status: 400
+2020-11-16T16:05:07.3653930Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115321371_HDR~2.jpg → Status: 400
+2020-11-16T16:05:07.3654664Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~2.jpg → Status: 400
+2020-11-16T16:05:07.3655405Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~3.jpg → Status: 400
+2020-11-16T16:05:07.3656126Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115515517~4.jpg → Status: 400
+2020-11-16T16:05:07.3656856Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115456645_HDR~2.jpg → Status: 400
+2020-11-16T16:05:07.3657194Z 
+2020-11-16T16:05:07.3657926Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_assets/images/donations.md
+2020-11-16T16:05:07.3658594Z [✓] 
+2020-11-16T16:05:07.3658773Z 
+2020-11-16T16:05:07.3659043Z 1 links checked.
+2020-11-16T16:05:07.3659245Z 
+2020-11-16T16:05:07.3659957Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/infoRequests.md
+2020-11-16T16:05:07.3660565Z No hyperlinks found!
+2020-11-16T16:05:07.3660803Z 
+2020-11-16T16:05:07.3661070Z 0 links checked.
+2020-11-16T16:05:07.3661284Z 
+2020-11-16T16:05:07.3662058Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/D_vs_NOLA-PD-AP-FrM-DPW.md
+2020-11-16T16:05:07.3662872Z No hyperlinks found!
+2020-11-16T16:05:07.3663116Z 
+2020-11-16T16:05:07.3663381Z 0 links checked.
+2020-11-16T16:05:07.3663580Z 
+2020-11-16T16:05:07.3664488Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/_resources/inclCityDocsManualsEtc.md
+2020-11-16T16:05:07.3665252Z No hyperlinks found!
+2020-11-16T16:05:07.3665479Z 
+2020-11-16T16:05:07.3665744Z 0 links checked.
+2020-11-16T16:05:07.3665961Z 
+2020-11-16T16:05:07.3666682Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/NOLA_PC_SoC_FrMrk-JB.md
+2020-11-16T16:05:07.3667358Z [✖] LA_NOLA.md
+2020-11-16T16:05:07.3667566Z 
+2020-11-16T16:05:07.3667834Z 1 links checked.
+2020-11-16T16:05:07.3668035Z 
+2020-11-16T16:05:07.3668321Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3668961Z [✖] LA_NOLA.md → Status: 400
+2020-11-16T16:05:07.3669181Z 
+2020-11-16T16:05:07.3669950Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/demands.md
+2020-11-16T16:05:07.3670527Z No hyperlinks found!
+2020-11-16T16:05:07.3670779Z 
+2020-11-16T16:05:07.3671029Z 0 links checked.
+2020-11-16T16:05:07.3671244Z 
+2020-11-16T16:05:07.3671952Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/NOLA_et-al/Complaint_NOLA.md
+2020-11-16T16:05:07.3672670Z [✓] #nola-complaint
+2020-11-16T16:05:07.3673675Z [✓] #interference-with-federal-presidential-campaign
+2020-11-16T16:05:07.3674832Z [✓] #holding-of-campaign-materials
+2020-11-16T16:05:07.3676474Z [✓] #harassment
+2020-11-16T16:05:07.3676953Z [✓] #dpw-signage
+2020-11-16T16:05:07.3677550Z [✓] #funraiser
+2020-11-16T16:05:07.3678108Z [✓] #audio
+2020-11-16T16:05:07.3678487Z [✓] #fraud
+2020-11-16T16:05:07.3679036Z [✓] #conspiracy
+2020-11-16T16:05:07.3679808Z [✓] #discriminatory-enforcement
+2020-11-16T16:05:07.3680540Z [✓] #tickets
+2020-11-16T16:05:07.3681067Z [✓] #notable
+2020-11-16T16:05:07.3682192Z [✓] #nopd
+2020-11-16T16:05:07.3683829Z [✓] #charges
+2020-11-16T16:05:07.3684354Z [✓] #theft
+2020-11-16T16:05:07.3684841Z [✓] #home-invasion
+2020-11-16T16:05:07.3685269Z [✓] #assault
+2020-11-16T16:05:07.3685785Z [✓] #attempted-kidnapping
+2020-11-16T16:05:07.3686450Z [✓] #attempted-murder--maiming
+2020-11-16T16:05:07.3687025Z [✓] #grand-theft
+2020-11-16T16:05:07.3687434Z [✓] #issues
+2020-11-16T16:05:07.3687890Z [✓] #malicious-intent
+2020-11-16T16:05:07.3688712Z [✓] #nola-parking-enforcement--adjudication
+2020-11-16T16:05:07.3689432Z [✓] #art
+2020-11-16T16:05:07.3689863Z [✓] #damages
+2020-11-16T16:05:07.3690280Z [✓] #individuals
+2020-11-16T16:05:07.3690695Z [✓] #rico-act
+2020-11-16T16:05:07.3691155Z [✓] #note-fema-issues
+2020-11-16T16:05:07.3691922Z [✓] https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d
+2020-11-16T16:05:07.3692871Z [✓] https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a
+2020-11-16T16:05:07.3693745Z [✖] /storage/emulated/0/DCIM/Camera/VID_20200911_125304393_exported_7881_1603575713333~2.jpg
+2020-11-16T16:05:07.3694371Z [✓] NOLA_PC_SoC_FrMrk-JB.md
+2020-11-16T16:05:07.3694994Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115243991~2.jpg
+2020-11-16T16:05:07.3790722Z [✖] resources/leslie.md
+2020-11-16T16:05:07.3791525Z [✖] /storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg
+2020-11-16T16:05:07.3792064Z [✓] 
+2020-11-16T16:05:07.3792492Z [✖] ../../../../../../IMG_20201028_170011333.jpg
+2020-11-16T16:05:07.3792905Z [✓] IMG_20201018_163810509.jpg
+2020-11-16T16:05:07.3793317Z [✓] IMG_20201012_124308276.jpg
+2020-11-16T16:05:07.3793867Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201024_204340294.jpg
+2020-11-16T16:05:07.3794516Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200955794.jpg
+2020-11-16T16:05:07.3795165Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200558165~2.jpg
+2020-11-16T16:05:07.3795819Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200731229.jpg
+2020-11-16T16:05:07.3796312Z [✓] #mal-int
+2020-11-16T16:05:07.3796833Z [✖] FrMkt/_assets/images/leslie.md
+2020-11-16T16:05:07.3797097Z 
+2020-11-16T16:05:07.3797369Z 45 links checked.
+2020-11-16T16:05:07.3797591Z 
+2020-11-16T16:05:07.3797882Z ERROR: 10 dead links found!
+2020-11-16T16:05:07.3798602Z [✖] /storage/emulated/0/DCIM/Camera/VID_20200911_125304393_exported_7881_1603575713333~2.jpg → Status: 400
+2020-11-16T16:05:07.3799633Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20200908_115243991~2.jpg → Status: 400
+2020-11-16T16:05:07.3800270Z [✖] resources/leslie.md → Status: 400
+2020-11-16T16:05:07.3801008Z [✖] /storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg → Status: 400
+2020-11-16T16:05:07.3801696Z [✖] ../../../../../../IMG_20201028_170011333.jpg → Status: 400
+2020-11-16T16:05:07.3802312Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201024_204340294.jpg → Status: 400
+2020-11-16T16:05:07.3803037Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200955794.jpg → Status: 400
+2020-11-16T16:05:07.3803761Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200558165~2.jpg → Status: 400
+2020-11-16T16:05:07.3804572Z [✖] /storage/emulated/0/DCIM/Camera/IMG_20201025_200731229.jpg → Status: 400
+2020-11-16T16:05:07.3805260Z [✖] FrMkt/_assets/images/leslie.md → Status: 400
+2020-11-16T16:05:07.3805566Z 
+2020-11-16T16:05:07.3806078Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/UMC+Security/README.md
+2020-11-16T16:05:07.3806664Z No hyperlinks found!
+2020-11-16T16:05:07.3806908Z 
+2020-11-16T16:05:07.3807172Z 0 links checked.
+2020-11-16T16:05:07.3807377Z 
+2020-11-16T16:05:07.3807850Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/WWLtv/README.md
+2020-11-16T16:05:07.3808396Z No hyperlinks found!
+2020-11-16T16:05:07.3808626Z 
+2020-11-16T16:05:07.3808888Z 0 links checked.
+2020-11-16T16:05:07.3809101Z 
+2020-11-16T16:05:07.3809753Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/Legend-NOLA.md
+2020-11-16T16:05:07.3810561Z [✖] Complaints/LA/NewOrleans/Legend-NOLA.md
+2020-11-16T16:05:07.3811067Z [✓] 
+2020-11-16T16:05:07.3811242Z 
+2020-11-16T16:05:07.3811494Z 2 links checked.
+2020-11-16T16:05:07.3811712Z 
+2020-11-16T16:05:07.3811997Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3812670Z [✖] Complaints/LA/NewOrleans/Legend-NOLA.md → Status: 400
+2020-11-16T16:05:07.3813034Z 
+2020-11-16T16:05:07.3813499Z FILE: ./actions/pages/theSuits/Complaints/LA/NewOrleans/README.md
+2020-11-16T16:05:07.3814019Z No hyperlinks found!
+2020-11-16T16:05:07.3814245Z 
+2020-11-16T16:05:07.3814512Z 0 links checked.
+2020-11-16T16:05:07.3814730Z 
+2020-11-16T16:05:07.3815065Z FILE: ./actions/pages/theSuits/README.md
+2020-11-16T16:05:07.3815961Z [✓] http://www.duhaime.org/LegalDictionary/C/Construction.aspx
+2020-11-16T16:05:07.3817133Z [✓] http://www.duhaime.org/LegalDictionary/L/LiberalConstruction.aspx
+2020-11-16T16:05:07.3818146Z [✖] pages/theSuits/Complaints/masterComplaint.md
+2020-11-16T16:05:07.3819049Z [✖] /actions/pages/theSuits/Complaints/masterComplaint.md
+2020-11-16T16:05:07.3819867Z [✖] Complaints/Residence/statementOfClaim.md
+2020-11-16T16:05:07.3831930Z [✓] Complaints/Presidential_Campaign/README.md
+2020-11-16T16:05:07.3833073Z [✖] Complaints/transient_voter/noVotes.md#barred-from-voting
+2020-11-16T16:05:07.3834000Z [✓] some-Duplicates/SCOTUS_decision_deficiencies-v.2.md
+2020-11-16T16:05:07.3834912Z [✖] actions\pages\theSuits\Complaints\LA\NewOrleans\Complaint_NOLA.md
+2020-11-16T16:05:07.3835819Z [✖] ./Complaints/Residence/_assets/LAED-tributes_n_contacts/20201104_165059.jpg
+2020-11-16T16:05:07.3836230Z 
+2020-11-16T16:05:07.3836945Z 10 links checked.
+2020-11-16T16:05:07.3837249Z 
+2020-11-16T16:05:07.3837541Z ERROR: 6 dead links found!
+2020-11-16T16:05:07.3838304Z [✖] pages/theSuits/Complaints/masterComplaint.md → Status: 400
+2020-11-16T16:05:07.3839222Z [✖] /actions/pages/theSuits/Complaints/masterComplaint.md → Status: 400
+2020-11-16T16:05:07.3840128Z [✖] Complaints/Residence/statementOfClaim.md → Status: 400
+2020-11-16T16:05:07.3841055Z [✖] Complaints/transient_voter/noVotes.md#barred-from-voting → Status: 400
+2020-11-16T16:05:07.3842039Z [✖] actions\pages\theSuits\Complaints\LA\NewOrleans\Complaint_NOLA.md → Status: 400
+2020-11-16T16:05:07.3843021Z [✖] ./Complaints/Residence/_assets/LAED-tributes_n_contacts/20201104_165059.jpg → Status: 400
+2020-11-16T16:05:07.3845143Z 
+2020-11-16T16:05:07.3846049Z FILE: ./actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.01.md
+2020-11-16T16:05:07.3847365Z [✓] https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-16T16:05:07.3848374Z [✓] https://en.wikipedia.org/wiki/Asch_conformity_experiments
+2020-11-16T16:05:07.3850942Z [✓] https://courses.lumenlearning.com/boundless-sociology/chapter/the-class-structure-in-the-u-s/
+2020-11-16T16:05:07.3852565Z [✓] https://www.nationalpopularvote.com/state-status
+2020-11-16T16:05:07.3853756Z [✓] https://en.wikipedia.org/wiki/List_of_2016_United_States_presidential_electors
+2020-11-16T16:05:07.3854300Z 
+2020-11-16T16:05:07.3854556Z 5 links checked.
+2020-11-16T16:05:07.3854774Z 
+2020-11-16T16:05:07.3855559Z FILE: ./actions/pages/theSuits/some-Duplicates/SCOTUS'-decision-deficiencies.md
+2020-11-16T16:05:07.3856650Z [✓] https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-16T16:05:07.3857267Z 
+2020-11-16T16:05:07.3858220Z 1 links checked.
+2020-11-16T16:05:07.3858614Z 
+2020-11-16T16:05:07.3859452Z FILE: ./actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md
+2020-11-16T16:05:07.3861069Z [✓] https://github.com/ActionProjects/Actions/blob/10666f652948b0eecbbb783e94b82f0fa6442b16/actions/pages/theSuits/Complaints/Presidential_Campaign/_resources/19-465_i425.pdf
+2020-11-16T16:05:07.3862493Z [✓] https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf
+2020-11-16T16:05:07.3862976Z 
+2020-11-16T16:05:07.3863233Z 2 links checked.
+2020-11-16T16:05:07.3863450Z 
+2020-11-16T16:05:07.3863943Z FILE: ./actions/pages/theSuits/filed/injunctionVoteCount.md
+2020-11-16T16:05:07.3864506Z No hyperlinks found!
+2020-11-16T16:05:07.3864738Z 
+2020-11-16T16:05:07.3864999Z 0 links checked.
+2020-11-16T16:05:07.3865205Z 
+2020-11-16T16:05:07.3865972Z FILE: ./actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/clerkIssues.md
+2020-11-16T16:05:07.3866611Z No hyperlinks found!
+2020-11-16T16:05:07.3866859Z 
+2020-11-16T16:05:07.3867109Z 0 links checked.
+2020-11-16T16:05:07.3867321Z 
+2020-11-16T16:05:07.3868122Z FILE: ./actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/case2.20_cv_029565-complaint.md
+2020-11-16T16:05:07.3872553Z [✖] actions\pages\theSuits\Complaints\Presidential_Campaign_resources\trump\Stokke_et_al-v.-Cegavske_et_al,_2-20_cv_02046_DJA.pdf
+2020-11-16T16:05:07.3873164Z 
+2020-11-16T16:05:07.3873443Z 1 links checked.
+2020-11-16T16:05:07.3873659Z 
+2020-11-16T16:05:07.3873933Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3875031Z [✖] actions\pages\theSuits\Complaints\Presidential_Campaign_resources\trump\Stokke_et_al-v.-Cegavske_et_al,_2-20_cv_02046_DJA.pdf → Status: 400
+2020-11-16T16:05:07.3875786Z 
+2020-11-16T16:05:07.3876513Z FILE: ./actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md
+2020-11-16T16:05:07.3877312Z [✓] #order-and-reasons
+2020-11-16T16:05:07.3877738Z [✓] #i
+2020-11-16T16:05:07.3878167Z [✓] #a-injury-in-fact
+2020-11-16T16:05:07.3879186Z [✓] #b-causation
+2020-11-16T16:05:07.3879684Z [✓] #c-redressability
+2020-11-16T16:05:07.3880287Z [✓] #1
+2020-11-16T16:05:07.3881311Z [✓] #2
+2020-11-16T16:05:07.3882387Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts/11-05-2020/085111986347.pdf
+2020-11-16T16:05:07.3886006Z 
+2020-11-16T16:05:07.3886322Z 8 links checked.
+2020-11-16T16:05:07.3886529Z 
+2020-11-16T16:05:07.3891962Z FILE: ./actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md
+2020-11-16T16:05:07.3893560Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L21
+2020-11-16T16:05:07.3902162Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L23
+2020-11-16T16:05:07.3957469Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L27
+2020-11-16T16:05:07.3959344Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L31
+2020-11-16T16:05:07.3961154Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L33
+2020-11-16T16:05:07.3962714Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L33-59
+2020-11-16T16:05:07.3964499Z [✓] https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L61
+2020-11-16T16:05:07.3965707Z [✓] https://en.wikipedia.org/wiki/List_of_logic_symbols
+2020-11-16T16:05:07.3966634Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md
+2020-11-16T16:05:07.3967061Z 
+2020-11-16T16:05:07.3967338Z 9 links checked.
+2020-11-16T16:05:07.3967545Z 
+2020-11-16T16:05:07.3967936Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.3968743Z [✖] /actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md → Status: 400
+2020-11-16T16:05:07.3969226Z 
+2020-11-16T16:05:07.3969680Z FILE: ./actions/pages/theSuits/filed/Federal/Appeals/_resources/README.md
+2020-11-16T16:05:07.3970686Z [✓] http://cafc.uscourts.gov/contact/clerks-office/filing-resources
+2020-11-16T16:05:07.3971223Z 
+2020-11-16T16:05:07.3971492Z 1 links checked.
+2020-11-16T16:05:07.3971970Z 
+2020-11-16T16:05:07.3972687Z FILE: ./actions/pages/theSuits/filed/Federal/Residence/statementOfClaim.md
+2020-11-16T16:05:07.3973526Z [✖] complaint_NOLA.md
+2020-11-16T16:05:07.3974072Z [✖] LA_NOLA.md
+2020-11-16T16:05:07.3974641Z [✖] ./actions/pages/theSuits/Residence/resSoC.md
+2020-11-16T16:05:07.3975424Z [✓] https://docquery.fec.gov/pdf/998/202009229284686998/202009229284686998.pdf
+2020-11-16T16:05:07.3975828Z 
+2020-11-16T16:05:07.3976097Z 4 links checked.
+2020-11-16T16:05:07.3976298Z 
+2020-11-16T16:05:07.4008210Z ERROR: 3 dead links found!
+2020-11-16T16:05:07.4009015Z [✖] complaint_NOLA.md → Status: 400
+2020-11-16T16:05:07.4009551Z [✖] LA_NOLA.md → Status: 400
+2020-11-16T16:05:07.4010227Z [✖] ./actions/pages/theSuits/Residence/resSoC.md → Status: 400
+2020-11-16T16:05:07.4010579Z 
+2020-11-16T16:05:07.4011024Z FILE: ./actions/pages/theSuits/filed/Federal/Residence/resSoC.md
+2020-11-16T16:05:07.4011538Z No hyperlinks found!
+2020-11-16T16:05:07.4011767Z 
+2020-11-16T16:05:07.4012032Z 0 links checked.
+2020-11-16T16:05:07.4012245Z 
+2020-11-16T16:05:07.4012831Z FILE: ./actions/pages/theSuits/filed/Federal/Residence/Elections/Elections/transient_voter/noVotes.md
+2020-11-16T16:05:07.4013645Z [✓] #barred-from-voting
+2020-11-16T16:05:07.4013924Z 
+2020-11-16T16:05:07.4014193Z 1 links checked.
+2020-11-16T16:05:07.4014395Z 
+2020-11-16T16:05:07.4015223Z FILE: ./actions/pages/theSuits/filed/Federal/Residence/Elections/Elections/transient-residence.md
+2020-11-16T16:05:07.4016124Z No hyperlinks found!
+2020-11-16T16:05:07.4016356Z 
+2020-11-16T16:05:07.4016623Z 0 links checked.
+2020-11-16T16:05:07.4016847Z 
+2020-11-16T16:05:07.4017158Z FILE: ./actions/pages/NEEDS.md
+2020-11-16T16:05:07.4018641Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/arts-n-campn/ezgif-7-e8ba05d97c43.png
+2020-11-16T16:05:07.4019797Z [⚠] htttps://OpenCollective.com/Dartanium
+2020-11-16T16:05:07.4020253Z 
+2020-11-16T16:05:07.4020523Z 2 links checked.
+2020-11-16T16:05:07.4020731Z 
+2020-11-16T16:05:07.4021125Z FILE: ./actions/pages/postBlogPicsMyb.md
+2020-11-16T16:05:07.4021615Z node:internal/validators:123
+2020-11-16T16:05:07.4022261Z     throw new ERR_INVALID_ARG_TYPE(name, 'string', value);
+2020-11-16T16:05:07.4022633Z     ^
+2020-11-16T16:05:07.4022792Z 
+2020-11-16T16:05:07.4023282Z TypeError [ERR_INVALID_ARG_TYPE]: The "url" argument must be of type string. Received null
+2020-11-16T16:05:07.4023919Z     at new NodeError (node:internal/errors:277:15)
+2020-11-16T16:05:07.4024660Z     at validateString (node:internal/validators:123:11)
+2020-11-16T16:05:07.4025155Z     at Url.parse (node:url:159:3)
+2020-11-16T16:05:07.4025585Z     at Object.urlParse [as parse] (node:url:154:13)
+2020-11-16T16:05:07.4026775Z     at linkCheck (/usr/local/lib/node_modules/markdown-link-check/node_modules/link-check/index.js:19:27)
+2020-11-16T16:05:07.4027797Z     at /usr/local/lib/node_modules/markdown-link-check/index.js:74:9
+2020-11-16T16:05:07.4030430Z     at /usr/local/lib/node_modules/markdown-link-check/node_modules/async/dist/async.js:243:13
+2020-11-16T16:05:07.4031605Z     at replenish (/usr/local/lib/node_modules/markdown-link-check/node_modules/async/dist/async.js:440:21)
+2020-11-16T16:05:07.4032831Z     at iterateeCallback (/usr/local/lib/node_modules/markdown-link-check/node_modules/async/dist/async.js:424:21)
+2020-11-16T16:05:07.4040910Z     at /usr/local/lib/node_modules/markdown-link-check/node_modules/async/dist/async.js:321:20 {
+2020-11-16T16:05:07.4042052Z   code: 'ERR_INVALID_ARG_TYPE'
+2020-11-16T16:05:07.4042367Z }
+2020-11-16T16:05:07.4042529Z 
+2020-11-16T16:05:07.4043009Z FILE: ./actions/pages/README.md
+2020-11-16T16:05:07.4043405Z No hyperlinks found!
+2020-11-16T16:05:07.4043633Z 
+2020-11-16T16:05:07.4043911Z 0 links checked.
+2020-11-16T16:05:07.4044133Z 
+2020-11-16T16:05:07.4044419Z FILE: ./actions/READM3.md
+2020-11-16T16:05:07.4045149Z [✖] /storage/emulated/0/Documents/markor/actions/arts/legendAr'Act.md
+2020-11-16T16:05:07.4045549Z 
+2020-11-16T16:05:07.4045818Z 1 links checked.
+2020-11-16T16:05:07.4046020Z 
+2020-11-16T16:05:07.4046309Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.4047054Z [✖] /storage/emulated/0/Documents/markor/actions/arts/legendAr'Act.md → Status: 400
+2020-11-16T16:05:07.4047469Z 
+2020-11-16T16:05:07.4047771Z FILE: ./actions/README.md
+2020-11-16T16:05:07.4048503Z [✓] http://historichwy49.com/placer/pvhist.html
+2020-11-16T16:05:07.4049341Z [✓] https://hangmanstree.com/history/
+2020-11-16T16:05:07.4050251Z [✓] https://en.wikipedia.org/wiki/Placerville%2C_California
+2020-11-16T16:05:07.4051283Z [✓] https://evogov.s3.amazonaws.com/media/17/media/5722.png
+2020-11-16T16:05:07.4052309Z [✓] https://en.wikipedia.org/wiki/El_Dorado_County%2C_California
+2020-11-16T16:05:07.4053336Z [✓] https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29
+2020-11-16T16:05:07.4054741Z [✓] https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seal_of_Jefferson_%28proposed%29.svg/100px-Seal_of_Jefferson_%28proposed%29.svg.png
+2020-11-16T16:05:07.4055975Z [✓] https://en.wikipedia.org/wiki/Lotus%2C_California
+2020-11-16T16:05:07.4056889Z [✓] https://en.wikipedia.org/wiki/Coloma%2C_California
+2020-11-16T16:05:07.4057884Z [✓] https://www.britannica.com/place/Mother-Lode-Country
+2020-11-16T16:05:07.4058868Z [✓] https://en.m.wikipedia.org/wiki/Sutter%27s_Mill
+2020-11-16T16:05:07.4059749Z [✓] https://en.wikipedia.org/wiki/Competent_man
+2020-11-16T16:05:07.4060365Z [✓] pages/2018
+2020-11-16T16:05:07.4060763Z [✓] pages/2018/cyv.md
+2020-11-16T16:05:07.4061186Z [✓] pages/2018/tc.md
+2020-11-16T16:05:07.4061605Z [✓] pages/2018/wd.md
+2020-11-16T16:05:07.4062024Z [✓] pages/2018/tto.md
+2020-11-16T16:05:07.4062464Z [✓] pages/2018/mlgb.md
+2020-11-16T16:05:07.4062903Z [✓] pages/2018/cfen.md
+2020-11-16T16:05:07.4063332Z [✓] pages/2018/bhl.md
+2020-11-16T16:05:07.4063734Z [✓] pages/2019
+2020-11-16T16:05:07.4064287Z [✓] 
+2020-11-16T16:05:07.4064680Z [✓] pages/2019/ers.md
+2020-11-16T16:05:07.4065198Z [✓] pages/2019/sbp.md
+2020-11-16T16:05:07.4065630Z [✓] pages/2019/ftt.md
+2020-11-16T16:05:07.4066030Z [✓] pages/2020
+2020-11-16T16:05:07.4066441Z [✓] pages/2020/posp.md
+2020-11-16T16:05:07.4066849Z [✓] pages/2020/mu.md
+2020-11-16T16:05:07.4067266Z [✓] pages/2020/dfd.md
+2020-11-16T16:05:07.4067692Z [✓] pages/2020/fbit.md
+2020-11-16T16:05:07.4068222Z [✓] pages/_assets-logPics/20200820_130020.jpg
+2020-11-16T16:05:07.4068830Z [✓] pages/2020/cav.md
+2020-11-16T16:05:07.4069267Z [✓] pages/2020/vnnd.md
+2020-11-16T16:05:07.4069799Z [✓] _assets/navajoxcerpts/20200711_170651.jpg
+2020-11-16T16:05:07.4070375Z [✓] _assets/navajoxcerpts/20200709_182447.jpg
+2020-11-16T16:05:07.4070931Z [✓] pages/2018/tc.md#Albuquerque
+2020-11-16T16:05:07.4071429Z [✓] pages/2020/ffpct.md
+2020-11-16T16:05:07.4072710Z [✓] https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77
+2020-11-16T16:05:07.4074410Z [✓] https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/README.md
+2020-11-16T16:05:07.4075290Z [✓] pages/theSuits/filed/Federal/Residence
+2020-11-16T16:05:07.4076088Z [✓] pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts
+2020-11-16T16:05:07.4077033Z [✓] https://bittube.tv/post/6c199aae-5103-4d0e-881e-20c95080812d
+2020-11-16T16:05:07.4077979Z [✓] https://bittube.tv/post/347572af-c526-423c-8c69-f1ffd7aaf11a
+2020-11-16T16:05:07.4078886Z [✓] https://bittube.tv/post/0fd2849b-4e65-4333-b923-1de4f8321333
+2020-11-16T16:05:07.4079697Z [✓] http://www.cedadebate.org/
+2020-11-16T16:05:07.4080520Z [✓] https://www.youtube.com/watch?v=JhzwSlK4uEc
+2020-11-16T16:05:07.4081287Z [✓] http://cedadebate.org/node/893
+2020-11-16T16:05:07.4082245Z [✓] https://saccityexpress.com/debating-greatness/
+2020-11-16T16:05:07.4083320Z [✓] https://en.wikipedia.org/wiki/University_of_California%2C_Merced
+2020-11-16T16:05:07.4084443Z [✓] https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States
+2020-11-16T16:05:07.4085470Z [✓] https://en.wikipedia.org/wiki/Cognitive_science
+2020-11-16T16:05:07.4086388Z [✓] https://en.wikipedia.org/wiki/Cultural_anthropology
+2020-11-16T16:05:07.4087378Z [✓] https://en.wikipedia.org/wiki/Technology_acceptance_model
+2020-11-16T16:05:07.4088369Z [✓] https://en.wikipedia.org/wiki/Diffusion_of_innovations
+2020-11-16T16:05:07.4089445Z [✓] https://en.m.wikipedia.org/wiki/Sociocultural_anthropology#Overview
+2020-11-16T16:05:07.4090475Z [✓] https://www.envisioning.io/clients/deftech
+2020-11-16T16:05:07.4091331Z [✓] https://en.wikipedia.org/wiki/RNLAF
+2020-11-16T16:05:07.4092003Z [✓] http://deftech.ch/
+2020-11-16T16:05:07.4092892Z [✓] https://pinzagroup.com/wp-content/endurance-page-cache/_index.html
+2020-11-16T16:05:07.4093818Z [✖] https://angel.co/company/dronebuilder
+2020-11-16T16:05:07.4094452Z [✓] http://opainc.net/
+2020-11-16T16:05:07.4095405Z [✓] https://laney.edu/humanities_philosophy/humanities-philosophy-faculty/
+2020-11-16T16:05:07.4096051Z 
+2020-11-16T16:05:07.4096322Z 62 links checked.
+2020-11-16T16:05:07.4096528Z 
+2020-11-16T16:05:07.4096813Z ERROR: 1 dead links found!
+2020-11-16T16:05:07.4097483Z [✖] https://angel.co/company/dronebuilder → Status: 403
+2020-11-16T16:05:07.4097850Z 
+2020-11-16T16:05:07.4098298Z [0;33m=========================================================================[0m
+2020-11-16T16:05:07.5764753Z Post job cleanup.
+2020-11-16T16:05:07.6804100Z [command]/usr/bin/git version
+2020-11-16T16:05:07.6876302Z git version 2.29.2
+2020-11-16T16:05:07.6913106Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2020-11-16T16:05:07.6956589Z [command]/usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :
+2020-11-16T16:05:07.7244684Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2020-11-16T16:05:07.7286217Z http.https://github.com/.extraheader
+2020-11-16T16:05:07.7295559Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2020-11-16T16:05:07.7339293Z [command]/usr/bin/git submodule foreach --recursive git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :
+2020-11-16T16:05:07.7702153Z Cleaning up orphan processes

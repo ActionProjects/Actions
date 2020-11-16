@@ -8,7 +8,7 @@ told circa October that they'd have an answer for me by the end of February... p
 
 - ### OR
 
-told "we don't like giving that document out" until I was into WA.
+[told "we don't like giving that document out" until I was into WA.](actions/pages/theSuits/Complaints/OR/SecretaryOfState.md)
 
 ## Voting Access
 
@@ -21,13 +21,13 @@ If you're traveling during the election season; then, you may be unable to vote;
 
 ## FEC
 
-- ![FEC-Warnings](actions/pages/theSuits/Complaints/Presidential_Campaign/_assets/Screenshot_20201105-110412_Brave.jpg)
+- ![FEC-Warnings](_assets/Screenshot_20201105-110412_Brave.jpg =50%x)
 
 - Talked to Support desk agent Anu the other day
   - PW issues Form 2 filed w/out Form 1; but, no PW
     - cannot amend.
 
-- ![FEC-Confirmation](actions/pages/theSuits/Complaints/Presidential_Campaign/_assets/Screenshot_20201105-110451_Gmail.jpg)
+- ![FEC-Confirmation](_assets/Screenshot_20201105-110451_Gmail.jpg =50%x)
 
 ## Practicality
 

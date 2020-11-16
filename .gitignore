@@ -1,9 +1,20 @@
 
 _config.yml
-linksLogs/logs_1.zip
 linksLogs/logs_1/markdown-link-check/1_Set up job.txt
 linksLogs/logs_1/markdown-link-check/2_Build gaurav-nelsongithub-action-markdown-link-check@v1.txt
 linksLogs/logs_1/markdown-link-check/3_Run actionscheckout@master.txt
 linksLogs/logs_1/markdown-link-check/4_Run gaurav-nelsongithub-action-markdown-link-check@v1.txt
 linksLogs/logs_1/markdown-link-check/8_Post Run actionscheckout@master.txt
 linksLogs/logs_1/markdown-link-check/9_Complete job.txt
+linksLogs/logs_2/markdown-link-check/1_Set up job.txt
+linksLogs/logs_2/markdown-link-check/2_Build gaurav-nelsongithub-action-markdown-link-check@v1.txt
+linksLogs/logs_2/markdown-link-check/3_Run actionscheckout@master.txt
+linksLogs/logs_2/markdown-link-check/4_Run gaurav-nelsongithub-action-markdown-link-check@v1.txt
+linksLogs/logs_2/markdown-link-check/8_Post Run actionscheckout@master.txt
+linksLogs/logs_2/markdown-link-check/9_Complete job.txt
+linksLogs/logs_3/markdown-link-check/1_Set up job.txt
+linksLogs/logs_3/markdown-link-check/2_Build gaurav-nelsongithub-action-markdown-link-check@v1.txt
+linksLogs/logs_3/markdown-link-check/3_Run actionscheckout@master.txt
+linksLogs/logs_3/markdown-link-check/4_Run gaurav-nelsongithub-action-markdown-link-check@v1.txt
+linksLogs/logs_3/markdown-link-check/8_Post Run actionscheckout@master.txt
+linksLogs/logs_3/markdown-link-check/9_Complete job.txt
