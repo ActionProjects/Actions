@@ -1,9 +1,10 @@
-
 # Trumplvania
 
 > Trump's team scored a favorable ruling out of Pennsylvania where a state court ruled that poll watchers can stand closer to observe the vote-counting process in Philadelphia.
 
 ~ *US News* November 5th, 2020; [^1][1]
+
+## [Stay up to date](https://www.google.com/search?&q=site%3Ahttps%3A%2F%2Fcdn.donaldjtrump.com%2F+*.pdf)
 
 [^2][2]
 
@@ -28,7 +29,8 @@
 
 [![Election-Certification](/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG)](https://www.ncsl.org/research/elections-and-campaigns/after-the-voting-ends-the-steps-to-complete-an-election.aspx)
 
-<!--[6]: -->[Limitations on States for Pres Elect](https://web.archive.org/web/20201107225011/https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2935&context=lcp)
+<!--[6]: -->
+[Limitations on States for Pres Elect](https://web.archive.org/web/20201107225011/https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2935&context=lcp)
 
 [Scotus on Replacing Electoral College Appointees](https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf)  & [Scotus on Replacing Electoral College Appointees - WebArchive](https://web.archive.org/web/20201105211435/https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf)
 
@@ -45,5 +47,3 @@
 [Michigan](actions/pages/theSuits/Complaints/Presidential_Campaign/_resources/trump/1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf)
 
 [trump-Michigan Original](https://cdn.donaldjtrump.com/public-files/press_assets/1.-11-10-20-trump-v.-benson-w.d.-mich.-complaint-final.pdf)
-
-- ## [Stay up to date](https://www.google.com/search?&q=site%3Ahttps%3A%2F%2Fcdn.donaldjtrump.com%2F+*.pdf)
