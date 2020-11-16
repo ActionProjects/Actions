@@ -29,7 +29,8 @@
 
 [![Election-Certification](/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG)](https://www.ncsl.org/research/elections-and-campaigns/after-the-voting-ends-the-steps-to-complete-an-election.aspx)
 
-<!--[6]: -->[Limitations on States for Pres Elect](https://web.archive.org/web/20201107225011/https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2935&context=lcp)
+<!--[6]: -->
+[Limitations on States for Pres Elect](https://web.archive.org/web/20201107225011/https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2935&context=lcp)
 
 [Scotus on Replacing Electoral College Appointees](https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf)  & [Scotus on Replacing Electoral College Appointees - WebArchive](https://web.archive.org/web/20201105211435/https://www.supremecourt.gov/opinions/19pdf/19-465_i425.pdf)
 
