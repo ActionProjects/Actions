@@ -29,7 +29,7 @@ do the things
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
-### Here's a map of pages linked as of November 12th, 2020
+### Here's a map of pages linked as of November 16th, 2020
 
 [![linkLogFiles](linksLogs/LinkMap_3.PNG "Check the LinkLog")](/linksLogs)
 
