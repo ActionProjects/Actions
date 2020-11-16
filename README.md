@@ -25,6 +25,8 @@ do the things
 
 ## The Race is Still ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
 
+[Dec. 8, 2020: Deadline for Resolving Election Disputes - 3 U.S.C. § 5](https://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx) ref: [Support.md](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md) sourcing all suit info.
+
 <img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%"><!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)-->
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">

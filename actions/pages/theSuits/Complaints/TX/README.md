@@ -4,8 +4,8 @@
 
 ### False Arrest & Intimidation + Doctor Order Reversal
 
-## (Med City)[actions/pages/theSuits/Complaints/TX/Dallas/SoC-MedCity.md]
+## [Med City](actions/pages/theSuits/Complaints/TX/Dallas/SoC-MedCity.md)
 
 ### Nurse <intake> fails
 
-### check recording -> Stated as Dr.?
+### check recording -> {Stated as Dr.?}

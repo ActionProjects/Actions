@@ -6,6 +6,24 @@
 
 ## [Stay up to date](https://www.google.com/search?&q=site%3Ahttps%3A%2F%2Fcdn.donaldjtrump.com%2F+*.pdf)
 
+[Trump Election Lawsuits List](https://lawandcrime.com/2020-election/what-you-need-to-know-about-trump-campaigns-post-election-day-lawsuits/) <!--archived "https://web.archive.org/web/20201111065857/https://lawandcrime.com/2020-election/what-you-need-to-know-about-trump-campaigns-post-election-day-lawsuits/"-->
+
+[Trump Election Law's List Cont'd](https://www.fox61.com/article/news/nation-world/trump-campaign-election-lawsuits-where-things-stand/507-6c05fc87-fb43-4a8c-95cc-62c85beef91e) <sub>Updated: 6:40 PM EST November 14, 2020</sub> <!--archived "https://web.archive.org/web/20201116211228/https://www.fox61.com/article/news/nation-world/trump-campaign-election-lawsuits-where-things-stand/507-6c05fc87-fb43-4a8c-95cc-62c85beef91e" -->
+
+Arizona
+
+Michigan
+
+Nevada
+
+Pennsylvania
+
+- [SCOTUS re: PA](https://www.supremecourt.gov/opinions/20pdf/20-542_i3dj.pdf) <!--archived "https://web.archive.org/web/20201112041528/https://www.supremecourt.gov/opinions/20pdf/20-542_i3dj.pdf" -->
+
+Wisconsin
+
+Georgia
+
 [^2][2]
 
 [^3][3]
@@ -16,7 +34,7 @@
 
 [1]: [trump-campaign-files-lawsuits-in-swing-states](https://web.archive.org/web/20201106021846/https://www.usnews.com/news/elections/articles/2020-11-05/trump-campaign-files-lawsuits-in-swing-states) Hagen L, ‘Trump Campaign Files Lawsuits in Swing States’ (5 November 2020) accessed 5 November 2020
 
-[2]: [https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state](https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state)
+[2]: [Bloomberg Suits by State](https://www.bloomberg.com/news/articles/2020-11-05/trump-election-lawsuits-filed-state-by-state)
 
 [3]: [Stokke et al v. Cegavske et al, 2:20-cv-02046-DJA](https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/DOCKET-ALERT.pdf)
 
