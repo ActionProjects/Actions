@@ -1,4 +1,4 @@
-# Actions
+# Actions<!--MetaTagging - https://gist.github.com/lancejpollard/1978404 & HEAD https://github.com/joshbuchea/HEAD--><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="index,follow"><meta http-equiv="x-dns-prefetch-control" content="on"><meta name="keywords" content="United States, President, Election, FEC, Biden, Trump, Candidate, Election Results, Election Information, SCOTUS, Congress, Representatives"/><meta name="description" content="Nicholas D'Artagnan Dumas Runs a Presidential Fitness Test"><meta name="subject" content="Nicholas D'Artagnan Dumas 2020 Election President United States Anti Campaign"><meta name="topic" content="2020 Presidential Election, Electoral College, SCOTUS"><meta name="category" content="Politics, Residence"><meta name="og:country-name" content="USA"/><!--<meta name="monetization" content="$paymentpointer.example">-->
 
 do the things
 
