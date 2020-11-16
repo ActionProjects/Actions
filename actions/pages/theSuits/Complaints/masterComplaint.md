@@ -20,7 +20,7 @@ filing under organization at [https://github.com/ActionProjects/Actions](https:/
 		- [Access to Courts](#access-to-courts)
 		- [Access to LAW (legel opinions, ruling, filings, etc...)](#access-to-law-legel-opinions-ruling-filings-etc)
 	- [Injunction](#injunction)
-	- [Residence - ANIMUS MANENDI. The intention of remaining](#residence---animus-manendi-the-intention-of-remaining)
+	- [Residence](#residence)
 		- [- Federal Elections Commission](#--federal-elections-commission)
 		- [- FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America)](#--fincen-banner-bank-mechanics-bank-wells-fargo-bank-of-america)
 		- [- USPS (PostNet, UPS)](#--usps-postnet-ups)
@@ -96,7 +96,9 @@ Injunction - Federal, Presidential Election
 
 I Nicholas D'Artagnan Dumas demand an injunction on the 2020 Federal Presidential Election; predicated upon unfair practices by Federal and State Agencies.
 
-## Residence - ANIMUS MANENDI. The intention of remaining
+## Residence
+
+- ANIMUS MANENDI. The intention of remaining
 
 >      RESIDENCE. The place of one's domicil. (q.v.) There is a difference between a man's residence and his domicil. He may have his domicil in Philadelphia, and still he may have a residence in New York; for although a man can have but one domicil, he may have several residences. A residence is generally transient in its nature, it becomes a domicil when it is taken up animo manendi. Roberts; Ecc. R. 75.
 >     2. Residence is prima facie evidence of national character, but this may at all times be explained. When it is for a special purpose and transient in its nature, it does not destroy the national character.

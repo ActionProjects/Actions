@@ -4,4 +4,4 @@ The [FEC](https://FEC.gov) has an equation for individuals to "buy" themselves t
 
 Started on [Scott Santens Discord chat](https://www.reddit.com/r/ScottSantens/comments/f3ehx6/join_the_scott_santens_discord_server/)
 
-![Scott Deletes the Disco](actions\pages\2020\_assets-2020\Screenshot_20201112-130233_Gmail.jpg "Deleted in June 2020")
+![Scott Deletes the Disco](actions/pages/2020/_assets-2020/Screenshot_20201112-130233_Gmail.jpg "Deleted in June 2020")

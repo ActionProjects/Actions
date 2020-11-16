@@ -16,7 +16,7 @@ Liberal Construction [^2][2]:
 
 [masterComplaint](pages/theSuits/Complaints/masterComplaint.md) submitted 1st commit <!--#todo+todo link .pdf-->
 
-## Residence
+## [Residence](actions/pages/theSuits/Complaints/masterComplaint.md#residence)
 <!--{#todo +todo tag "Deficiencies"}-->
 Patriot Act & Property Tax
 How to create a sinkhole for your citizens.
@@ -31,7 +31,7 @@ How to create a sinkhole for your citizens.
 
 [Hack the College - SCOTUS](some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
 
-[NOLA](actions\pages\theSuits\Complaints\LA\NewOrleans\Complaint_NOLA.md)
+[NOLA](actions/pages/theSuits/Complaints/LA/NewOrleans/Complaint_NOLA.md)
 
 WWLtv - watermark, name, exclusivity fee
 

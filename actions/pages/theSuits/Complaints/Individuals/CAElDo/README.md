@@ -1,6 +1,6 @@
 # Outline for Individuals in El Dorado County, California
 
-## [Judge, Daniel B. Proud](actions\pages\theSuits\Complaints\Individuals\CAElDo\dBProud-courtsQmrk\dbProud.md)
+## [Judge, Daniel B. Proud](actions/pages/theSuits/Complaints/Individuals/CAElDo/dBProud-courtsQmrk/dbProud.md)
 
 ## Court Clerks
 
