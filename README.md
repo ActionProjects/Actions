@@ -23,7 +23,7 @@ do the things
 [see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
 <!--#todo+todo deduplication & checkboxes-->
 
-## The Race is Still ON [Trump Campaign site pdf search](actions\pages\theSuits\Complaints\Presidential_Campaign\Support.md#stay-up-to-date)
+## The Race is Still ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
 
 <img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%"><!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)-->
 
