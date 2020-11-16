@@ -26,6 +26,10 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
+## Here's a map of pages linked as of November 12th, 2020
+
+![LinkMap.png](LinkMap.PNG)
+
 - ### Law is Code; right
 
   - ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
