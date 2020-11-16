@@ -29,7 +29,7 @@ do the things
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
-### Here's a map of pages linked as of November 16th, 2020 <sub>30 of 68 Linked; so, browse around</sub>
+### Here's a map of pages linked as of November 16th, 2020 <sub>30 of 68 Linked; so, browse around</sub> <a href="http://ghv.artzub.com/#repo=Actions&climit=500&user=actionprojects"><sup>[this Viz Says More Files & PDFs]</sup></a>
 
 [![linkLogFiles](linksLogs/LinkMap_4.PNG "Check the LinkLog")](/linksLogs)
 
