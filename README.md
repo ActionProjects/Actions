@@ -31,7 +31,7 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
 ### Here's a map of pages linked as of November 12th, 2020
 
-[LinkMap.png![linkLogFiles](LinkMap.PNG)](/linkslogs)
+[LinkMap.png![linkLogFiles](LinkMap.PNG)]([/linkslogs](https://github.com/ActionProjects/Actions/tree/main/linksLogs))
 
 - ### Law is Code; right
 
