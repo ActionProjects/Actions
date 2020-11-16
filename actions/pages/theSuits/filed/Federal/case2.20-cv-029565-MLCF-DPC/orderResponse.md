@@ -15,7 +15,8 @@ NO. 20-2965 c/w 20-2966
 
 > [100,000,000 Americans have already voted](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L27)
 > > inconsequential
-> > +todo#todo -cite pics of vote#'s/area
+> > > "Federal Presidential Election" Disputes to be handled by Dec. 8th 2020
+<!--+todo#todo -cite pics of vote#'s/area-->
 
 > [largely incomprehensible](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L31)
 > > "intended to be amended & addended"
@@ -25,6 +26,8 @@ NO. 20-2965 c/w 20-2966
 
 > [a broad array of American entities have combined to disenfranchise homeless individuals who lack a physical address.](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L33-59)
 > > "have combined" how is that interpreted; these entities follow some similar rule? Did I say 'homeless'? (i hope not)
+
+> > Rules from FinCEN & the Patriot Act - anti-Money Laundering?
 
 > [prompt sua sponte](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L61 "In law, sua sponte or suo motu describes an act of authority taken without formal prompting from another party. The term is usually applied to actions by a judge taken without a prior motion or request from the parties. The form nostra sponte is sometimes used by the court itself, when the action is taken by a multi-member court, such as an appellate court, rather than by a single judge. While usually applied to actions of a court, the term may reasonably be applied to actions by government agencies and individuals acting in official capacity. One situation in which a party might encourage a judge to move sua sponte occurs when that party is preserving a special appearance, and therefore cannot make motions on its own behalf without making a general appearance. https://en.wikipedia.org/wiki/Sua_sponte")
 > > Failed; maybe instead of looking to attack the argument, as a Judge, should be looking to interpret the issue. your latin majik words failed you.
@@ -75,7 +78,7 @@ the duty upon the court is to establish communicative grounds via translations a
 
 the blatant omissions from the Order show a true disregard for the premise of a court in the first place.
 
-The strictly one sided; narrowly scoped view, is in defense of ignorance; rather than begging the questions before it.
+The strictly one sided; narrowly scoped view, is in defense of ignorance; rather than seeking the questions before it.
 
 The
 -->

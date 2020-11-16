@@ -2,6 +2,10 @@
 
 filing under organization at [https://github.com/ActionProjects/Actions](https://github.com/ActionProjects/Actions)
 
+filed in LAED NO. 20-2965 c/w 20-2966
+- [Dismissal Order](../filed/Federal/Residence/_assets/LAED-tributes_n_contacts/11-05-2020/085111986347.pdf)
+- [response](../filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md)
+
 [Issues Under:](#issues-under)
 
 - [intended to be amended & addended](#intended-to-be-amended--addended)
