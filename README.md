@@ -47,6 +47,13 @@ do the things
 
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 
+## loggin'
+- [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md "caution lrgPics")<!--{#todo+todo img resize, add content, thumbnails & links}-->
+  - [Officer's Ambushed! See ***MY*** Vid](actions/pages/postBlogPicsMyb.md#my-interview-and-video)
+    - [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77)<!--These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.-->
+- vids <!--make page--> [deconDarts Channel](https://bittube.tv/profile/deconDarts)
+
+
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
 
 ### from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F., Bay Area, California
@@ -54,11 +61,6 @@ do the things
 - [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}. Did the Enforcing Officers Fail their Duty?}")
 - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
 - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
-
-## loggin'
-- [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md "caution lrgPics")
-<!--{#todo+todo img resize, add content, thumbnails & links}-->
-- vids <!--make page--> [deconDarts Channel](https://bittube.tv/profile/deconDarts)
 
 ## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
 

@@ -88,8 +88,6 @@ Deployed web presence & structured more concepts:
 
 - [FEMA Food Provider Contract Termination](pages/2020/ffpct.md)
 
-- [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77) These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.
-
 ## ['Suits](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/README.md)
 
 ### [Residency Issue Discoveries](pages/theSuits/filed/Federal/Residence)
