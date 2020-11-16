@@ -39,13 +39,20 @@ do the things
 
 - ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
 
-- #### SCOTUS
+- #### SCOTUS July 6th, 2020 Electoral College Decision
 
-  - ##### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
+  - ##### [SCOTUS E.C. Deficiencies](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
 
-    - #### NOLA
-      - ##### vids
-        - [deconDarts Channel](https://bittube.tv/profile/deconDarts)
+  - #### NOLA
+
+    - ##### vids <!--make page-->
+
+      - [deconDarts Channel](https://bittube.tv/profile/deconDarts)
+
+- #### LAED
+
+  - [Dismiss Order](actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md)
+  - [Response](actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md)
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
