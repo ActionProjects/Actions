@@ -7,7 +7,7 @@ New phones in new places... consolidation & locked phone(s) b4 Navajo Nation. (W
 # NOLA, New Orleans, Louisiana
 ## Aug 2nd - Current
 <!-- [20201031_135605](./_assets-logPics/20201031_135605.jpg) -->
-<img src="./_assets-logPics/20201031_135605.jpg" width="50%" height="50%" />
+<!--<img src="./_assets-logPics/20201031_135605.jpg" width="50%" height="50%" />-->
 
 <!-- #todo Fix Image Sizes & Find Hosting Source -->
 
