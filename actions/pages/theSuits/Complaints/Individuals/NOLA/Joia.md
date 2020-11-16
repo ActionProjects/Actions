@@ -1,3 +1,0 @@
-# Joey Joia
-
-## Aggressive Assault

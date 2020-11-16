@@ -21,12 +21,19 @@ filing under organization at [https://github.com/ActionProjects/Actions](https:/
 		- [Access to LAW (legel opinions, ruling, filings, etc...)](#access-to-law-legel-opinions-ruling-filings-etc)
 	- [Injunction](#injunction)
 	- [Residence - ANIMUS MANENDI. The intention of remaining](#residence---animus-manendi-the-intention-of-remaining)
+		- [- Federal Elections Commission](#--federal-elections-commission)
+		- [- FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America)](#--fincen-banner-bank-mechanics-bank-wells-fargo-bank-of-america)
+		- [- USPS (PostNet, UPS)](#--usps-postnet-ups)
+		- [- DMV](#--dmv)
+	- [2018](#2018)
+	- [2019](#2019)
+	- [2020](#2020)
 	- [Presidency](#presidency)
 		- [RON](#ron)
 	- [entities](#entities)
 		- [LAED](#laed)
 			- [Clerks](#clerks)
-			- [Judge Dismiss Order](#judge-dismiss-order)
+			- [Judge](#judge)
 		- [SCOTUS](#scotus)
 		- [Address Required](#address-required)
 
@@ -97,26 +104,43 @@ I Nicholas D'Artagnan Dumas demand an injunction on the 2020 Federal Presidentia
 
 The following institutions failed to provide services based upon, what appears to be, a Patriot Act stipulation for a Physical Residence Address:
 
-- Federal Elections Commission
-  - lack of support for multi-state transient voters (eg: vacationers)
-- FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America)
-  - bank account (checking, savings, CD, Safety Deposit Box)
-- USPS (PostNet, UPS)
-  - private mail delivery
-- DMV
-  - form{??}ref:CAEDcase
-- IRS
-  - webform
-- EDD
-  - webform application
-- Blood Bank
-  - +others
+### - Federal Elections Commission
 
-2018:
+  - lack of support for multi-state transient resident voters (eg: vacationers)
+  - webForms
+
+### - FinCEN (Banner Bank, Mechanics Bank, Wells Fargo, Bank of America)
+
+  - bank account (checking, savings, CD, Safety Deposit Box)
+
+### - USPS (PostNet, UPS)
+
+  - private mail delivery ref:CAEDcase
+
+### - DMV
+
+  - form{??}ref:CAEDcase
+
+- ### IRS
+
+  - webform
+    - inability to input 4
+
+- ### EDD
+
+  - webform application
+
+- ### Blood Bank
+
+- ### +others
+
+## 2018
 
 I, Nicholas D'Artagnan Dumas, was asked to lie, at multiple DMV's and Banks, about my Residence Address while being a 'Resident in Transience;' with no, permitted, Physical Residence Address; barring the ability to: receive private mail; open a bank account / safety deposit box; file for unemployment; receive stimulus; register, timely and properly, with the FEC; contribute to the CENSUS; 
 
-2020:
+## 2019
+
+## 2020
 
 Traveling individuals, while residents, without specific residential street addresses are barred from participating in the elections due to inadequate state implementations.
 
@@ -145,17 +169,21 @@ Nicholas D'Artagnan Dumas announced candidacy to the [El Dorado County HOTeam](h
 
 - Deficiencies
   - ADDRESS
+  - Electronic Signature Issues -> Document Submissions
 
 #### Clerks
 
 - document service timeliness failure
-- e-signature
+- e-signature representation
 - citations
 
-#### Judge Dismiss Order
+#### Judge
 
+- Dismisses Order
+  - 'eve of election' #citeline #todo+todo -> Fails to recognize actual election.
 - Jurisdiction
-- Impracticable
+  - to be established on individual merits
+- Impracticable - (ref2Scotus?)
   - NV Docket *"Stokke et al v. Cegavske et al, 2:20-cv-02046-DJA"*
   - PA
   - ![Certification-Times](/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG)
@@ -164,16 +192,21 @@ Nicholas D'Artagnan Dumas announced candidacy to the [El Dorado County HOTeam](h
 ### SCOTUS
 
 - Electoral College Decision
+  - minimal argument representation
+    - fails to submit to record 'separation of powers'
+      - intention of E.C. vs. "points system"
+  - Recusal from case
+<!-->    - 5th Amendment use can (replace: incite/infer 'guilt') be used against an individual.-->
 
 ### Address Required
 
 - LAED, DMV, IRS, EDD, voterRegistration
   - "where you sleep"
     - <https://web.archive.org/web/20201108040308/https://www.huffpost.com/entry/voting-and-homeless_b_5533134>
-    - getting cleared out of locations
-    - frequent change of location
+      - getting cleared out of locations
+      - frequent change of location
   - voterReg [into the matrices](https://docs.google.com/spreadsheets/d/11BQV6dw4WY2neblNqhRKdZolpbf4zc49yi7NcvXTuB0/edit?usp=drivesdk
 )
-    - voting access = paramount to court access - chusing [sic] judges.
+  - voting access = paramount to court access - chusing [sic] judges.
   - Candidate Registration
     - FEC
