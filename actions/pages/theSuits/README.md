@@ -23,7 +23,7 @@ How to create a sinkhole for your citizens.
 
 - [filedProbsTransientResidence](/actions/pages/theSuits/Complaints/masterComplaint.md)
 
-  - [residence-SoC.md](Complaints/Residence/statementOfClaim.md)
+  - [residence-SoC.md](filed/Federal/Residence/statementOfClaim.md)
 
   - [Voters in Transit](Complaints/transient_voter/noVotes.md#barred-from-voting)
 
