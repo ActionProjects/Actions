@@ -22,27 +22,32 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 
 [see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
 <!--#todo+todo deduplication & checkboxes-->
+
+## The Race is Still ON
+
 <img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%"><!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)-->
 
 <img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
-## Here's a map of pages linked as of November 12th, 2020
+### Here's a map of pages linked as of November 12th, 2020
 
-![LinkMap.png](LinkMap.PNG)
+![LinkMap.png[linkLogFiles](linksLogs)](LinkMap.PNG)
 
 - ### Law is Code; right
 
-  - ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
+- ### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
 
-    - #### SCOTUS
-      - ##### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
-    - NOLA
+- #### SCOTUS
+
+    - ##### [SCOTUS Electoral College Decision](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md#scotus-electoral-college-decision "are we doing it right?")
+
+    - #### NOLA
       - ##### vids
         - [deconDarts Channel](https://bittube.tv/profile/deconDarts)
 
-  - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
+- ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
-    - when I hung out in a 'smart college town' the Electoral College was something to get rid of...
+  - when I hung out in a 'smart college town' the Electoral College was something to get rid of...
 
 - on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'nto be alright</sup></a>
 
@@ -56,9 +61,12 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
 - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
-## [loggin' Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics") {#todo+todo img resize, add content, thumbnails & links}
+## [loggin', large, Pics](actions/pages/postBlogPicsMyb.md "caution lrgPics")
+<!--{#todo+todo img resize, add content, thumbnails & links}-->
 
 ## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
+
+- finding opportunity and support where I go.
 
 ### Find out, more <sub>about your candidates</sub>
 
@@ -72,7 +80,9 @@ mouse hovers over links have info; if U've no 'meece' then read the raw (top rig
 - [a count ability](https://github.com/sunlightpolicy/Sunlight_FOIA "enforcer data")
 - [isn't the law what the public is bound by? And it's locked](https://github.com/freelawproject/), [article](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
 
-[someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
+### [someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
+
+### CA SoS Req's
 
 - CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
 
