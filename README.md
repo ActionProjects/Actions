@@ -4,7 +4,7 @@ do the things
 
 ## [D'Artagnan's Dartanium](https://OpenCollective.com/Dartanium "Brief Outline earlier this year")
 
-mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame).
+<sub>mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame).</sub>
 
 ## [Actions](actions/README.md "Top Level")
 

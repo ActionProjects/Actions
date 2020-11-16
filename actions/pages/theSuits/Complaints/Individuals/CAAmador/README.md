@@ -16,10 +16,10 @@
 
 - Failure to accept documents
 - Uses force by proxy for removal from counter
+  - '[the signature is right, fucking, there](https://www.youtube.com/watch?v=xZkb4TPI-L).'
+    - results with officer intimidation
 
 ### - Clerk 3 to unk. Clerk Mgr.
-
-
 
 ## Judge
 
