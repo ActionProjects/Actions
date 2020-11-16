@@ -34,3 +34,7 @@ If you're traveling during the election season; then, you may be unable to vote;
 [Support](./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md)
 
 - [Trump victory in PA](./actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#Trumplvania)
+
+## SCOTUS
+
+- [recent decision 'critique'](actions/pages/theSuits/some-Duplicates/SCOTUS_decision_deficiencies-v.2.md)
