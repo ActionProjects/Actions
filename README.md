@@ -2,6 +2,8 @@
 
 do the things
 
+<sup>[meet with me](https://calendly.com/decondarts)</sup>
+
 ## [D'Artagnan's Dartanium](https://OpenCollective.com/Dartanium "Brief Outline earlier this year")
 
 <sub>mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame).</sub>
@@ -59,11 +61,11 @@ do the things
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
 
-### from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F., Bay Area, California
+- ### from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F., Bay Area, California
 
-- [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}. Did the Enforcing Officers Fail their Duty?}")
-- [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
-- [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
+  - [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}. Did the Enforcing Officers Fail their Duty?}")
+  - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
+  - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
 ## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
 
@@ -75,10 +77,13 @@ do the things
 - [Awesome OSINT!](https://github.com/jivoi/awesome-osint "a curated library")
 - [SpiderFoot OSINT](https://github.com/smicallef/spiderfoot "do'no' if it's any good")
 
+- Places to contribute findings:
+  - [wiki](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)<!--https://web.archive.org/web/20201117220224/https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas-->
+
 #### about a bunch of stuff
 
 - [FOIA Tools](https://github.com/topics/foia "Freedom of Information Act")
-- [a count ability](https://github.com/sunlightpolicy/Sunlight_FOIA "enforcer data")
+- [a'count ability](https://github.com/sunlightpolicy/Sunlight_FOIA "enforcer data")
 - [isn't the law what the public is bound by? And it's locked](https://github.com/freelawproject/), [article](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
 
 ### [someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
