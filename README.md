@@ -20,10 +20,13 @@ do the things
   - I've been through:
     - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *[Navajo Nation](https://github.com/ActionProjects/Actions/blob/main/actions/README.md#--volunteer-navajo-nation-decontamination-captured-this-moment) (discussed COVID decon with President Nez, with regards to C.A.R.E.S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
+  - [a wikiDraft](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)
+    - [Qualified Write-Ins](https://web.archive.org/web/20201117175227/https://www.countyofnapa.org/DocumentCenter/View/16379/March-3-2020--Qualified-Write-In-Candidates---President) <sub>-note Libertarian & CA SoS/ ElDo Elections Complaint</sub>
+
 [see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
 <!--#todo+todo deduplication & checkboxes-->
 
-## The Race is Still ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
+## The Race is *Still* ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
 
 [Dec. 8 & Dec. 14, 2020: Deadline for Resolving Election Disputes - 3 U.S.C. § 5](https://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx) ref: [Support.md](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md) sourcing all suit info.
 
