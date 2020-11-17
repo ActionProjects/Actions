@@ -111,3 +111,5 @@ Challenges to the ORDER:
   - SCOTUS PA Case 
 
 <!--made this a while back; thought I had more things to remove, hadn't committed it for nearly a week?. may continue it as a working document for the 'appeal'-->
+
+<!--"DEMAND v. Petition" https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/Complaints/Presidential_Campaign/_resources/trump/petition-for-enforcement-of-election-law.pdf-->
