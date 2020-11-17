@@ -4,7 +4,7 @@
 
 ~ *US News* November 5th, 2020; [^1][1]
 
-## [Stay up to date](https://www.google.com/search?&q=site%3Ahttps%3A%2F%2Fcdn.donaldjtrump.com%2F+*.pdf)
+## [Stay up to date](https://www.google.com/search?&q=site%3Ahttps%3A%2F%2Fcdn.donaldjtrump.com%2F+*.pdf) & [SCOTUS .pdf Search](https://duckduckgo.com/?q=site%3Asupremecourt.gov+*.pdf)
 
 [Trump Election Lawsuits List](https://lawandcrime.com/2020-election/what-you-need-to-know-about-trump-campaigns-post-election-day-lawsuits/) <!--archived "https://web.archive.org/web/20201111065857/https://lawandcrime.com/2020-election/what-you-need-to-know-about-trump-campaigns-post-election-day-lawsuits/"-->
 
@@ -15,6 +15,10 @@ Arizona
 Michigan
 
 Nevada
+
+North Carolina
+
+- [SCOTUS NC Elections](https://www.supremecourt.gov/DocketPDF/20/20A71/158465/20201022093436364_WISE%20SCOTUS%20Emergency%20Injunction.pdf)<!--https://web.archive.org/web/20201103085458/https://www.supremecourt.gov/DocketPDF/20/20A71/158465/20201022093436364_WISE%20SCOTUS%20Emergency%20Injunction.pdf-->
 
 Pennsylvania
 
