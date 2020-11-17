@@ -9,7 +9,7 @@ NO. 20-2965 c/w 20-2966
 note the PDF's "Required" by the court do not allow for enough room to list defendants -> needs new page creation.
 
 > [impracticable remedies](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L23)
-> 
+
 Trumps capaign had a victory in PA  
 Trump has filed on Nov. 6th
 
@@ -47,7 +47,6 @@ December 14th
 
 [A :: B](https://en.wikipedia.org/wiki/List_of_logic_symbols "getting there")
 > likely ... injury 'redressed by a favorable decision.'
-> >
 
 > Dumas's complaints do not establish any of these indispensable elements
 
@@ -105,10 +104,11 @@ This is an effective limitation. Like all state laws, those regulating voting fo
 ~ which source ... in [support.md](/actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md)
 
 Challenges to the ORDER:
+
 - impracticable (should send to proper jurisdiction)
   - TRUMP NV Case Stokke et al v. Cegavske et al, 2:20-cv-02046-DJA (10,000 non-Resident Votes)
   - November 6th
-  - SCOTUS PA Case 
+  - SCOTUS PA Case
 
 <!--made this a while back; thought I had more things to remove, hadn't committed it for nearly a week?. may continue it as a working document for the 'appeal'-->
 
