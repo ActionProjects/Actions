@@ -1,11 +1,16 @@
 # SCOTUS Electoral College Decision
 
 The decision invalidates the central role of the Electoral College.
+
 The Electors chuse [sic] the President; and, the systems faith is in knowing this whole's discretionary character; predicated upon their nomination and election to position.
 
-The state legislature to mandate a Popular Vote to take all minifies the core to merely a 'point system;' whereby no Electors are needed.
+The state legislature to mandate a Popular Vote to take all relegates the core to merely a 'point system;' whereby no Electors are needed.
 
-<!-- Time to make a timely decision when NV Stokkes issues present themselves, among other issues.-->
+This *stare decisis* of an improper *status quo* furthers the slide down the *slippery slope* invalidating the purpose of the meeting of the Electors; as, a *quorum.*
+
+Instead I contend that the perpetuation of the 'unexpected evolution'<!--cite July 6ht--> of the 'party system' has created further divide and contention among the Union.
+
+<!-- Time to make a timely decision when NV Stokkes issues present themselves, among other issues. -->
 
 ## The meeting of the Electors to sign on their, final, decisions
 
