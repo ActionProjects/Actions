@@ -1,4 +1,4 @@
-# Trumplvania
+# Trump Suits
 
 > Trump's team scored a favorable ruling out of Pennsylvania where a state court ruled that poll watchers can stand closer to observe the vote-counting process in Philadelphia.
 
