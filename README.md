@@ -58,6 +58,7 @@ do the things
     - [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77)<!--These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.-->
 - vids <!--make page--> [deconDarts Channel](https://bittube.tv/profile/deconDarts)
 - [on BadAss Uncle Sam](https://m.youtube.com/watch?v=1AlzucQ7uDM)<!--start time--> introduced around 1:30 (needs correction) in @ 13:55
+- [NOLA](https://clips.twitch.tv/ArtisticSincereRutabagaWholeWheat)
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
 
