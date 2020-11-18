@@ -53,9 +53,10 @@ do the things
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 
 ## loggin'
+
 - [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md "caution lrgPics")<!--{#todo+todo img resize, add content, thumbnails & links}-->
-  - [Officer's Ambushed! See ***MY*** Vid](actions/pages/postBlogPicsMyb.md#my-interview-and-video)
-    - [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77)<!--These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.-->
+- [Officer's Ambushed! See ***MY*** Vid](actions/pages/postBlogPicsMyb.md#my-interview-and-video)
+  - [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77)<!--These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.-->
 - vids <!--make page--> [deconDarts Channel](https://bittube.tv/profile/deconDarts)
 - [on BadAss Uncle Sam](https://m.youtube.com/watch?v=1AlzucQ7uDM)<!--start time--> introduced around 1:30 (needs correction) in @ 13:55
 - [NOLA](https://clips.twitch.tv/ArtisticSincereRutabagaWholeWheat)
@@ -80,6 +81,7 @@ do the things
 
 - Places to contribute findings:
   - [wiki](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)<!--https://web.archive.org/web/20201117220224/https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas-->
+  <!-- - distributed encrypted alts -->
 
 #### about a bunch of stuff
 
@@ -95,4 +97,4 @@ do the things
 
 <!--#todo+todo - ./rel/links!-->
 
-To all those contributors who've held me up; helped me along; given me advice, and opportunity; for all the invisible, yet very real<!-- pieces that come together-->.
+<!--To all those contributors who've held me up; helped me along; given me advice, and opportunity; for all the invisible, yet very real--><!-- pieces that come together-->.
