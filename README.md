@@ -94,3 +94,5 @@ do the things
 - CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
 
 <!--#todo+todo - ./rel/links!-->
+
+To all those contributors who've held me up; helped me along; given me advice, and opportunity; for all the invisible, yet very real<!-- pieces that come together-->.
