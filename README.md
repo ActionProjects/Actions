@@ -48,7 +48,7 @@ do the things
 
   <sup>- when I hung out in a 'smart college town' the Electoral College was something to get rid of...</sup>
 
-- on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'nto be alright</sup></a>
+- on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'in'to be alright</sup></a>
 
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 
