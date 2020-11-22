@@ -7,7 +7,7 @@
 #### PC = Party Complaint
 #### SoC = Statement of Claim
 
-## [New Orleans, Louisiana {#NOLA}](Complaints/LA/NewOrleans/Legend-NOLA.md)
+### [New Orleans, Louisiana {#NOLA}](Complaints/LA/NewOrleans/Legend-NOLA.md)
 
 #### [FrM = French Market]()
 #### [FMS = French Market Security]()
@@ -19,8 +19,4 @@ Source [^1]
 
 [^1]:  [New_Orleans,_Louisiana](/storage/emulated/0/Documents/markor/theSuits/Complaints/LA/NewOrleans/Legend-NOLA.md)
 
-## Contra Costa County, CA
-
-
-
-### My Great Heading {#custom-id}
+### Contra Costa County, CA
