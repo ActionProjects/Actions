@@ -12,18 +12,21 @@ do the things
 
 - ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
-  - No Campaign Fundraising or Paid Advertising
+  - Style/motif:
 
-  - private social sharing (friends & friends of friends)
+    - No Campaign Fundraising or Paid Advertising
 
-  - "Where's Waldo" style travels
-    - eg: no prior setup, no telling where I'm going next, 'pass-back' what I've done once I've left via SMS.
+    - request
+      - private social sharing (friends & friends of friends)
 
-  - I've been through:
-    - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *[Navajo Nation](https://github.com/ActionProjects/Actions/blob/main/actions/README.md#--volunteer-navajo-nation-decontamination-captured-this-moment) (discussed COVID decon with President Nez, with regards to C.A.R.E.S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
+    - "Where's Waldo" style travels
+      - eg: no prior setup, no telling where I'm going next, 'pass-back' what I've done once I've left via SMS.
 
-  - [a wikiDraft](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)
-    - [Qualified Write-Ins](https://web.archive.org/web/20201117175227/https://www.countyofnapa.org/DocumentCenter/View/16379/March-3-2020--Qualified-Write-In-Candidates---President) <sub>-note Libertarian & CA SoS/ ElDo Elections Complaint</sub>
+    - I've been through:
+      - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *[Navajo Nation](https://github.com/ActionProjects/Actions/blob/main/actions/README.md#--volunteer-navajo-nation-decontamination-captured-this-moment) (discussed COVID decon with President Nez, with regards to C.A.R.E.S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
+
+    - [a wikiDraft](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)
+      - [Qualified Write-Ins](https://web.archive.org/web/20201117175227/https://www.countyofnapa.org/DocumentCenter/View/16379/March-3-2020--Qualified-Write-In-Candidates---President) <sub>-note Libertarian & CA SoS/ ElDo Elections Complaint</sub>
 
 [see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
 <!--#todo+todo deduplication & checkboxes-->
