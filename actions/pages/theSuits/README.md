@@ -39,7 +39,7 @@ How to create a sinkhole for your citizens.
 
   - [Hack the College - SCOTUS](some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
 
-- [NOLA](./Complaints/LA/NewOrleans/Complaint_NOLA.md)
+- [NOLA](Complaints/LA/NewOrleans/NOLA_et-al/Complaint_NOLA.md)
 
 ### An Address is the issue
 
