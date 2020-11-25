@@ -1,5 +1,6 @@
 
 _config.yml
+vsCodeWSpaceActn.code-workspace
 linksLogs/logs_1/markdown-link-check/1_Set up job.txt
 linksLogs/logs_1/markdown-link-check/2_Build gaurav-nelsongithub-action-markdown-link-check@v1.txt
 linksLogs/logs_1/markdown-link-check/3_Run actionscheckout@master.txt
