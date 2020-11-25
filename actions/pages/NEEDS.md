@@ -14,9 +14,12 @@ Coffee for my Office Space
 
 <!--HASH encrypted original -->
 
-## Vehicle Maintenance
+## Travel
 
-To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants; so, let's hand deliver.
+- To D.C. before December ... 
+  - SCOTUS doesn't accept e-files from Pro Se litigants; so, let's hand deliver.
+
+## Vehicle Maintenance
 
 - [ ] wheel lock key ordered from VW
   - [ ] install Spare
@@ -29,13 +32,13 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
 
 ## Information Requests
 
-- [ ] Public Records
-  - [ ] <details open><summary>California</summary>
-    - [ ] El Dorado County
-    - [ ] Sacramento County
-    - [ ] Contra Costa County
-    - [ ] San Francisco
-    - [ ] Merced County
+<details open><summary>Public Records</summary><!--nesting checkboxes issues #todo+todo -->
+  <details closed><summary> CA </summary><br>
+    - [ ] El Dorado County<br>
+    - [ ] Sacramento County<br>
+    - [ ] Contra Costa County<br>
+    - [ ] San Francisco<br>
+    - [ ] Merced County<br>
 </details>
   - [ ] <details><summary>Washington</summary>
     <details><summary>- [ ] Seattle</summary><!--goingto lose markdown checklists( & indents?)-->
@@ -47,7 +50,7 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
         - [ ] gps logs<br>
         - [ ] dispatch logs
       </details>
-      <details><summary>- [ ] encounter#2</summary>
+      <details><summary>- [ ] encounter#2 - illegal search</summary>
         - [ ] audios<br>
         - [ ] videos<br>
         - [ ] reports<br>
@@ -58,45 +61,46 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
     </details>
 </details>
   - [ ] <details><summary>Texas</summary>
-    - [ ] Dallas
-      - [ ] encounter#1
-        - [ ] audios
-        - [ ] videos
-        - [ ] reports
-        - [ ] call logs
-        - [ ] gps logs
-        - [ ] dispatch logs
+    - [ ] Dallas<br>
+      - [ ] encounter#1 - Med City Event<br>
+        - [ ] audios<br>
+        - [ ] videos<br>
+        - [ ] reports<br>
+        - [ ] call logs<br>
+        - [ ] gps logs<br>
+        - [ ] dispatch logs<br>
 </details>
   - [ ] <details><summary>Louisiana</summary>
     - [ ] <details><summary>New Orleans</summary>
       - [ ] <details><summary>encounter#1</summary>
         - [ ] <details><summary>audios</summary>
-          - [ ] NOPD
-          - [ ] State Trooper
+          - [ ] NOPD<br>
+          - [ ] State Trooper<br>
          </details>
-        - [ ] videos
-          - [ ] French Market
-          - [ ] B.B. Kings
-          - [ ] NOPD
-        - [ ] reports
-          - [ ] NOPD
-          - [ ] DPW - Parking
-        - [ ] call logs
-          - [ ] NOPD
-          - [ ] State Trooper
-          - [ ] AutoPound
-        - [ ] gps logs
-          - [ ] DPW - Parking
-          - [ ] NOPD
-          - [ ] State Trooper
-          - [ ] AutoPound
-        - [ ] dispatch logs
-          - [ ] DPW - Parking
-          - [ ] NOPD
-          - [ ] State Trooper
-          - [ ] AutoPound
+        - [ ] videos<br>
+          - [ ] French Market<br>
+          - [ ] B.B. Kings<br>
+          - [ ] NOPD<br>
+        - [ ] reports<br>
+          - [ ] NOPD<br>
+          - [ ] DPW - Parking<br>
+        - [ ] call logs<br>
+          - [ ] NOPD<br>
+          - [ ] State Trooper<br>
+          - [ ] AutoPound<br>
+        - [ ] gps logs<br>
+          - [ ] DPW - Parking<br>
+          - [ ] NOPD<br>
+          - [ ] State Trooper<br>
+          - [ ] AutoPound<br>
+        - [ ] dispatch logs<br>
+          - [ ] DPW - Parking<br>
+          - [ ] NOPD<br>
+          - [ ] State Trooper<br>
+          - [ ] AutoPound<br>
       </details>
     </details
+  </details>
 </details>
 
-Segwit Compat BTC, P2SH="3BCsp8UVfPdUZCntw9wjgTGsm5N7BQvENp"
+<!-- Segwit Compat BTC, P2SH="3BCsp8UVfPdUZCntw9wjgTGsm5N7BQvENp"-->
