@@ -21,8 +21,8 @@ Liberal Construction [^2][2]:
 - #### Filed in LAED
 
   - [masterComplaint](pages/theSuits/Complaints/masterComplaint.md) submitted 1st commit <!--#todo+todo link .pdf-->
-    - [Dismiss Order formatted](actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md) - [Original pdf](actions/pages/theSuits/filed/Federal/Residence/_assets/LAED-tributes_n_contacts/11-05-2020/085111986347.pdf)
-    - [Response](actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md)
+    - [Dismiss Order formatted](filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md) - [Original pdf](filed/Federal/Residence/_assets/LAED-tributes_n_contacts/11-05-2020/085111986347.pdf)
+    - [Response](filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md)
 
 ## [Residence](actions/pages/theSuits/Complaints/masterComplaint.md#residence)
 <!--{#todo +todo tag "Deficiencies"}-->
@@ -39,7 +39,7 @@ How to create a sinkhole for your citizens.
 
   - [Hack the College - SCOTUS](some-Duplicates/SCOTUS_decision_deficiencies-v.2.md) {#todo +todo linkrefFilePATHChange}
 
-- [NOLA](actions/pages/theSuits/Complaints/LA/NewOrleans/Complaint_NOLA.md)
+- [NOLA](Complaints/LA/NewOrleans/NOLA_et-al/Complaint_NOLA.md)
 
 ### An Address is the issue
 
@@ -48,7 +48,7 @@ How to create a sinkhole for your citizens.
 "Original Signature"
 <!--#todo +todo "deficientSees"}
 ```
-she said no pictures ... even if I put it in .pdf? wtf Connie... what is e-mailing the court good for?
+she said no pictures ... even if I put it in .pdf?
 ```
 
 #### from docs here  
