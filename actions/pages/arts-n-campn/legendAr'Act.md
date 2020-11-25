@@ -7,4 +7,4 @@ Concept
 
 ## [royalPhilCampSafety](royalPhilCampSafety/Concept.md)
 
-
+## [co-mic strippin'](coMicStrip/README.md)
