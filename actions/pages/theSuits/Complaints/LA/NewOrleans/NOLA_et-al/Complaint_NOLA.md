@@ -23,6 +23,9 @@
   - [Issues](#issues)
     - ["Malicious Intent"](#malicious-intent)
   - [NOLA Parking Enforcement & Adjudication](#nola-parking-enforcement--adjudication)
+    - [Auto Pound](#auto-pound)
+      - [Attempted Kidnap](#attempted-kidnap)
+      - [Vandalism](#vandalism)
   - [Art](#art)
   - [Damages](#damages)
   - [individuals](#individuals)
@@ -47,7 +50,7 @@ Discriminatory enforcement & hostile removal from living quarters & freight.
 
 ## Harassment
 
-I took a picture in Navajo Nation ![NavajoCOVIDpicOfPic](/storage/emulated/0/TextNow/TextNow Images/image-2020-09-10-00-18-10.jpg) and printed it, from donations, to create a fundraiser.
+I took a picture in Navajo Nation ![NavajoCOVIDpicOfPic](/_assets/image-2020-09-10-00-18-10.jpg) and printed it, from donations, to create a fundraiser.
 Brad & Joe were speaking loudly about Phase ll vs lll and badly about the Mayor's decision; they were not profiting as before.
 I took the picture and showed Brad, saying "this is why"; when I turned to show Joe he turned to not look saying he didn't want to see. I said "stay ignorant and keep talking shit" Joe
  ![Joe](/storage/emulated/0/DCIM/Camera/VID_20200911_125304393_exported_7881_1603575713333~2.jpg) took offense and came, aggressively, towards me across the street.
@@ -178,6 +181,15 @@ It was noted several times prior to and during the encounter with Joia;, that, "
 ## NOLA Parking Enforcement & Adjudication
 
 In Person and via Mail = NOLA.org listed ways to contest a ticket...
+
+### Auto Pound
+
+#### Attempted Kidnap
+
+#### Vandalism
+
+![cleanLogo](../actions/pages/_assets-logPics/20200718_133543.jpg)
+![vandalizedLogo]()
 
 ## Art <!-- & ADA Compliant Public Access Easements -->
 
