@@ -188,8 +188,10 @@ In Person and via Mail = NOLA.org listed ways to contest a ticket...
 
 #### Vandalism
 
-![cleanLogo](../actions/pages/_assets-logPics/20200718_133543.jpg)
-![vandalizedLogo]()
+![logoSideClean](../../../../../../pages/_assets-logPics/20200718_133543.jpg)
+![logoRearClean]()
+![logoSideVandal]()
+![logoRearVandal]()
 
 ## Art <!-- & ADA Compliant Public Access Easements -->
 
