@@ -21,7 +21,8 @@ To D.C. before December ... SCOTUS doesn't accept e-files from Pro Se litigants;
 - [ ] wheel lock key ordered from VW
   - [ ] install Spare
 - [ ] Tire(s)
-  - [ ] Full Time 4WD is tearing the, unequally sized, tires apart.
+<img src="IMG_20201027_131622573_HDR.jpg" width="20%" height="20%"><img src="IMG_20201027_131628756_HDR.jpg" width="20%" height="20%"><!--  ![chewed1](IMG_20201027_131622573_HDR.jpg) ![chewed2](IMG_20201027_131628756_HDR.jpg) -->
+  - [ ] Full Time 4WD is tearing the, unequally sized, tires apart. {#todo+todo flatTire NoFix Pic}
 [See: pANDorA](htttps://OpenCollective.com/Dartanium)
 
 ## Debaters to initiate

@@ -37,7 +37,7 @@ do the things
 
 <img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%"><!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)-->
 
-<img src="/actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
+<img src="actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
 ### Here's a map of pages linked as of November 16th, 2020 <sub>30 of 68 Linked; so, browse around</sub> <a href="http://ghv.artzub.com/#repo=Actions&climit=500&user=actionprojects"><sup>[this Viz Says More Files & PDFs]</sup></a>
 
@@ -48,6 +48,8 @@ do the things
   - #### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
+  <!--- ![garyText](actions/pages/20201112_082458.jpg)-->
+  - <img src="actions/pages/20201112_082458.jpg" width="20%" height="20%">
 
   <sup>- when I hung out in a 'smart college town' the Electoral College was something to get rid of...</sup>
 
