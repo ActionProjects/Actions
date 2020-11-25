@@ -20,20 +20,20 @@ Liberal Construction [^2][2]:
 
 - #### Filed in LAED
 
-  - [masterComplaint](pages/theSuits/Complaints/masterComplaint.md) submitted 1st commit <!--#todo+todo link .pdf-->
+  - [masterComplaint](Complaints/masterComplaint.md) submitted 1st commit <!--#todo+todo link .pdf-->
     - [Dismiss Order formatted](filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md) - [Original pdf](filed/Federal/Residence/_assets/LAED-tributes_n_contacts/11-05-2020/085111986347.pdf)
     - [Response](filed/Federal/case2.20-cv-029565-MLCF-DPC/orderResponse.md)
 
-## [Residence](actions/pages/theSuits/Complaints/masterComplaint.md#residence)
+## [Residence](Complaints/masterComplaint.md#residence)
 <!--{#todo +todo tag "Deficiencies"}-->
 Patriot Act & Property Tax
 How to create a sinkhole for your citizens.
 
-- [filedProbsTransientResidence](/actions/pages/theSuits/Complaints/masterComplaint.md)
+- [filedProbsTransientResidence](Complaints/masterComplaint.md)
 
   - [residence-SoC.md](filed/Federal/Residence/statementOfClaim.md)
 
-  - [Voters in Transit](Complaints/transient_voter/noVotes.md#barred-from-voting)
+  - [Voters in Transit](filed/Federal/Residence/Elections/transient_voter/noVotes.md#barred-from-voting)
 
 - [Presidential Campaign](Complaints/Presidential_Campaign/README.md)
 
