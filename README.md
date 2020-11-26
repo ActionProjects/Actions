@@ -59,7 +59,7 @@ do the things
 
 ## loggin'
 
-- [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md "caution lrgPics")<!--{#todo+todo img resize, add content, thumbnails & links}-->
+- [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md#washington "caution lrgPics")<!--{#todo+todo img resize, add content, thumbnails & links}-->
 - [Officer's Ambushed! See ***MY*** Vid](actions/pages/postBlogPicsMyb.md#my-interview-and-video)
   - [Interview about my Video](https://www.wwltv.com/article/news/crime/new-video-aftermath-of-nopd-shooting/289-1e2fdc3d-0f0a-4b66-a32f-e0e02dc6de77)<!--These guys used the wrong name and failed to implement the watermark denoting the source; as well as failed to compensate for exclusivity; I don't even want to use their link.-->
 - vids <!--make page--> [deconDarts Channel](https://bittube.tv/profile/deconDarts)
