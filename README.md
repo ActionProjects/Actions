@@ -45,7 +45,7 @@ do the things
 
 - ### Law is Code; right
   
-  - #### [Legal Actions](actions/pages/theSuits/README.md "our country has problems")
+  - #### [Legal Actions](actions/pages/theSuits/README.md#the-suits "our country has problems")
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
   <!--- ![garyText](actions/pages/20201112_082458.jpg)-->
