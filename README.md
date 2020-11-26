@@ -6,9 +6,10 @@ do the things
 
 ## [D'Artagnan's Dartanium](https://OpenCollective.com/Dartanium "Brief Outline earlier this year")
 
-<sub>mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame).</sub>
+<sub>Under continual construction; please click view on GitHub for more.</sub><sup>Feel free to contribute an issue.</sup>
+<sub>Mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame - after going to "View on Github").</sub>
 
-## [Actions](actions/README.md "Top Level")
+## [Actions](actions/README.md#actions-initialized "Top Level")
 
 - ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
@@ -74,7 +75,7 @@ do the things
   - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
   - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
-## [Assist](actions/pages/NEEDS.md "help hack the Electoral College")
+## [Assist](actions/pages/NEEDS.md#things-that-would-be-helpful "help hack the Electoral College")
 
 - finding opportunity and support where I go.
 
