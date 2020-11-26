@@ -70,7 +70,7 @@ do the things
 
 - ### from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F., Bay Area, California
 
-  - [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}. Did the Enforcing Officers Fail their Duty?}")
+  - [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}}. Did the Enforcing Officers Fail their Duty?")
   - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
   - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
