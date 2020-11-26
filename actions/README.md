@@ -53,21 +53,27 @@ Tow Truck Operator transition to familial tasks + paperwork started. *imgs on lo
 Deployed web presence & structured more concepts:
 
 - [Electric RickShaw](pages/2019/ers.md)
+
 - Wepwawet (privacy in public)
+
 - FireSide Chats
   - Getting my Electoral College "Pledges" with a ***Hack the Electoral College*** Campaign
   - find me on things like "Couchsurfing"
+
 - [Sleucebox Politics](pages/2019/sbp.md)
   - Curated & Conceptualized Implementation; advocated.
+
 - [Feel the Thunberg!](pages/2019/ftt.md)
   - Greta PSA reen***act***ment challenges. (site draft on locked device)
 
 ## [2020](pages/2020)
 
 - [Personal Opposition Spending Project](pages/2020/posp.md), measuring advertising effect. On Scott Santens Discord as @everybody#4559
+
 - [Mask :arrow_up:](pages/2020/mu.md)
   - compounding the Privacy in Public message
   - Protect yourself - P.P.E. Crafting
+
 - Shasta - Redding to Arcata
   - Concept w/ Bruce: [Distributed Food Delivery](pages/2020/dfd.md)
   - Noted [homeless dispersed]() (#todo+todo fixlink cellbrite4video+imgs)
