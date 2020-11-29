@@ -36,7 +36,7 @@ do the things
 [see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
 <!--#todo+todo deduplication & checkboxes-->
 
-## The Race is *Still* ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
+  - ### The Race is *Still* ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
 
 [Dec. 8 & Dec. 14, 2020: Deadline for Resolving Election Disputes - 3 U.S.C. § 5](https://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx) ref: [Support.md](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md) sourcing all suit info.
 
@@ -44,7 +44,8 @@ do the things
 
 <img src="actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
-### Here's a map of pages linked as of November 16th, 2020 <sub>30 of 68 Linked; so, browse around</sub> <a href="http://ghv.artzub.com/#repo=Actions&climit=500&user=actionprojects"><sup>[this Viz Says More Files & PDFs]</sup></a>
+  - ### A map
+  of pages linked as of November 16th, 2020 <sub>30 of 68 Linked; so, browse around</sub> <a href="http://ghv.artzub.com/#repo=Actions&climit=500&user=actionprojects"><sup>[this Viz Says More Files & PDFs]</sup></a>
 
 [![linkLogFiles](linksLogs/LinkMap_4.PNG "Check the LinkLog")](/linksLogs)
 
@@ -63,6 +64,8 @@ do the things
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 
 ## loggin'
+
+___
 
 - [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md#washington "caution lrgPics")<!--{#todo+todo img resize, add content, thumbnails & links}-->
 - [Officer's Ambushed! See ***MY*** Vid](actions/pages/postBlogPicsMyb.md#my-interview-and-video)
