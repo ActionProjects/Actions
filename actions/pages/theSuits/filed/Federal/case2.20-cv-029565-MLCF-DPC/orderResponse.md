@@ -4,6 +4,10 @@
 
 NO. 20-2965 c/w 20-2966
 
+>[On the eve of the 2020 presidential election...](https://github.com/ActionProjects/Actions/blame/15872f8cebf96197a67776ce2880c74e1151636b/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L19)
+
+Judge assumes the wrong election; primarily, 538 votes are at matter here. "[Federal Presidential Election](https://github.com/ActionProjects/Actions/blame/a6dc8f6e71e03f20fdf6d3a973fa07d0b280b491/actions/pages/theSuits/Complaints/masterComplaint.md#L38)"
+
 >[filed two election-related complaints](https://github.com/ActionProjects/Actions/blame/main/actions/pages/theSuits/filed/Federal/case2.20-cv-029565-MLCF-DPC/order.md#L21)
 
 note the PDF's "Required" by the court do not allow for enough room to list defendants -> needs new page creation.
