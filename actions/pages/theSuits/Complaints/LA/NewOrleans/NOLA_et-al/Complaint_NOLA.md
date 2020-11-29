@@ -29,8 +29,9 @@
   - [Art](#art)
   - [Damages](#damages)
   - [individuals](#individuals)
+    - [Fr. Market](#fr-market)
+    - [Decon](#decon)
   - [RICO Act](#rico-act)
-    - [note FEMA issue(s)](#note-fema-issues)
 
 There are two national disasters...
 CDC has placed an eviction moratorium.
@@ -81,6 +82,8 @@ Signage is inconsistent around NOLA.
 
 ## Conspiracy
 
+---
+
 Conspiratorial actions between the French Market operators & "parking enforcement" along with ('retaliatory') harassment.
 
 09/0?/2020:
@@ -96,6 +99,8 @@ Conspiratorial actions between the French Market operators & "parking enforcemen
 
 ## Discriminatory Enforcement
 
+---
+
 ### Tickets
 
 Two tickets
@@ -105,18 +110,18 @@ One minute apart
 - 09-09-2020 12:26
 ![how many tickets to tow?](/storage/emulated/0/bluetooth/CollageMaker_20201012_081409944.jpg)
 Administrator tells attendant
-["Give'm another ticket"]() °{video}°
+<!--["Give'm another ticket"]() °{video}°-->
 
 09-08-2020:
 
 - One invalidated
-[]()°{audio}°
+<!--[]()°{audio}°-->
 - ![IMG_20201028_170011333](../../../../../../IMG_20201028_170011333.jpg)
 
 09-05-2020:
 
 - One never delivered
-![]()°{pics}°
+<!--![]()°{pics}°-->
 - audio}°
 
 09-01-2020:
@@ -171,6 +176,8 @@ Instigatory Behaviours <!-- Excuses to escalate -->
 
 ## Issues
 
+___
+
     ### Ability to Leave
     ### Signage & Notice
 
@@ -180,12 +187,16 @@ It was noted several times prior to and during the encounter with Joia;, that, "
 
 ## NOLA Parking Enforcement & Adjudication
 
+___
+
 In Person and via Mail = NOLA.org listed ways to contest a ticket...
 
 ### Auto Pound
 
-#### Attempted Kidnap
+___
 
+#### Attempted Kidnap
+<!--#todo+todo ins video-->
 #### Vandalism
 
 ![logoSideClean](../../../../../../pages/_assets-logPics/20200718_133543.jpg)
@@ -193,17 +204,23 @@ In Person and via Mail = NOLA.org listed ways to contest a ticket...
 ![logoSideVandal]()
 ![logoRearVandal]()
 
-## Art <!-- & ADA Compliant Public Access Easements -->
+## Art
 
+<!-- & ADA Compliant Public Access Easements #todo+todo
 **_find Lawrence_**
 **_insert pics of sidewalk venues_**
+-->
+___
 
 ## Damages
 
+___
+
     ### Property
         #### Vehicle
-            Seat Belt
-            Drivetrain
+            Seat Belt - Cut Out
+            Drivetrain - wrong equipment
+            Vandalized Logo
        #### Other
         Food Storage
             Dog
@@ -225,18 +242,28 @@ In Person and via Mail = NOLA.org listed ways to contest a ticket...
 
 ## individuals
 
-1. ### [Leslie "Executive Director"](FrMkt/_assets/images/leslie.md)
+___
 
-2. ### Tim
+### Fr. Market
 
-- #### Failure to oral contract
+1. #### [Leslie "Executive Director"](FrMkt/_assets/images/leslie.md)
+
+### Decon
+
+1. #### Tim
+
+   1. Kurt
+
+      - Failure to maintain oral contract
 
 ## RICO Act
 
+___
+<!--
 ### note FEMA issue(s)
 
 Officers need communication, de-escalation, and situation mitigation training.
 
 Disenfranchisement, further, of affected citizens.
 
-<!-- #todo -->
+#todo -->

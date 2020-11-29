@@ -6,10 +6,14 @@ do the things
 
 ## [D'Artagnan's Dartanium](https://OpenCollective.com/Dartanium "Brief Outline earlier this year")
 
+---
+
 <sub>Under continual construction; please click view on GitHub for more.</sub><sup>Feel free to contribute an issue.</sup>
 <sub>Mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame - after going to "View on Github").</sub>
 
 ## [Actions](actions/README.md#actions-initialized "Top Level")
+
+---
 
 - ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
@@ -45,7 +49,7 @@ do the things
 [![linkLogFiles](linksLogs/LinkMap_4.PNG "Check the LinkLog")](/linksLogs)
 
 - ### Law is Code; right
-  
+
   - #### [Legal Actions](actions/pages/theSuits/README.md#the-suits "our country has problems")
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
@@ -69,6 +73,8 @@ do the things
 
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
 
+---
+
 - ### from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F., Bay Area, California
 
   - [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}}. Did the Enforcing Officers Fail their Duty?")
@@ -76,6 +82,8 @@ do the things
   - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
 ## [Assist](actions/pages/NEEDS.md#things-that-would-be-helpful "help hack the Electoral College")
+
+---
 
 - finding opportunity and support where I go.
 
@@ -93,13 +101,14 @@ do the things
 
 - [FOIA Tools](https://github.com/topics/foia "Freedom of Information Act")
 - [a'count ability](https://github.com/sunlightpolicy/Sunlight_FOIA "enforcer data")
-- [isn't the law what the public is bound by? And it's locked](https://github.com/freelawproject/), [article](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
+- [isn't the law what the public is bound by? And it's locked](https://github.com/freelawproject/),
+  - [article](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
 
 ### [someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
 
 ### CA SoS Req's
 
-- CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
+> CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
 
 <!--#todo+todo - ./rel/links!-->
 
