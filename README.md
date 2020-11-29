@@ -15,7 +15,7 @@ do the things
 
 ---
 
-- ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
+### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
   - Style/motif:
 
@@ -63,9 +63,9 @@ do the things
 
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 
-## loggin'
-
 ___
+
+## loggin'
 
 - [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md#washington "caution lrgPics")<!--{#todo+todo img resize, add content, thumbnails & links}-->
 - [Officer's Ambushed! See ***MY*** Vid](actions/pages/postBlogPicsMyb.md#my-interview-and-video)
@@ -74,9 +74,9 @@ ___
 - [on BadAss Uncle Sam DOTcom](https://m.youtube.com/watch?v=1AlzucQ7uDM)<!--start time--> introduced around 1:30 (needs correction) in @ 13:55
 - [NOLA](https://clips.twitch.tv/ArtisticSincereRutabagaWholeWheat)
 
-## [Who am I?](actions/README.md#experience "some things I've done recently")
+___
 
----
+## [Who am I?](actions/README.md#experience "some things I've done recently")
 
 - ### from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F., Bay Area, California
 
@@ -84,11 +84,13 @@ ___
   - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
   - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
+___
+
 ## [Assist](actions/pages/NEEDS.md#things-that-would-be-helpful "help hack the Electoral College")
 
----
-
 - finding opportunity and support where I go.
+
+___
 
 ### Find out, more <sub>about your candidates</sub>
 
@@ -100,6 +102,8 @@ ___
   - [wiki](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)<!--https://web.archive.org/web/20201117220224/https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas-->
   <!-- - distributed encrypted alts -->
 
+___
+
 #### about a bunch of stuff
 
 - [FOIA Tools](https://github.com/topics/foia "Freedom of Information Act")
@@ -107,9 +111,13 @@ ___
 - [isn't the law what the public is bound by? And it's locked](https://github.com/freelawproject/),
   - [article](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
 
+___
+
 ### someone said
 
 ####  "draw {me} something"... [then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
+
+___
 
 ## Contact Me
 
