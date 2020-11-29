@@ -107,15 +107,22 @@ ___
 - [isn't the law what the public is bound by? And it's locked](https://github.com/freelawproject/),
   - [article](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
 
-### [someone said "draw {me} something"... then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
+### someone said
+
+####  "draw {me} something"... [then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
+
+## Contact Me
+
+through gitHub
+
+or
+
+<form style="border:2px solid #19ff00;padding:3px;text-align:center;" action="https://tinyletter.com/deconDart" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/deconDart', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><strong color: #19ff00;><!--label for="tlemail"-->Submit your email<!--/label--></strong></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/deconDart" target="_blank">sub-Scribe to my Scribbles<br>via Elektronic Mail<br>and respond</a></p></form>
 
 ### CA SoS Req's
 
 > CA SoS said I "had" to have a website w/ my own domain... I decided I would do this during the last month; because, 🖕.
 
 <!--#todo+todo - ./rel/links!-->
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/deconDart" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/deconDart', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Submit your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/deconDart" target="_blank">sub-Scribe to my Scribbles via Elektronic Mail</a></p></form>
-        
-
-<!--To all those contributors who've held me up; helped me along; given me advice, and opportunity; for all the invisible, yet very real--><!-- pieces that come together-->.
+<!--To all those contributors who've held me up; helped me along; given me advice, and opportunity; for all the invisible, yet very real-->
+<!-- pieces that come together-->
