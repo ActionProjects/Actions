@@ -2,7 +2,7 @@
 
 Instrumental in initital negotiations for the $10mil C.A.R.E.S. Act Contract.
 
-[Burke Andersson has the record](http://burkefornevada.com/)
+[Burke Andersson has the record](http://burkefornevada.com/) [![BurkeRuns](http://burkefornevada.com/wp-content/uploads/2020/03/cropped-BurkeAnderssonfrontgraphic-180x60.png)]
 
 ![relPATHcheck](../../_assets/navajoxcerpts/20200701_124740.jpg)
 
