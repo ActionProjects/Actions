@@ -1,8 +1,8 @@
 # [Volunteer Navajo Navajo Decontamination](#vnnd)
 
-Instrumental in initital negotiations for the $10mil C.A.R.E.S. Act Contract.
+Instrumental for $10mil C.A.R.E.S. Act contract; encouraged further $1mil HEPA filtration contract.
 
-[Burke Andersson has the record](http://burkefornevada.com/) [![Burke Haz](https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-0/s100x100/104751636_3087377184689482_1791273595478394424_o.jpg?_nc_cat=106&ccb=2&_nc_sid=7aed08&_nc_ohc=t7-R6KKut4cAX8nOwnp&_nc_ht=scontent-atl3-1.xx&tp=7&oh=fa6286bb19f9ac3307a658a7405e0376&oe=5FEB3E01)](https://www.facebook.com/burke.andersson)<br>
+[Burke Andersson has the record](https://web.archive.org/web/20201021045230/http://burkefornevada.com/) [![Burke Haz](https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-0/s100x100/104751636_3087377184689482_1791273595478394424_o.jpg?_nc_cat=106&ccb=2&_nc_sid=7aed08&_nc_ohc=t7-R6KKut4cAX8nOwnp&_nc_ht=scontent-atl3-1.xx&tp=7&oh=fa6286bb19f9ac3307a658a7405e0376&oe=5FEB3E01)](https://www.facebook.com/burke.andersson)<br>
 [![BurkeRuns](http://burkefornevada.com/wp-content/uploads/2020/03/cropped-BurkeAnderssonfrontgraphic-180x60.png)](https://ballotpedia.org/Burke_Andersson)
 
 - [Sanitation of Government Facilities](https://web.archive.org/web/20200809073809/https://navajotimes.com/rezpolitics/line-item-vetoes-send-wrong-message-nez-nixes-cares-act-funds-for-chapters-hataalii-group/)
