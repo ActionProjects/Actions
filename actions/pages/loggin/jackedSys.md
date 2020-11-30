@@ -44,7 +44,20 @@ A war of finance.
 - $1.2Billion spent <!-- get FEC data-->
   - % in polls
 
-## Emotion>Logic
+## When: Emotion > Logic
 
-[Asch Conformity Studies](__ "confor-mist")
+<!--[Asch Conformity Studies](__ "confor-mist")-->
 
+## [Committee of Eleven](https://github.com/ActionProjects/Actions/blame/bb913a9a95899228a7d27a3b11995b5a61534382/actions/pages/theSuits/Complaints/Presidential_Campaign/_resources/stateElectionPowers/electoralCollege/19-465_i425.md#L196)
+
+<!--
+Why would this method be chosen by this committee?
+...
+Pick the best person ... not the most liked.
+
+source Judge citations
+[line#190-191](https://duckduckgo.com/?q=Federal+Con-+191+vention+of+1787%2C+p.+501+(M.+Farrand+rev.+1966)+(Farrand)&t=brave&ia=web)
+
+[line#193](https://duckduckgo.com/?q=N.+Peirce+%26+L.+Longley%2C+194+The+People%E2%80%99s+President+19%E2%80%9322+(rev.+1981)&t=brave&ia=web)
+
+-->
