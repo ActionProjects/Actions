@@ -11,9 +11,11 @@ do the things
 <sub>Under continual construction; please click view on GitHub for more.</sub><sup>Feel free to contribute an issue.</sup>
 <sub>Mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame - after going to "View on Github").</sub>
 
+___
+
 ## [Actions](actions/README.md#actions-initialized "Top Level")
 
----
+
 
 ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
@@ -26,17 +28,16 @@ do the things
 
     - "Where's Waldo" style travels
       - eg: no prior setup, no telling where I'm going next, 'pass-back' what I've done once I've left via SMS.
-
-    - I've been through:
-      - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *[Navajo Nation](https://github.com/ActionProjects/Actions/blob/main/actions/README.md#--volunteer-navajo-nation-decontamination-captured-this-moment) (discussed COVID decon with President Nez, with regards to C.A.R.E.S. Act*), New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
+      - I've been through:
+        - (*California, Oregon, Washington = Mask ⬆️ & F.B.I. Tacos*)  Idaho, Utah, Arizona. Nevada, *[Navajo Nation](https://github.com/ActionProjects/Actions/blob/main/actions/README.md#--volunteer-navajo-nation-decontamination-captured-this-moment) (discussed COVID decon with H.C.O.C. & President Nez, re: [C.A.R.E.S. Act](__ "$10mil Decon")*, New Mexico, Texas, Louisiana (current); with verbal and written vote pledges
 
     - [a wikiDraft](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)
       - [Qualified Write-Ins](https://web.archive.org/web/20201117175227/https://www.countyofnapa.org/DocumentCenter/View/16379/March-3-2020--Qualified-Write-In-Candidates---President) <sub>-note Libertarian & CA SoS/ ElDo Elections Complaint</sub>
-
-[see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
+     - "My" Electoral College *Candidates*
+       - [see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
 <!--#todo+todo deduplication & checkboxes-->
 
-  - ### The Race is *Still* ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
+  - #### The Race is *Still* ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
 
 [Dec. 8 & Dec. 14, 2020: Deadline for Resolving Election Disputes - 3 U.S.C. § 5](https://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx) ref: [Support.md](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md) sourcing all suit info.
 
@@ -54,14 +55,13 @@ do the things
   - #### [Legal Actions](actions/pages/theSuits/README.md#the-suits "our country has problems")
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
-  <!--- ![garyText](actions/pages/20201112_082458.jpg)-->
-  - <img src="actions/pages/20201112_082458.jpg" width="20%" height="20%">
 
   <sup>- when I hung out in a 'smart college town' the Electoral College was something to get rid of...</sup>
 
 - on, social, bias & reward systems <a href="https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg"><sup>really, it's g'in'to be alright</sup></a>
 
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
+<!-- probabilities / ... "that other thought when ..." -->
 
 ___
 
@@ -94,34 +94,40 @@ ___
 
 ### Find out, more <sub>about your candidates</sub>
 
-- [Open Source Intelligence](https://github.com/topics/osint "long list of stuffs")
-- [Awesome OSINT!](https://github.com/jivoi/awesome-osint "a curated library")
-- [SpiderFoot OSINT](https://github.com/smicallef/spiderfoot "do'no' if it's any good")
+- [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) tools:
+  - [git Topic](https://github.com/topics/osint "long list of stuffs")
+    - [Awesome OSINT!](https://github.com/jivoi/awesome-osint "a curated library")
+    - [SpiderFoot OSINT](https://github.com/smicallef/spiderfoot "do'no' if it's any good")
+  - [Try Online](https://recontool.org/ "ReconTool")
 
 - Places to contribute findings:
   - [wiki](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)<!--https://web.archive.org/web/20201117220224/https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas-->
   <!-- - distributed encrypted alts -->
-
+  <!-- more -->
 ___
 
 #### about a bunch of stuff
 
 - [FOIA Tools](https://github.com/topics/foia "Freedom of Information Act")
+
 - [a'count ability](https://github.com/sunlightpolicy/Sunlight_FOIA "enforcer data")
-- [isn't the law what the public is bound by? And it's locked](https://github.com/freelawproject/),
-  - [article](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
+
+- [public bound by law fees](https://github.com/freelawproject/),
+  - [article: Bloomberg PACER access](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
 
 ___
 
 ### someone said
 
-####  "draw {me} something"... [then this happened](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
+####  "draw {me} something"... [then this started](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
 
 ___
 
 ## Contact Me
 
 through gitHub
+
+- tell me my issues [![mankind](http://www.sophilos.net/GrooksofPietHein_files/image001.gif "Men, said the Devil, are good to their brothers: they don’t want to mend their own ways, but each other's.")](https://github.com/ActionProjects/Actions/issues)
 
 or
 
