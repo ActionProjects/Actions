@@ -11,11 +11,9 @@ do the things
 <sub>Under continual construction; please click view on GitHub for more.</sub><sup>Feel free to contribute an issue.</sup>
 <sub>Mouse hovers over links have info; if U've no 'meece' then read the raw (top right next to blame - after going to "View on Github").</sub>
 
-___
-
 ## [Actions](actions/README.md#actions-initialized "Top Level")
 
-
+___
 
 ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
@@ -63,9 +61,9 @@ ___
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 <!-- probabilities / ... "that other thought when ..." -->
 
-___
-
 ## loggin'
+
+___
 
 - [large, Pic, semi-journal](actions/pages/postBlogPicsMyb.md#washington "caution lrgPics")<!--{#todo+todo img resize, add content, thumbnails & links}-->
 - [Officer's Ambushed! See ***MY*** Vid](actions/pages/postBlogPicsMyb.md#my-interview-and-video)
@@ -74,9 +72,9 @@ ___
 - [on BadAss Uncle Sam DOTcom](https://m.youtube.com/watch?v=1AlzucQ7uDM)<!--start time--> introduced around 1:30 (needs correction) in @ 13:55
 - [NOLA](https://clips.twitch.tv/ArtisticSincereRutabagaWholeWheat)
 
-___
-
 ## [Who am I?](actions/README.md#experience "some things I've done recently")
+
+___
 
 - ### from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F., Bay Area, California
 
@@ -84,13 +82,11 @@ ___
   - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
   - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
-___
-
 ## [Assist](actions/pages/NEEDS.md#things-that-would-be-helpful "help hack the Electoral College")
 
-- finding opportunity and support where I go.
-
 ___
+
+- finding opportunity and support where I go.
 
 ### Find out, more <sub>about your candidates</sub>
 
@@ -115,19 +111,19 @@ ___
 - [public bound by law fees](https://github.com/freelawproject/),
   - [article: Bloomberg PACER access](https://free.law/2020/04/04/as-bloomberg-law-imposes-caps-on-pacer-access-pacer-must-support-academics/)
 
-___
-
 ### someone said
+
+___
 
 ####  "draw {me} something"... [then this started](https://github.com/ActionProjects/Actions/tree/main/actions/pages/arts-n-campn)
 
-___
-
 ## Contact Me
+
+___
 
 through gitHub
 
-- tell me my issues [![mankind](http://www.sophilos.net/GrooksofPietHein_files/image001.gif "Men, said the Devil, are good to their brothers: they don’t want to mend their own ways, but each other's.")](https://github.com/ActionProjects/Actions/issues)
+- tell me my issues [![mankind](http://www.sophilos.net/GrooksofPietHein_files/image001.gif "Men, said the Devil, are good to their brothers: they don’t want to mend their own ways, but each other's. ~Piet Hein 'Grooks'")](https://github.com/ActionProjects/Actions/issues)
 
 or
 
