@@ -131,6 +131,10 @@ through gitHub
 
 or
 
+[Exclusive access](https://docs.google.com/forms/d/e/1FAIpQLSeUhrZPhqdoNplj3HBcDaBeFYJSFOn0UDHWQRm8WXyyXMYMoQ/viewform)
+
+Generall e mailer
+
 <form style="border:2px solid #19ff00;padding:3px;text-align:center;" action="https://tinyletter.com/deconDart" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/deconDart', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><!--label for="tlemail"-->Submit your email<!--/label--></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/deconDart" target="_blank">sub-Scribe to my Scribbles<br>via Elektronic Mail<br>and respond</a></p></form>
 
 ### CA SoS Req's
