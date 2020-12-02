@@ -61,7 +61,7 @@ Competing with emotional 'momentum'/priorKnowledge/attachment of opposition/audi
 
 Presidency pays $300,000/yr (right?)
 
-$1,200,000,000 / ($300,0000/yrs) = 4,000/yrs
+> $1,200,000,000 / ($300,0000/yrs) = 4,000/yrs
 
 ### Randomness and Attention
 
