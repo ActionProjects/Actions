@@ -164,7 +164,7 @@ ___
 
 ---
 
-need test w/ a buck [\$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function")
+need test w/ a buck [\$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function") no address input requirement - concerned of "appLock"<!--being locked to the app-->
 
 ## Contact Me
 
