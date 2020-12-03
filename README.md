@@ -76,19 +76,57 @@ ___
 - [on BadAss Uncle Sam DOTcom](https://m.youtube.com/watch?v=1AlzucQ7uDM)<!--start time--> introduced around 1:30 (needs correction) in @ 13:55
 - [NOLA](https://clips.twitch.tv/ArtisticSincereRutabagaWholeWheat)
 
-## [Who am I?](actions/README.md#experience "some things I've done recently")
+## Who am I
+<!--
+a question we should all ask ourselves. #note plural ref#states -->
+
+In, or around, 2011;
+ I was in a conversation regarding the current state of the world; and,
+  the U.S. Political Affairs.
+Post this discussion,
+ upon our 'good-buys;'
+I was asked if
+ I 'believe in' the things I spoke about, generally.
+Being this:
+ a naturally progressive engagement;
+  dialogue had flowed with no prior decisions on stances or positions.
+I responded that I did,
+ in fact, hold to my heart the perspectives on the topics in light.
+With this clarity in revelation,
+ for the other participant(s);
+  a quesiton was then posed,
+   as an agreement; and,
+    a slight challenge to the roots of the [idealogy](https://www.wordhippo.com/what-is/another-word-for/ideology.html) presented.
+"*This Asshole*"<!--(terms of endearment)-->
+ would vote for me when
+  my name appears on their ballot;
+   I am to run for President,
+    regardless the concept that I would '*win*;'
+     instead, premised, on the notion that 'people' *need* to *hear me speak*.
+     I am not permitted to know which state they are from or a few other caveats.
+     Upon the notion of duty being inlaid to country
+      a primary component and
+       a nudging reminder of this;
+        we shook on the terms
+         in front of witnesses.
+
+### [About Me](actions/README.md#experience "some things in my journey")
+
+Repetition warning: This will not be the only time it's written here, I'm sure: <sup>I had "The Queitest Gator Award" when I was young.</sup>
 
 ___
 
-- ### from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the S.F., Bay Area, California
+- ### 'from this, Constitutionally strong area, ["The State of Jefferson"](https://en.wikipedia.org/wiki/Jefferson_%28proposed_Pacific_state%29#Counties_intending_to_leave_California) to the San Francisco / Bay Area, California
 
   - [Citizen Arrest of County Supervisors <5min](https://krcrtv.com/news/local/all-five-shasta-county-supervisors-placed-under-citizens-arrest-at-board-meeting "if he spoke like we do in C.E.D.A. (check the link in the *Who am I?*) he would've made it through his delivery{{; also, it's not a speaker anymore; it's an, attempted, arrest}}. Did the Enforcing Officers Fail their Duty?")
   - [Armed for Revolt](https://www.sacbee.com/news/california/article246652603.html)
   - [state of Jefferson](https://www.ijpr.org/state-of-jefferson)
 
-## [Assist](actions/pages/NEEDS.md#things-that-would-be-helpful "help hack the Electoral College")
+## Assist
 
 ___
+
+### [helpFULL things](actions/pages/NEEDs.md#things-that-would-be-helpful "Hack the Electoral College")
 
 - finding opportunity and support where I go.
 
@@ -104,7 +142,6 @@ ___
   - [wiki](https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas)<!--https://web.archive.org/web/20201117220224/https://en.wikipedia.org/wiki/Draft:Nicholas_D%27Artagnan_Dumas-->
   <!-- - distributed encrypted alts -->
   <!-- more -->
-___
 
 #### about a bunch of stuff
 
