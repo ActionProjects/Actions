@@ -92,7 +92,7 @@ Being this:
   dialogue had flowed with no prior decisions on stances or positions.
 I responded that I did,
  in fact, hold to my heart the perspectives on the topics in light.
-With this clarity in revelation,
+With this clarity<!--,'s--> in revelation,
  for the other participant(s);
   a quesiton was then posed,
    as an agreement; and,
