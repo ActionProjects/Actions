@@ -139,7 +139,7 @@ GenerAll electronic-mailer
 
 ### *Send it*
 
-test w/ a buck [\$deconDarts](https://cash.app/$deconDarts) ![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)
+test w/ a buck [\$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function")
 
 ### CA SoS Req's
 
