@@ -139,9 +139,13 @@ GenerAll electronic-mailer
 
 ### *Send it*
 
+---
+
 test w/ a buck [\$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function")
 
 ### CA SoS Req's
+
+---
 
 > Oct/Nov2019 CA SoS said I "had" to have a website w/ 'my own' domain... I decided I would do this during the last month; because, 🖕.
 
