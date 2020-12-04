@@ -4,9 +4,22 @@
 
 ### Functionality
 
+Individuals must be functional to operate.
+
 #### Medical
 
-#### Access to Resources
+- #### Access to Resources
 
-#### Enfranchisement
+- #### Enfranchisement
 
+#### Nutrition
+
+physical wellbeing
+
+#### Support Systems
+
+emotional mental wellbeing
+
+#### "Life Schematics"
+
+Routines and Habits; beliefs and actions
