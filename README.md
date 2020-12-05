@@ -156,7 +156,7 @@ ___
 
 - [bound' less](https://www.bbc.com/news/technology-50150981 "BBC uses TOR Onion site hosting")
 
-<!-- lern ya sumpn https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/ #note #todo+todo section -->
+<!-- le'rn y'u s'm'n' https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/ #note #todo+todo section -->
 
 ### someone said
 
@@ -168,7 +168,7 @@ ___
 
 ---
 
-need test w/ a buck [\$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function") no address input requirement - concerned of "appLock"<!--being locked to the app-->
+<!--need test w/ a buck [\$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function") no address input requirement - concerned of "appLock"--><!--being locked to the app-->
 
 ## Contact Me
 
