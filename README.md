@@ -156,7 +156,9 @@ ___
 
 - [bound' less](https://www.bbc.com/news/technology-50150981 "BBC uses TOR Onion site hosting")
 
-<!-- le'rn y'u s'm'n' https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/ #note #todo+todo section -->
+<!-- le'rn y'u s'm'n' https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/ #note #todo+todo section
+anki
+-->
 
 ### someone said
 
@@ -196,3 +198,7 @@ GenerAll electronic-mailer
 <!--#todo+todo - ./rel/links!-->
 <!--To all those contributors who've held me up; helped me along; given me advice, and opportunity; for all the invisible, yet very real-->
 <!-- pieces that come together-->
+<!-- Malcom Gladwell -->
+<!--
+ quickly:[Physics, 2004, 2008, https://patch.com/california/martinez/contra-costa-co-da-resigns-pleads-guilty-perjury, Cool CA,]
+-->
