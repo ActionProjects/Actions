@@ -19,7 +19,7 @@ ___
 
 This all started with a handshake in 2011.
 
-### What is Presidential Fitness
+## What is Presidential Fitness
 
 ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
@@ -41,7 +41,7 @@ This all started with a handshake in 2011.
        - [see the pledges here](actions/_assets/electors)<br>[Ooof, or here](https://github.com/ActionProjects/Actions/tree/main/actions/pages/theSuits/Complaints/_assets/electoralSigs)
 <!--#todo+todo deduplication & checkboxes-->
 
-  - #### The Race is *Still* ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
+  - ##### The Race is *Still* ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
 
 [Dec. 8 & Dec. 14, 2020: Deadline for Resolving Election Disputes - 3 U.S.C. § 5](https://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx) ref: [Support.md](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md) sourcing all suit info.
 
@@ -49,7 +49,7 @@ This all started with a handshake in 2011.
 
 <img src="actions/pages/theSuits/Complaints/Presidential_Campaign/Election-Certification.PNG" width="25%" height="25%">
 
-  - ### A map
+  - #### A map
   of pages linked as of November 16th, 2020 <sub>30 of 68 Linked; so, browse around</sub> <a href="http://ghv.artzub.com/#repo=Actions&climit=500&user=actionprojects"><sup>[this Viz Says More Files & PDFs]</sup></a>
 
 [![linkLogFiles](linksLogs/LinkMap_4.PNG "Check the LinkLog")](/linksLogs)
@@ -159,6 +159,8 @@ ___
 <!-- le'rn y'u s'm'n' https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/ #note #todo+todo section
 anki
 -->
+
+- discrimination, prejudice, and such in my country.<sup>too many individuals abusing their positions; from the coffee shops to the court clerks</sup>
 
 ### someone said
 
