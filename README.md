@@ -58,6 +58,8 @@ This all started with a handshake in 2011.
 
   - #### [Legal Actions](actions/pages/theSuits/README.md#the-suits "our country has problems")
 
+![address required](./Screenshot_20201210-072115_Gmail.jpg)
+
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
   <sup>- when I hung out in a 'smart college town' the Electoral College was something to get rid of...</sup>
