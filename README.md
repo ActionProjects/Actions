@@ -59,7 +59,8 @@ This all started with a handshake in 2011.
   - #### [Legal Actions](actions/pages/theSuits/README.md#the-suits "our country has problems")
 
 This is a primary component to the case: "Address" vs "Residency"
-![address required](./Screenshot_20201210-072115_Gmail.jpg)
+![address required CA5](./Screenshot_20201210-072115_Gmail.jpg)
+![address required PACER](./Screenshot_20201120-105208_Brave.jpg)
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
