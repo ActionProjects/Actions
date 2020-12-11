@@ -62,6 +62,8 @@ This is a primary component to the case: "Address" vs "Residency"
 ![address required CA5](./Screenshot_20201210-072115_Gmail.jpg)
 'Already filed/filing Pro Se'
 ![address required PACER](./Screenshot_20201120-105208_Brave.jpg)
+Witnessed an officer being shot in the face.
+![address required NOLA Vict Wit](./Screenshot_20201211-032208_TextNow.jpg)
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
