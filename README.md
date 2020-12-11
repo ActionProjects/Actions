@@ -60,6 +60,7 @@ This all started with a handshake in 2011.
 
 This is a primary component to the case: "Address" vs "Residency"
 ![address required CA5](./Screenshot_20201210-072115_Gmail.jpg)
+'Already filed/filing Pro Se'
 ![address required PACER](./Screenshot_20201120-105208_Brave.jpg)
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
