@@ -43,6 +43,8 @@ This all started with a handshake in 2011.
 
   - ##### The Race is *Still* ON [Trump Campaign site pdf search](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md#stay-up-to-date)
 
+![CA5 Address](./20201213_052921.jpg)
+
 [Dec. 8 & Dec. 14, 2020: Deadline for Resolving Election Disputes - 3 U.S.C. § 5](https://www.ncsl.org/research/elections-and-campaigns/the-electoral-college.aspx) ref: [Support.md](actions/pages/theSuits/Complaints/Presidential_Campaign/Support.md) sourcing all suit info.
 
 <img src="https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png" width="25%" height="25%"><!--![Why I'm *still* 'running' after Nov. 3rd](https://web.archive.org/web/20201112144957/https://pbs.twimg.com/media/EgRANhgWkAM32cK?format=png)-->
