@@ -27,7 +27,7 @@ Coffee for my Office Space
   - [ ] install Spare
 - [ ] Tire(s)
 <img src="IMG_20201027_131622573_HDR.jpg" width="20%" height="20%"><img src="IMG_20201027_131628756_HDR.jpg" width="20%" height="20%"><!--  ![chewed1](IMG_20201027_131622573_HDR.jpg) ![chewed2](IMG_20201027_131628756_HDR.jpg) -->
-  - [ ] Full Time 4WD is tearing the, unequally sized, tires apart. {#todo+todo flatTire NoFix Pic}
+  - [ ] Full Time 4WD is tearing the, unequally sized, tires apart. <!--#todo+todo flatTire NoFix Pic-->
 [See: pANDorA](htttps://OpenCollective.com/Dartanium)
 
 ## Debaters to initiate
