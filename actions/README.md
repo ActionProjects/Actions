@@ -24,6 +24,8 @@ I believe in the {conceptual & executive} pinnacles of mastering a 'niche'
 
 ## What have I been up to?
 
+---
+
 ### [2018](pages/2018)
 
 #### *See Nicholas D'Artagnan Dumas as President*
@@ -79,7 +81,7 @@ Deployed web presence & structured more concepts:
   - Noted [homeless dispersed]() (#todo+todo fixlink cellbrite4video+imgs)
     - County & State Solutions along travels.
 
-### - [F.B.I. Tacos!](pages/2020/fbit.md) Fried Bread "Indian" Tacos!
+### - [F.B.I. Tacos!](pages/2020/fbit.md) Fried Bread "Indian" Tacos! with a Full Blood Indian
 
 - ![FBI Nola pic](pages/_assets-logPics/20200820_130020.jpg)
 
@@ -97,6 +99,27 @@ Deployed web presence & structured more concepts:
 ## ['Suits](https://github.com/ActionProjects/Actions/blob/main/actions/pages/theSuits/README.md)
 
 ### [Residency Issue Discoveries](pages/theSuits/filed/Federal/Residence)
+
+
+- F.B.I. Tacos! In Seattle, until "C.H.A.Z."
+  - Full Blood Indian / Fry Bread Indian Tacos
+
+- Navajo Nation
+  - Volunteer Consultant
+    - CARES ACT
+      - Decontamination
+      - HEPA Filtration Retrofit
+
+- assist, FEMA Food Contractor Termination
+
+
+## 2021
+
+- PCB excessive force
+
+- SCOTUS filed
+
+---
 
 - [x] Action Initialized
 - [ ] Awaiting Action
