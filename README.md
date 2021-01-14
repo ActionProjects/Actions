@@ -126,7 +126,8 @@ With this clarity<!--,'s--> in revelation,
        a nudging reminder of this;
         we shook on the terms
          in front of witnesses.
-Part of 'my campaign' is to make it impossible; invalidating the status quo.
+
+<!-- Part of 'my campaign' is to make it impossible; updating the status quo; while, still completing (a portion of) my portion of the agreement.-->
 
 ### [About Me](actions/README.md#experience "some things in my journey")
 
