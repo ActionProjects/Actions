@@ -70,8 +70,8 @@ Witnessed an officer being shot in the face.
 ![address required NOLA Vict Wit](./Screenshot_20201211-032208_TextNow.jpg)
 Address Filed
 ![CA5 Address](./20201213_052921.jpg)
-SCOTUS Filed
-![Pro Se Liberal Construction](https://photos.app.goo.gl/efdrJjroqifuy1f39)
+SCOTUS Filed in Propia Persona
+[Pro Se Liberal Construction](https://photos.app.goo.gl/efdrJjroqifuy1f39)
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
