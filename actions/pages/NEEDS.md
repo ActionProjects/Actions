@@ -19,6 +19,8 @@ Coffee for my Office Space
 - To D.C. before December ... 
   - SCOTUS doesn't accept e-files from Pro Se litigants; so, let's hand deliver.
 
+Delivered Tuesday, January 12th, 2021 -> see 'private' sms public album
+
 ## Vehicle Maintenance
 
 [initQuotes](https://drive.google.com/folderview?id=1F5Zw7I_0CsD1K2DsX-9LikAB2HsreXRX)
