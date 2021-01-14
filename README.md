@@ -114,7 +114,7 @@ With this clarity<!--,'s--> in revelation,
   a quesiton was then posed,
    as an agreement; and,
     a slight challenge to the roots of the [idealogy](https://www.wordhippo.com/what-is/another-word-for/ideology.html) presented.
-"*This Asshole*"<!--(terms of endearment)-->
+"*This Asshole*"<!--(a mother insisted on this term of endearment)-->
  would vote for me when
   my name appears on their ballot;
    I am to run for President,
