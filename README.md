@@ -126,6 +126,7 @@ With this clarity<!--,'s--> in revelation,
        a nudging reminder of this;
         we shook on the terms
          in front of witnesses.
+Part of 'my campaign' is to make it impossible; invalidating the status quo.
 
 ### [About Me](actions/README.md#experience "some things in my journey")
 
