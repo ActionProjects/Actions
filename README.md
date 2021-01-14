@@ -25,7 +25,9 @@ This all started with a handshake in 2011.
 
   - Style/motif:
 
-    - No Campaign Fundraising or Paid Advertising
+    - "Backwards" campaign of Actions
+
+    - No; Committee, Campaign Fundraising, or Paid Advertising
 
     - request
       - private social sharing (friends & friends of friends)
