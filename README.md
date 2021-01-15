@@ -87,9 +87,15 @@ SCOTUS Filed in Propia Persona
 
 ~ ask where it's from
 
-Spot the difference:
 War Games
-[Red](Antifa.com) antifa v [Blue](https://youtu.be/nz-zWeqtVo8) Capitol Insurgents
+
+Spot the difference:
+
+[Red](Antifa.com) ANTIFA v [Blue](https://youtu.be/nz-zWeqtVo8) Capitol Insurgents
+
+A country, set up, at war with itself.
+
+There is no us vs them; it's all us...
 
 ## loggin'
 
