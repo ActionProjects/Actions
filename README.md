@@ -83,7 +83,7 @@ SCOTUS Filed in Propia Persona
 <!-- probabilities / ... "that other thought when ..." -->
 
 
->> 'Have to have "dictators" who really believe in democracy to prevent democracy from voting for dictatorships.'
+> 'Have to have "dictators" who really believe in democracy to prevent democracy from voting for dictatorships.'
 
 ~ ask where it's from
 
