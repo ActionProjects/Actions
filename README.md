@@ -71,7 +71,7 @@ Witnessed an officer being shot in the face.
 Address Filed
 ![CA5 Address](./20201213_052921.jpg)
 SCOTUS Filed in Propia Persona
-[Pro Se Liberal Construction](https://photos.app.goo.gl/efdrJjroqifuy1f39)
+![Pro Se Liberal Construction](https://photos.app.goo.gl/efdrJjroqifuy1f39=w500-h500)
 
 - ### Hijacked System - the "Electoral College" & are "Parties Special Interest" (coming)
 
@@ -81,6 +81,15 @@ SCOTUS Filed in Propia Persona
 
 - ***How to do it right.*** <a href="https://www.psychologytoday.com/us/blog/reading-minds/201702/three-myths-about-reading-levels"><sup>would you trust a bunch of 5th Graders?</sup></a>
 <!-- probabilities / ... "that other thought when ..." -->
+
+
+>> 'Have to have "dictators" who really believe in democracy to prevent democracy from voting for dictatorships.'
+
+~ ask where it's from
+
+Spot the difference:
+War Games
+[Red](Antifa.com) antifa v [Blue](https://youtu.be/nz-zWeqtVo8) Capitol Insurgents
 
 ## loggin'
 
