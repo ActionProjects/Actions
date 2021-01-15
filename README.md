@@ -93,7 +93,7 @@ Spot the difference:
 
 [Red](Antifa.com) ANTIFA v [Blue](https://youtu.be/nz-zWeqtVo8) Capitol Insurgents
 
-[Who.is antifa?](https://who.is/whois/antifa.com)
+[Who.is antifa?](https://who.is/whois/antifa.com) <!--have you heard of the "Panama Paper How To"-->
 
 A country, set up, at war with itself.
 
