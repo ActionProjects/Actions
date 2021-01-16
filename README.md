@@ -87,7 +87,7 @@ SCOTUS Filed in Propia Persona
 
 ~ ask where it's from
 
-War Games
+**War Games**
 
 Spot the difference:
 
@@ -217,7 +217,7 @@ ___
 
 ---
 
-<!--need test w/ a buck [\$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function") no address input requirement - concerned of "appLock"--><!--being locked to the app-->
+[$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function") <!-- address input requirement, for card & KYC-->
 
 ## Contact Me
 
