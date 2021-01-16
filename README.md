@@ -223,7 +223,7 @@ ___
 
 ## Contact Me
 
-Testing ["ManyVerse"app](https://f-droid.org/en/packages/se.manyver/) @C4zDerM9O1YwKDVsXidZINzDRwjsbmNdEkWehatl1h0=.ed25519
+[1st](https://f-droid.org/F-Droid.apk) for Testing ["ManyVerse"app](https://f-droid.org/en/packages/se.manyver/) @C4zDerM9O1YwKDVsXidZINzDRwjsbmNdEkWehatl1h0=.ed25519
 
 ___
 
