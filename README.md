@@ -219,6 +219,8 @@ ___
 
 [$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function") <!-- address input requirement, for card & KYC-->
 
+3BCsp8UVfPdUZCntw9wjgTGsm5N7BQvENp 
+
 ## Contact Me
 
 ___
