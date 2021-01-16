@@ -99,6 +99,17 @@ A country, set up, at war with itself.
 
 There is no us vs them; it's all us...
 
+## COVID
+
+---
+
+### Protect Yourself
+
+- Ref Mask Up Campaign
+- Survival
+  - Today <!-- -->
+  - Eons <!-- 3.7% DNA Fetal Development Stage Triggers from Viruses . Gametes & 'Gambits' -->
+
 ## loggin'
 
 ___
