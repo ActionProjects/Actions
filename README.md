@@ -216,14 +216,16 @@ ___
 ### *Send it*
 
 ---
+<!--
+[$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function") <!-- address input requirement, for card & KYC
 
-[$deconDarts](https://cash.app/$deconDarts "help me gitit done") [![scan](https://cash.app/qr/$deconDarts?size=100&margin=0)](https://cash.app/$deconDarts "help me function") <!-- address input requirement, for card & KYC-->
-
-3BCsp8UVfPdUZCntw9wjgTGsm5N7BQvENp ![compatible](https://photos.app.goo.gl/uBefJDoBLDDQd5BP9=w500-h500)
+3BCsp8UVfPdUZCntw9wjgTGsm5N7BQvENp ![compatible](https://photos.app.goo.gl/uBefJDoBLDDQd5BP9=w500-h500) -->
 
 ## Contact Me
 
 [1st](https://f-droid.org/F-Droid.apk) for Testing ["ManyVerse"app](https://f-droid.org/en/packages/se.manyver/) @C4zDerM9O1YwKDVsXidZINzDRwjsbmNdEkWehatl1h0=.ed25519
+
+[Meet in **Matrix**](https://matrix.to/#/@decondarts:matrix.org)
 
 ___
 
