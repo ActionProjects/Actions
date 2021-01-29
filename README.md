@@ -23,9 +23,27 @@ This all started with a handshake in 2011.
 
 ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
-  - Style/motif:
+  - 2024:
 
-    - "Backwards" campaign of Actions
+    - Continuing to "address" issues.
+
+      - FEC Committee Requirement(s)
+
+        - 2020 Committee Information Deleted without record by FEC, 10 days
+
+        - Inability to edit Candidate Information
+
+    - Get on the Ballot & cancel it out
+
+      - neutralize Presidential madness
+
+        - Electors names should be on Ballots, not Presidential Candidates
+
+  - Style/motif 2020:
+
+The handshake requires my name to be on the Ballot, 2020 was a D'Art "Write-In" run 
+
+    - "Backwards" 'campaign' of Actions
 
     - No; Committee, Campaign Fundraising, or Paid Advertising
 
