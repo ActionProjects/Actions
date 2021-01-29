@@ -23,6 +23,8 @@ This all started with a handshake in 2011.
 
 ### [Presidential Run](actions/README.md#what-have-i-been-up-to "What is Presidential Fitness?")
 
+The handshake requires my name to be on the Ballot, 2020 was a D'Art "Write-In" run 
+
   - 2024:
 
     - Continuing to "address" issues.
@@ -40,8 +42,6 @@ This all started with a handshake in 2011.
         - Electors names should be on Ballots, not Presidential Candidates
 
   - Style/motif 2020:
-
-The handshake requires my name to be on the Ballot, 2020 was a D'Art "Write-In" run 
 
     - "Backwards" 'campaign' of Actions
 
