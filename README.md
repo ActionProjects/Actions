@@ -275,3 +275,5 @@ GenerAll electronic-mailer
 <!--
  quickly:[Physics, 2004, 2008, https://patch.com/california/martinez/contra-costa-co-da-resigns-pleads-guilty-perjury, Cool CA,]
 -->
+
+<!-- [![rndLies](https://pequalsnp-team.github.io/assets/beforeafterstegorandom.png "scrts")](https://pequalsnp-team.github.io/assets/beforeafterstegorandom.png)
